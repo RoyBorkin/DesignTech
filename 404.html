@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found — DesignTech</title>
+  <meta name="theme-color" content="#57bed2">
+  <meta name="robots" content="noindex">
+
+  <!-- Deliberately self-contained. GitHub serves this file for any bad URL,
+       at any depth, so relative paths to css/ and img/ cannot be relied on. -->
+  <style>
+    :root { --cyan: #57bed2; --red: #d7262a; --ink: #1c1f21; --gray: #6c6c6c; --line: #e4e7e9; }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 40px 24px;
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 17px;
+      line-height: 1.6;
+      color: #4a5155;
+      background: #fff;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .box { max-width: 480px; text-align: center; }
+
+    .mark {
+      display: flex;
+      justify-content: center;
+      gap: 6px;
+      margin-bottom: 34px;
+    }
+
+    .mark span {
+      width: 30px;
+      height: 30px;
+      mix-blend-mode: multiply;
+    }
+
+    .mark span:nth-child(1) { background: var(--cyan); }
+    .mark span:nth-child(2) { background: var(--red); margin-left: -14px; }
+    .mark span:nth-child(3) { background: var(--cyan); margin-left: -14px; }
+
+    .eyebrow {
+      display: block;
+      font-size: .74rem;
+      font-weight: 600;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--red);
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      font-family: "Space Grotesk", inherit;
+      font-size: clamp(1.8rem, 6vw, 2.6rem);
+      line-height: 1.15;
+      letter-spacing: -.02em;
+      color: var(--ink);
+      margin: 0 0 .5em;
+    }
+
+    p { margin: 0 0 32px; }
+
+    a.btn {
+      display: inline-block;
+      padding: .75em 1.5em;
+      background: #2f9cb2;
+      color: #fff;
+      border-radius: 4px;
+      font-weight: 600;
+      text-decoration: none;
+      transition: background .2s;
+    }
+
+    a.btn:hover { background: #27879b; }
+
+    footer {
+      margin-top: 46px;
+      padding-top: 22px;
+      border-top: 1px solid var(--line);
+      font-size: .85rem;
+      color: var(--gray);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box">
+    <div class="mark" aria-hidden="true"><span></span><span></span><span></span></div>
+
+    <span class="eyebrow">Error 404</span>
+    <h1>This page isn't here</h1>
+    <p>The link may be out of date, or the post may have been removed.</p>
+
+    <a class="btn" id="home" href="/">Go to the blog</a>
+
+    <footer>DesignTech &middot; Technion Design Lab</footer>
+  </div>
+
+  <script>
+    // On a GitHub project site the blog lives at /repository-name/, not at the
+    // domain root, so work out where "home" actually is.
+    (function () {
+      var seg = location.pathname.split('/').filter(Boolean);
+      var isProjectSite = /\.github\.io$/i.test(location.hostname) && seg.length > 0;
+      document.getElementById('home').setAttribute('href', isProjectSite ? '/' + seg[0] + '/' : '/');
+    })();
+  </script>
+</body>
+
+</html>

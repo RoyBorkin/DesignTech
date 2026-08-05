@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Loading… — DesignTech</title>
+  <meta name="description" content="A post from the Technion Design Lab.">
+  <meta name="theme-color" content="#57bed2">
+
+  <link rel="icon" type="image/png" href="img/favicon.png">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">
+        <img src="img/logo.png" alt="DesignTech">
+        <span class="brand-text">Technion Design Lab</span>
+      </a>
+      <div class="header-tools">
+        <a class="admin-link" href="admin.html" title="Write a new post" aria-label="Write a new post">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
+            <path d="M13.1 3.4a1.6 1.6 0 0 1 2.3 0l1.2 1.2a1.6 1.6 0 0 1 0 2.3L7.9 15.6l-4 1 1-4 8.2-9.2Z"
+              stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M12.2 4.6 15.4 7.8" stroke-linecap="round" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="post-header">
+      <div class="wrap">
+        <a class="back-link" href="index.html">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M16 10H5M9 5 4 10l5 5" stroke-linecap="round" stroke-linejoin="round" />
+          </svg>
+          All posts
+        </a>
+        <h1 class="post-title" id="p-title">
+          <span class="sr-only">Loading post</span>
+        </h1>
+        <div class="post-byline" id="p-byline"></div>
+      </div>
+    </div>
+
+    <figure class="post-cover" id="p-cover" hidden>
+      <img id="p-cover-img" src="" alt="">
+    </figure>
+
+    <article class="post-body" id="p-body">
+      <div class="skeleton">
+        <div class="sk sk-line" style="width:92%"></div>
+        <div class="sk sk-line" style="width:98%"></div>
+        <div class="sk sk-line" style="width:74%"></div>
+        <div class="sk sk-line" style="width:88%;margin-top:28px"></div>
+        <div class="sk sk-line" style="width:64%"></div>
+      </div>
+    </article>
+
+    <div class="wrap" style="max-width:760px;padding-bottom:80px">
+      <a class="btn btn-ghost" href="index.html">&larr; Back to all posts</a>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <img src="img/logo.png" alt="DesignTech — Technion Design Lab">
+      <p>&copy; <span id="year">2026</span> DesignTech · Technion Design Lab</p>
+      <p><a href="admin.html">Write a post</a></p>
+    </div>
+  </footer>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+  <script src="config.js"></script>
+  <script src="js/demo-posts.js"></script>
+  <script src="js/drive.js"></script>
+  <script src="js/post.js"></script>
+</body>
+
+</html>
