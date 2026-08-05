@@ -23,12 +23,13 @@ window.DT_CONFIG = {
 
   /* --------------------------------------------------------- google drive */
 
-  // TODO — Google Cloud API key (public read access to the folder).
-  apiKey: '',
+  // Google Cloud API key (public read access to the folder).
+  // Restricted to https://royborkin.github.io/* and the Drive API only.
+  apiKey: 'AIzaSyBCB6_u8PwrnWYSEnY7bKj22p5FBdfNhpg',
 
-  // TODO — Google OAuth 2.0 Web client ID, ends in .apps.googleusercontent.com
-  // (only needed to publish; visitors never use it).
-  clientId: '',
+  // Google OAuth 2.0 Web client ID (only needed to publish; visitors never
+  // use it). Authorised JavaScript origin: https://royborkin.github.io
+  clientId: '400088361902-63evclbv3n9ck78qchooaco9uuh0j3in.apps.googleusercontent.com',
 
   // The Drive folder posts live in. Taken from your shared link.
   folderId: '1Fh0EvAhpeckWWa5vrP08ZTHfYzX7jmyM',
