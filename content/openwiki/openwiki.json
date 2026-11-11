@@ -1,0 +1,34 @@
+{
+  "updated": "2026-11-11T12:00:00.000Z",
+  "lists": [
+    {
+      "id": "digital-fabrication",
+      "name": { "en": "Digital fabrication", "he": "ייצור דיגיטלי" },
+      "description": { "en": "Software and machines for designing and making complex forms.", "he": "תוכנות ומכונות לתכנון ולייצור של צורות מורכבות." },
+      "items": [
+        { "id": "grasshopper", "type": "tool", "title": { "en": "Grasshopper", "he": "Grasshopper" }, "text": { "en": "Visual programming for Rhino: the standard tool for parametric and algorithmic design.", "he": "תכנות חזותי ל־Rhino: הכלי המקובל לעיצוב פרמטרי ואלגוריתמי." }, "url": "https://www.grasshopper3d.com/", "tags": ["parametric", "rhino"], "added": "2026-11-11" },
+        { "id": "blender", "type": "tool", "title": { "en": "Blender", "he": "Blender" }, "text": { "en": "Free, open-source 3D suite for modelling, simulation and rendering.", "he": "תוכנת תלת־ממד חינמית בקוד פתוח למידול, סימולציה ורינדור." }, "url": "https://www.blender.org/", "tags": ["3d", "open source"], "added": "2026-11-11" },
+        { "id": "3d-wasp", "type": "tool", "title": { "en": "WASP clay 3D printing", "he": "הדפסת חימר של WASP" }, "text": { "en": "The maker of the LDM clay extruder used in the lab.", "he": "יצרנית ראש הדפסת החימר LDM שבו משתמשים במעבדה." }, "url": "https://www.3dwasp.com/en/", "tags": ["clay", "printing"], "added": "2026-11-11" }
+      ]
+    },
+    {
+      "id": "reef-restoration",
+      "name": { "en": "Reef restoration", "he": "שיקום שוניות" },
+      "description": { "en": "Science, projects and organisations working to bring coral reefs back.", "he": "מחקר, פרויקטים וארגונים שפועלים להשיב את שוניות האלמוגים." },
+      "items": [
+        { "id": "noaa-crcp", "type": "article", "title": { "en": "NOAA Coral Reef Conservation Program", "he": "תוכנית שימור שוניות האלמוגים של NOAA" }, "text": { "en": "Background, data and restoration programmes from the US national program.", "he": "רקע, נתונים ותוכניות שיקום מהתוכנית הלאומית האמריקאית." }, "url": "https://coralreef.noaa.gov/", "tags": ["coral", "data"], "added": "2026-11-11" },
+        { "id": "reef-design-lab", "type": "project", "title": { "en": "Reef Design Lab", "he": "Reef Design Lab" }, "text": { "en": "A design studio building artificial reef and marine habitat structures.", "he": "סטודיו לעיצוב שבונה שוניות מלאכותיות ומבנים לבתי גידול ימיים." }, "url": "https://www.reefdesignlab.com/", "tags": ["artificial reef"], "added": "2026-11-11" },
+        { "id": "levy-2022", "type": "paper", "title": { "en": "Emerging 3D technologies for future reformation of coral reefs", "he": "Emerging 3D technologies for future reformation of coral reefs" }, "text": { "en": "The 2022 paper on designing printed reefs from 3D scans and environmental DNA.", "he": "המאמר מ־2022 על תכנון שוניות מודפסות מסריקות תלת־ממד ו־DNA סביבתי." }, "url": "https://doi.org/10.1016/j.scitotenv.2022.154749", "tags": ["3d printing", "biomimetics"], "added": "2026-11-11" }
+      ]
+    },
+    {
+      "id": "design-thinking",
+      "name": { "en": "Design thinking", "he": "חשיבה עיצובית" },
+      "description": { "en": "Methods and courses for teaching and practising design thinking.", "he": "שיטות וקורסים ללימוד ולתרגול של חשיבה עיצובית." },
+      "items": [
+        { "id": "ideo-design-thinking", "type": "article", "title": { "en": "IDEO: Design Thinking", "he": "IDEO: חשיבה עיצובית" }, "text": { "en": "IDEO's introduction to design thinking, with history and resources.", "he": "המבוא של IDEO לחשיבה עיצובית, עם היסטוריה ומקורות." }, "url": "https://designthinking.ideo.com/", "tags": ["method"], "added": "2026-11-11" },
+        { "id": "dschool-resources", "type": "course", "title": { "en": "Stanford d.school resources", "he": "משאבי d.school של סטנפורד" }, "text": { "en": "Free activities, guides and tools from the Hasso Plattner Institute of Design.", "he": "פעילויות, מדריכים וכלים חינמיים מבית הספר לעיצוב של סטנפורד." }, "url": "https://dschool.stanford.edu/resources", "tags": ["teaching", "workshop"], "added": "2026-11-11" }
+      ]
+    }
+  ]
+}

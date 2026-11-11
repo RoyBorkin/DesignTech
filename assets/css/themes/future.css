@@ -10,7 +10,7 @@
   --fg: #121212;
   --fg-2: #3c3c3a;
   --muted: #6a6a66;
-  --line: rgba(18, 18, 18, 0.16);
+  --line: color-mix(in srgb, var(--fg) 14%, transparent);
   --surface: #f7f7f4;
   --surface-2: #d8d8d2;
   --accent: #0f8ea6;
@@ -60,7 +60,7 @@
 .site-nav__link[aria-current="page"]::before { content: ""; position: absolute; inset-inline-start: -0.7rem; top: 50%; width: 5px; height: 5px; border-radius: 50%; background: var(--accent-2); transform: translateY(-50%); }
 .lang-switch { border-radius: 0; border-color: currentColor; }
 html.has-hero .site-header:not(.is-scrolled) { --header-fg: #fff; }
-.site-header.is-scrolled, html:not(.has-hero) .site-header { background: rgba(233, 233, 229, 0.86); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); box-shadow: 0 1px 0 var(--line); }
+.site-header.is-scrolled, html:not(.has-hero) .site-header { background: color-mix(in srgb, var(--bg) 86%, transparent); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); box-shadow: 0 1px 0 var(--line); }
 html.has-hero .site-header:not(.is-scrolled) { --logo-sub: #ddd; }
 
 /* ---------- hero: the instrument ---------- */
@@ -210,3 +210,6 @@ html.has-hero .site-header:not(.is-scrolled) { --logo-sub: #ddd; }
 .mobile-nav { background-image: linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px); background-size: 72px 72px; }
 .mobile-nav .mobile-nav__list a { border-color: rgba(255, 255, 255, 0.14); font-weight: 400; }
 html.has-menu .site-header { --logo-sub: #bdbdbd; }
+.wiki-item__link { border-radius: 0; }
+.wiki-item__type { border-radius: 0; font-family: var(--font-mono); text-transform: uppercase; font-size: 0.65rem; background: var(--fg); color: var(--bg); }
+.wiki-item__host, .wiki-item__date, .wiki-list__count { font-family: var(--font-mono); }

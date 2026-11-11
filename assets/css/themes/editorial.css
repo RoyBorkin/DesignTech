@@ -9,15 +9,15 @@
   --fg: #ebebea;
   --fg-2: #bdbdba;
   --muted: #8d8d89;
-  --line: rgba(235, 235, 234, 0.12);
+  --line: color-mix(in srgb, var(--fg) 14%, transparent);
   --surface: #262628;
   --surface-2: #2b2b2e;
   --yellow: #f2d64b;
-  --accent: #f2d64b;
+  --accent: var(--yellow);
   --accent-fg: #18181a;
   --link: #ebebea;
-  --focus: #f2d64b;
-  --selection-bg: #f2d64b;
+  --focus: var(--yellow);
+  --selection-bg: var(--yellow);
   --selection-fg: #18181a;
   --overlay: rgba(10, 10, 11, 0.8);
   --logo-sub: #bdbdba;
@@ -46,7 +46,7 @@
 
 .site-header { --brand-w: 76px; }
 @media (min-width: 1024px) { html.has-hero .site-header__inner { padding-inline-start: var(--rail); } }
-.site-header.is-scrolled, html:not(.has-hero) .site-header { background: rgba(31, 31, 33, 0.9); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); box-shadow: 0 1px 0 var(--line); }
+.site-header.is-scrolled, html:not(.has-hero) .site-header { background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); box-shadow: 0 1px 0 var(--line); }
 .site-nav__link { font-size: 0.7rem; letter-spacing: 0.22em; text-transform: uppercase; font-weight: 500; color: var(--fg-2); }
 :lang(he) .site-nav__link { font-size: 0.95rem; letter-spacing: 0.02em; }
 .site-nav__link:hover { color: var(--fg); }
@@ -59,7 +59,7 @@
 
 /* ---------- hero: the spread ---------- */
 .hero--editorial { height: 100svh; min-height: 640px; overflow: hidden; display: grid; grid-template-columns: var(--rail) 1fr; }
-.ed-rail { grid-column: 1; position: relative; z-index: 3; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2.5rem; padding: calc(var(--header-h) + 1rem) 0 1.5rem; border-inline-end: 1px solid var(--line); background: #1a1a1c; }
+.ed-rail { grid-column: 1; position: relative; z-index: 3; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2.5rem; padding: calc(var(--header-h) + 1rem) 0 1.5rem; border-inline-end: 1px solid var(--line); background: color-mix(in srgb, var(--bg) 85%, #000); }
 .ed-rail__label, .ed-rail__count { writing-mode: vertical-rl; transform: rotate(180deg); font-size: 0.66rem; letter-spacing: 0.3em; text-transform: uppercase; color: var(--fg-2); white-space: nowrap; }
 [dir="rtl"] .ed-rail__label, [dir="rtl"] .ed-rail__count { transform: none; }
 .ed-rail__count { font-variant-numeric: tabular-nums; letter-spacing: 0.2em; }
@@ -182,3 +182,6 @@
 
 .site-footer__nav a { text-transform: uppercase; letter-spacing: 0.2em; font-size: 0.72rem; }
 :lang(he) .site-footer__nav a { letter-spacing: 0.02em; font-size: 0.95rem; }
+.wiki-item__link { border-radius: 0; background: transparent; }
+.wiki-item__type { border-radius: 0; background: transparent; border: 1px solid var(--yellow); color: var(--yellow); text-transform: uppercase; letter-spacing: 0.16em; font-size: 0.62rem; font-weight: 500; }
+.wiki-list__title { font-weight: 300; }

@@ -10,6 +10,7 @@ export const NAV = [
   { key: "blog", href: "blog.html" },
   { key: "events", href: "events.html" },
   { key: "research", href: "research.html" },
+  { key: "openwiki", href: "openwiki.html" },
   { key: "team", href: "team.html" },
   { key: "contact", href: "contact.html" },
 ];
@@ -103,12 +104,14 @@ export function renderHeader(page) {
     })
   );
 
-  // Header state: over the hero, scrolled, hidden while scrolling down.
+  // Header state: over the hero, scrolled and (only if chosen in Studio) hidden while scrolling down.
+  const autoHide = site.header?.autoHide === true;
+  document.documentElement.classList.toggle("header-locked", !autoHide);
   let lastY = scrollY;
   const onScroll = () => {
     const y = scrollY;
     header.classList.toggle("is-scrolled", y > 24);
-    header.classList.toggle("is-hidden", y > 320 && y > lastY && !document.documentElement.classList.contains("has-menu"));
+    if (autoHide) header.classList.toggle("is-hidden", y > 320 && y > lastY && !document.documentElement.classList.contains("has-menu"));
     lastY = y;
   };
   addEventListener("scroll", onScroll, { passive: true });

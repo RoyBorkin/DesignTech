@@ -14,6 +14,7 @@ const PAGES = {
   events: () => import("./pages/events.js"),
   research: () => import("./pages/research.js"),
   team: () => import("./pages/team.js"),
+  openwiki: () => import("./pages/openwiki.js"),
   contact: () => import("./pages/contact.js"),
   notfound: () => import("./pages/notfound.js"),
 };

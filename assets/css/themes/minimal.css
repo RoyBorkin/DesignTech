@@ -12,7 +12,7 @@
   --fg: #16181b;
   --fg-2: #474b52;
   --muted: #73787f;
-  --line: rgba(22, 24, 27, 0.1);
+  --line: color-mix(in srgb, var(--fg) 14%, transparent);
   --surface: #ffffff;
   --surface-2: #e9ebee;
   --accent: #16181b;
@@ -165,3 +165,6 @@ main > .section:not(.hero) { background: var(--bg); }
 .carousel__track { border-radius: var(--radius-lg); }
 
 .site-footer { border-radius: var(--radius-lg) var(--radius-lg) 0 0; box-shadow: 0 -30px 60px -40px rgba(20, 24, 30, 0.2); }
+.wiki-item__link { border: 0; border-radius: var(--radius-lg); background: #fff; box-shadow: var(--shadow-soft); }
+.wiki-item__type { background: var(--surface-2); }
+.wiki-list__head { border-bottom: 0; }

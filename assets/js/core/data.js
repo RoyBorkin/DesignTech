@@ -13,6 +13,7 @@ export const PATHS = {
   events: "content/events",
   team: "content/team",
   publications: "content/publications",
+  openwiki: "content/openwiki",
 };
 
 export const loadSite = () => getJSON(PATHS.site, {});
@@ -121,4 +122,14 @@ export async function loadPublications() {
   });
   items.sort((a, b) => (b.year || 0) - (a.year || 0) || t(a.title).localeCompare(t(b.title)));
   return { people, items };
+}
+
+export async function loadWiki() {
+  const data = await getJSON(`${PATHS.openwiki}/openwiki.json`, { lists: [] });
+  return (data.lists || [])
+    .filter((l) => !l.hidden)
+    .map((l) => ({
+      ...l,
+      items: (l.items || []).filter((it) => !it.hidden).map((it) => ({ ...it, imageUrl: it.image ? joinPath(PATHS.openwiki, it.image) : "" })),
+    }));
 }

@@ -10,7 +10,7 @@
   --fg: #141414;
   --fg-2: #3a3833;
   --muted: #6d675c;
-  --line: rgba(20, 20, 20, 0.2);
+  --line: color-mix(in srgb, var(--fg) 14%, transparent);
   --surface: #f3eee4;
   --surface-2: #d9d1c1;
   --accent: #d7262a;
@@ -235,3 +235,7 @@ html.has-menu .site-header { --logo-tech: #141414; --logo-overlap: #141414; --lo
   .page-head__deco::after { top: calc(1.25rem + 62px); inset-inline-end: 62px; width: 20px; }
   .page-title { font-size: clamp(3.4rem, 17vw, 5rem); }
 }
+.wiki-item__link { border: 2px solid var(--fg); background: transparent; }
+.wiki-item__type { border-radius: 0; background: var(--accent); color: #fff; text-transform: uppercase; font-size: 0.68rem; }
+.wiki-list__title::before { content: ""; display: inline-block; width: 0.42em; height: 0.42em; margin-inline-end: 0.2em; background: var(--accent); }
+.wiki-list__head { border-bottom: 2px solid var(--fg); }
