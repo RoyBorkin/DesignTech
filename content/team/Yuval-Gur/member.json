@@ -1,0 +1,37 @@
+{
+  "slug": "Yuval-Gur",
+  "order": 10,
+  "group": "staff",
+  "name": {
+    "en": "Yuval Gur",
+    "he": "יובל גור"
+  },
+  "subtitle": {
+    "en": "Lab coordinator · Designer and researcher",
+    "he": "רכז המעבדה · מעצב וחוקר"
+  },
+  "email": "",
+  "linkedin": "",
+  "bio": {
+    "en": "Designer, researcher and lab coordinator at Design Tech, specialising in product design, nature-centered design and 3D printing.",
+    "he": "מעצב, חוקר ורכז המעבדה ב־Design Tech, מתמחה בעיצוב מוצר, בעיצוב ממוקד טבע ובהדפסה בתלת־ממד."
+  },
+  "keywords": [
+    {
+      "en": "Product design",
+      "he": "עיצוב מוצר"
+    },
+    {
+      "en": "Nature-centered design",
+      "he": "עיצוב ממוקד טבע"
+    },
+    {
+      "en": "3D printing",
+      "he": "הדפסה בתלת־ממד"
+    }
+  ],
+  "projects": [],
+  "contact": {
+    "website": "https://yuvalgur.myportfolio.com/"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "event",
+  "id": "2025/06/04/designtech-2025-conference",
+  "start": "2025-06-04",
+  "end": "",
+  "title": {
+    "en": "DesignTech 2025: International Conference",
+    "he": "DesignTech 2025: כנס בינלאומי"
+  },
+  "excerpt": {
+    "en": "Held for the second time at the Technion, the conference let attendees present up-to-date design research and theory.",
+    "he": "הכנס התקיים בטכניון בפעם השנייה ואפשר למשתתפים להציג מחקר ותיאוריה עדכניים בעיצוב."
+  },
+  "when": null,
+  "location": {
+    "en": "Technion, Israel Institute of Technology, Haifa",
+    "he": "הטכניון, חיפה"
+  },
+  "link": "",
+  "cover": ""
+}

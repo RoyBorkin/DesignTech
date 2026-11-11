@@ -1,0 +1,21 @@
+{
+  "type": "event",
+  "id": "2026/05/06/designtech-2026-conference",
+  "start": "2026-05-06",
+  "end": "2026-05-07",
+  "title": {
+    "en": "DesignTech 2026: International Conference on Design and Technology",
+    "he": "DesignTech 2026: הכנס הבינלאומי לעיצוב וטכנולוגיה"
+  },
+  "excerpt": {
+    "en": "The third edition of the conference: a platform for design researchers and practitioners to present current design research and theory.",
+    "he": "המהדורה השלישית של הכנס: במה לחוקרי ולאנשי מקצוע בעיצוב להצגת מחקר ותיאוריה עדכניים."
+  },
+  "when": null,
+  "location": {
+    "en": "Technion, Israel Institute of Technology, Haifa",
+    "he": "הטכניון, חיפה"
+  },
+  "link": "",
+  "cover": "assets/cover.jpg"
+}

@@ -1,0 +1,65 @@
+# Publishes the DesignTech website to GitHub Pages and keeps the Instagram feed fresh.
+# Repository → Settings → Pages → Build and deployment → Source: "GitHub Actions".
+name: Publish site
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    - cron: "17 * * * *" # every hour: new Instagram posts appear within about an hour
+  workflow_dispatch: # Actions → Publish site → "Run workflow" for an instant update
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Sync Instagram
+        id: ig
+        if: ${{ env.IG_TOKEN != '' }}
+        run: node scripts/instagram-sync.mjs
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          IG_LIMIT: "60"
+
+      - name: Rebuild content lists
+        run: node scripts/build-manifests.mjs
+
+      - name: Save new posts and lists to the repository
+        run: |
+          git config user.name "site-sync"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for f in data/instagram.json assets/ig content assets/slideshow/slideshow.json; do [ -e "$f" ] && git add "$f"; done
+          git diff --cached --quiet || (git commit -m "Sync Instagram posts and content lists" && git push)
+
+      - name: Prepare Pages
+        if: ${{ github.event_name != 'schedule' || steps.ig.outputs.changed == 'true' }}
+        uses: actions/configure-pages@v5
+      - name: Upload site
+        if: ${{ github.event_name != 'schedule' || steps.ig.outputs.changed == 'true' }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy
+        id: deploy
+        if: ${{ github.event_name != 'schedule' || steps.ig.outputs.changed == 'true' }}
+        uses: actions/deploy-pages@v4
+    env:
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}

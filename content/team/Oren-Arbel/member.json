@@ -1,0 +1,38 @@
+{
+  "slug": "Oren-Arbel",
+  "order": 21,
+  "group": "phd",
+  "name": {
+    "en": "Oren Arbel",
+    "he": "אורן ארבל"
+  },
+  "subtitle": {
+    "en": "PhD researcher · Ceramic designer",
+    "he": "דוקטורנט · מעצב קרמיקה"
+  },
+  "supervisors": [
+    {
+      "en": "Prof. Ezri Tarazi",
+      "he": "פרופ׳ עזרי טרזי"
+    }
+  ],
+  "bio": {
+    "en": "A ceramic designer researching participatory design. Oren led the lab's reef restoration project with the local community on Beqa Island, Fiji, where reef units were produced by clay extrusion and local firing methods.",
+    "he": "מעצב קרמיקה שחוקר עיצוב משתף. אורן הוביל את פרויקט שיקום השוניות של המעבדה עם הקהילה המקומית באי בקה שבפיג׳י, שם יוצרו יחידות שונית בשיחול חימר ובשריפה מקומית."
+  },
+  "keywords": [
+    {
+      "en": "Participatory design",
+      "he": "עיצוב משתף"
+    },
+    {
+      "en": "Ceramics",
+      "he": "קרמיקה"
+    },
+    {
+      "en": "Community",
+      "he": "קהילה"
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,21 @@
+{
+  "type": "event",
+  "id": "2023/03/30/tel-aviv-biennale-of-crafts-and-design",
+  "start": "2023-03-30T19:00",
+  "end": "",
+  "title": {
+    "en": "Tel Aviv Biennale of Crafts & Design",
+    "he": "הביאנלה לאומנות ועיצוב, תל אביב"
+  },
+  "excerpt": {
+    "en": "Prof. Ezri Tarazi and the Design-Tech Lab exhibit at the biennale. Opening at 19:00.",
+    "he": "פרופ׳ עזרי טרזי ומעבדת Design-Tech מציגים בביאנלה. הפתיחה בשעה 19:00."
+  },
+  "when": null,
+  "location": {
+    "en": "Tel Aviv",
+    "he": "תל אביב"
+  },
+  "link": "",
+  "cover": ""
+}

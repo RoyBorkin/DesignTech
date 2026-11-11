@@ -1,0 +1,303 @@
+{
+  "version": 1,
+  "theme": "apple",
+  "lab": {
+    "name": {
+      "en": "DesignTech",
+      "he": "DesignTech"
+    },
+    "fullName": {
+      "en": "Design Tech Lab, Technion",
+      "he": "מעבדת Design Tech, הטכניון"
+    },
+    "established": "2018",
+    "tagline": {
+      "en": "The main laboratory of the Industrial Design graduate track at the Technion, Israel Institute of Technology.",
+      "he": "המעבדה המרכזית של המסלול לתארים מתקדמים בעיצוב תעשייתי בטכניון, מכון טכנולוגי לישראל."
+    },
+    "coordinates": "32.7767° N, 35.0231° E"
+  },
+  "home": {
+    "headline": {
+      "en": "Design for the Fourth Industrial Revolution",
+      "he": "עיצוב למהפכה התעשייתית הרביעית"
+    },
+    "subhead": {
+      "en": "Graduate design research at the Technion: printed reefs for the marine environment, medical equipment for the field, and new ways to learn through design thinking.",
+      "he": "מחקר עיצוב לתארים מתקדמים בטכניון: שוניות מודפסות לסביבה הימית, ציוד רפואי לשטח ודרכים חדשות ללמוד דרך חשיבה עיצובית."
+    },
+    "cta": {
+      "label": {
+        "en": "Explore our research",
+        "he": "למחקרים שלנו"
+      },
+      "href": "research.html"
+    },
+    "intro": {
+      "en": "Founded in 2018 by Prof. Ezri Tarazi, Design-Tech brings design awareness and design thinking to science and engineering students. The lab gives graduate students in industrial design a place to build almost without limits: from 5-axis milling to clay printing at architectural scale.",
+      "he": "Design-Tech נוסדה ב־2018 על ידי פרופ׳ עזרי טרזי, כדי להביא מודעות לעיצוב וחשיבה עיצובית לסטודנטים למדעים ולהנדסה. המעבדה נותנת לסטודנטים לתארים מתקדמים בעיצוב תעשייתי מקום לבנות כמעט בלי מגבלות: מכרסום בחמישה צירים ועד הדפסת חימר בקנה מידה אדריכלי."
+    },
+    "areas": [
+      {
+        "title": {
+          "en": "Marine environment",
+          "he": "הסביבה הימית"
+        },
+        "text": {
+          "en": "3D-printed clay reefs, designed from scans of living reefs and installed in Eilat and Fiji.",
+          "he": "שוניות חימר מודפסות, שתוכננו מסריקות של שוניות חיות והוצבו באילת ובפיג׳י."
+        },
+        "image": "assets/slideshow/img_0773.jpg"
+      },
+      {
+        "title": {
+          "en": "Medical instrumentation & equipment",
+          "he": "מכשור וציוד רפואי"
+        },
+        "text": {
+          "en": "Life-support and monitoring devices, including a medical bracelet that tracks treatment on the battlefield.",
+          "he": "מערכות תומכות חיים וניטור, ובהן צמיד רפואי שמתעד טיפול בשדה הקרב."
+        },
+        "image": ""
+      },
+      {
+        "title": {
+          "en": "Design culture & thinking",
+          "he": "תרבות וחשיבה עיצובית"
+        },
+        "text": {
+          "en": "How design thinking raises motivation to learn, and how design changes the way engineers work.",
+          "he": "איך חשיבה עיצובית מעלה את המוטיבציה ללמידה, ואיך עיצוב משנה את הדרך שבה מהנדסים עובדים."
+        },
+        "image": "assets/media/clay-3d-printing.jpg"
+      }
+    ],
+    "showcase": [
+      {
+        "video": "assets/media/clay-3d-printing.mp4",
+        "poster": "assets/media/clay-3d-printing.jpg",
+        "caption": {
+          "en": "Clay 3D printing, WASP LDM extruder",
+          "he": "הדפסת חימר בתלת־ממד, ראש WASP LDM"
+        }
+      },
+      {
+        "video": "assets/media/five-axis-milling.mp4",
+        "poster": "assets/media/five-axis-milling.jpg",
+        "caption": {
+          "en": "5-axis milling",
+          "he": "כרסום בחמישה צירים"
+        }
+      }
+    ],
+    "slideshow": {
+      "interval": 6
+    },
+    "latestPosts": 6,
+    "upcomingEvents": 3
+  },
+  "about": {
+    "lede": {
+      "en": "Design has become a strategic resource for successful technology companies, and one of the features new high-tech startups most need to succeed. Design enhances technology and makes it accessible.",
+      "he": "עיצוב הפך למשאב אסטרטגי של חברות טכנולוגיה מצליחות, ולאחד הדברים שסטארט־אפים חדשים צריכים כדי להצליח. עיצוב מעצים את הטכנולוגיה והופך אותה לנגישה."
+    },
+    "sections": [
+      {
+        "id": "initiative",
+        "layout": "split",
+        "title": {
+          "en": "The Technion Design-Tech Initiative",
+          "he": "יוזמת Design-Tech של הטכניון"
+        },
+        "body": {
+          "en": "In 2016, more than a third of the US startups with the most robust investment had at least one designer as a co-founder. Design is now accepted as not just “nice to have”, but one of the key elements required for differentiation and business expansion.\n\nIn Israel, design is traditionally affiliated with art or architecture schools and is hardly present in science, engineering and technology programs. Realizing the urgent need to bring design courses into its engineering curricula, the Technion launched the Design-Tech Initiative.",
+          "he": "ב־2016, ליותר משליש מהסטארט־אפים האמריקאיים עם ההשקעות החזקות ביותר היה לפחות מעצב אחד בין המייסדים. עיצוב כבר אינו ״נחמד שיהיה״, אלא אחד הרכיבים המרכזיים לבידול ולצמיחה עסקית.\n\nבישראל העיצוב משויך באופן מסורתי לבתי ספר לאמנות ולאדריכלות, וכמעט אינו נוכח בתוכניות לימודים במדע, בהנדסה ובטכנולוגיה. מתוך הבנת הצורך הדחוף לשלב קורסי עיצוב בלימודי ההנדסה, השיק הטכניון את יוזמת Design-Tech."
+        },
+        "image": "assets/media/clay-3d-printing.jpg"
+      },
+      {
+        "id": "goals",
+        "layout": "list",
+        "title": {
+          "en": "Two horizons",
+          "he": "שני אופקים"
+        },
+        "items": [
+          {
+            "title": {
+              "en": "Short term",
+              "he": "בטווח הקצר"
+            },
+            "text": {
+              "en": "A cluster of undergraduate electives that expose students from every engineering faculty to design concepts and methodologies. Some classes meet in a studio renovated for design-thinking workshops, with digital sketch surfaces, Post-it boards, digital prototyping tools and furniture that rearranges for teamwork.",
+              "he": "אשכול קורסי בחירה לתואר ראשון שחושף סטודנטים מכל הפקולטות להנדסה למושגים ולמתודולוגיות של עיצוב. חלק מהשיעורים מתקיימים בסטודיו ששופץ לסדנאות חשיבה עיצובית, עם משטחי סקיצה דיגיטליים, לוחות פוסט־איט, כלי אבטיפוס דיגיטליים וריהוט שמתארגן מחדש לעבודת צוות."
+            }
+          },
+          {
+            "title": {
+              "en": "Long term",
+              "he": "בטווח הארוך"
+            },
+            "text": {
+              "en": "A strategic plan for a Technion-wide Design-Tech Center: a central hub built on the experience of running the course cluster.",
+              "he": "תוכנית אסטרטגית להקמת מרכז Design-Tech כלל־טכניוני: מוקד מרכזי שנבנה על הניסיון שנצבר בהפעלת אשכול הקורסים."
+            }
+          },
+          {
+            "title": {
+              "en": "Beyond the classroom",
+              "he": "מעבר לכיתה"
+            },
+            "text": {
+              "en": "Outstanding students join professional development courses, exchange programs, competitions, exhibitions and conferences on technology and design. The initiative also runs events, design hackathons, an online archive and e-learning courses.",
+              "he": "סטודנטים מצטיינים משתתפים בקורסי העשרה מקצועיים, בתוכניות חילופין, בתחרויות, בתערוכות ובכנסים בנושאי טכנולוגיה ועיצוב. היוזמה מפעילה גם אירועים, האקתונים עיצוביים, ארכיון מקוון וקורסים מקוונים."
+            }
+          }
+        ]
+      },
+      {
+        "id": "lab",
+        "layout": "split",
+        "title": {
+          "en": "The Design Tech Lab",
+          "he": "מעבדת Design Tech"
+        },
+        "body": {
+          "en": "The Design Tech Lab is the main laboratory of the Industrial Design track, headed by Prof. Ezri Tarazi. It supports graduate students in industrial design and lets them realize the studies and projects of their degree.\n\nThe lab leads design research in three areas: the marine environment, medical instrumentation and equipment, and design culture and thinking. The work ranges from printing artificial reefs, through a medical bracelet that monitors treatment on the battlefield, to ways of raising motivation to learn through design thinking.",
+          "he": "מעבדת Design Tech היא המעבדה המרכזית של מסלול העיצוב התעשייתי, בראשות פרופ׳ עזרי טרזי. היא תומכת בסטודנטים לתארים מתקדמים בעיצוב תעשייתי ומאפשרת להם לממש את המחקרים והפרויקטים שלהם.\n\nהמעבדה מובילה מחקר עיצובי בשלושה תחומים: הסביבה הימית, מכשור וציוד רפואי, ותרבות וחשיבה עיצובית. העבודה נעה מהדפסת שוניות מלאכותיות, דרך צמיד רפואי לניטור טיפולים בשדה הקרב, ועד דרכים להגביר מוטיבציה ללמידה באמצעות חשיבה עיצובית."
+        },
+        "image": "assets/slideshow/img_0769.jpg"
+      },
+      {
+        "id": "facilities",
+        "layout": "facilities",
+        "title": {
+          "en": "Production without limits",
+          "he": "ייצור כמעט בלי מגבלות"
+        },
+        "body": {
+          "en": "The lab aims to provide space for advanced design and production, almost without limitations, and to host research that fits the Fourth Industrial Revolution. To do that it holds some of the most advanced means of production, among them:",
+          "he": "המטרה היא לתת מקום לעיצוב ולייצור מתקדמים, כמעט בלי מגבלות, ולארח מחקר שמתאים למהפכה התעשייתית הרביעית. לשם כך מחזיקה המעבדה כמה מאמצעי הייצור המתקדמים ביותר, ובהם:"
+        },
+        "items": [
+          {
+            "title": {
+              "en": "5-axis milling machine",
+              "he": "מכונת כרסום בחמישה צירים"
+            },
+            "text": {
+              "en": "Large-format subtractive machining of foam, wood and composites.",
+              "he": "עיבוד שבבי בפורמט גדול של קצף, עץ וחומרים מרוכבים."
+            },
+            "video": "assets/media/five-axis-milling.mp4",
+            "image": "assets/media/five-axis-milling.jpg"
+          },
+          {
+            "title": {
+              "en": "HP Jet Fusion 580 (MJF)",
+              "he": "HP Jet Fusion 580 (MJF)"
+            },
+            "text": {
+              "en": "Multi Jet Fusion printing for full-colour, functional nylon parts.",
+              "he": "הדפסת Multi Jet Fusion לחלקי ניילון פונקציונליים בצבע מלא."
+            }
+          },
+          {
+            "title": {
+              "en": "Workbench 300 Pro (FDM)",
+              "he": "Workbench 300 Pro (FDM)"
+            },
+            "text": {
+              "en": "Large-format FDM printing for full-scale prototypes.",
+              "he": "הדפסת FDM בפורמט גדול לאבות טיפוס בקנה מידה מלא."
+            }
+          },
+          {
+            "title": {
+              "en": "Formlabs Form 2 (SLA)",
+              "he": "Formlabs Form 2 (SLA)"
+            },
+            "text": {
+              "en": "Resin stereolithography for fine detail and smooth surfaces.",
+              "he": "סטריאוליתוגרפיה בשרף לפרטים עדינים ולמשטחים חלקים."
+            }
+          },
+          {
+            "title": {
+              "en": "WASP 3MF LDM clay extruder",
+              "he": "ראש הדפסת חימר WASP 3MF LDM"
+            },
+            "text": {
+              "en": "Liquid deposition modelling of clay: the reef tiles start here.",
+              "he": "הדפסת חימר בשיטת LDM: כאן מתחילות אריחי השונית."
+            },
+            "video": "assets/media/clay-3d-printing.mp4",
+            "image": "assets/media/clay-3d-printing.jpg"
+          },
+          {
+            "title": {
+              "en": "Recycled-pellet 3D printer",
+              "he": "מדפסת תלת־ממד מגרנולט ממוחזר"
+            },
+            "text": {
+              "en": "Prints directly from recycled plastic pellets.",
+              "he": "מדפיסה ישירות מגרגרי פלסטיק ממוחזר."
+            }
+          }
+        ]
+      }
+    ],
+    "founder": {
+      "en": "Established in 2018 by Prof. Ezri Tarazi, Design-Tech exists to foster design awareness and design thinking among science and engineering students.",
+      "he": "Design-Tech נוסדה ב־2018 על ידי פרופ׳ עזרי טרזי, כדי לטפח מודעות לעיצוב וחשיבה עיצובית בקרב סטודנטים למדעים ולהנדסה."
+    }
+  },
+  "contact": {
+    "address": {
+      "en": "Design Tech Lab\nFaculty of Architecture and Town Planning\nTechnion, Israel Institute of Technology\nTechnion City, Haifa 3200003, Israel",
+      "he": "מעבדת Design Tech\nהפקולטה לארכיטקטורה ובינוי ערים\nהטכניון, מכון טכנולוגי לישראל\nקריית הטכניון, חיפה 3200003"
+    },
+    "mapQuery": "Faculty of Architecture and Town Planning, Technion, Haifa",
+    "emails": [
+      {
+        "label": {
+          "en": "General",
+          "he": "כללי"
+        },
+        "address": "designtech@technion.ac.il"
+      }
+    ],
+    "phone": "",
+    "instagram": "https://www.instagram.com/design_technion/",
+    "linkedin": "",
+    "youtube": "",
+    "facebook": "",
+    "x": "",
+    "website": "https://designtech.net.technion.ac.il/",
+    "directions": {
+      "en": "Enter Technion City from the main gate. The Faculty of Architecture and Town Planning is a short walk from the central bus stops on campus.",
+      "he": "נכנסים לקריית הטכניון בשער הראשי. הפקולטה לארכיטקטורה ובינוי ערים נמצאת במרחק הליכה קצר מתחנות האוטובוס המרכזיות בקמפוס."
+    }
+  },
+  "instagram": {
+    "enabled": true,
+    "hidden": []
+  },
+  "footer": {
+    "note": {
+      "en": "Design awareness and design thinking for science and engineering, since 2018.",
+      "he": "מודעות לעיצוב וחשיבה עיצובית למדע ולהנדסה, מאז 2018."
+    },
+    "supporters": {
+      "en": "The Technion Design-Tech Initiative is generously supported by The Firefly Scientists’ Foundation.",
+      "he": "יוזמת Design-Tech של הטכניון נתמכת בנדיבות על ידי The Firefly Scientists’ Foundation."
+    }
+  },
+  "seo": {
+    "description": {
+      "en": "Design Tech Lab at the Technion: graduate industrial design research in the marine environment, medical equipment and design thinking.",
+      "he": "מעבדת Design Tech בטכניון: מחקר בעיצוב תעשייתי בסביבה הימית, בציוד רפואי ובחשיבה עיצובית."
+    },
+    "siteUrl": ""
+  }
+}

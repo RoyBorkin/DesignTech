@@ -1,0 +1,76 @@
+{
+  "slug": "Ezri-Tarazi",
+  "order": 1,
+  "group": "head",
+  "name": {
+    "en": "Ezri Tarazi",
+    "he": "עזרי טרזי"
+  },
+  "subtitle": {
+    "en": "Prof. · Head of the Design Tech Lab, Chair of the Industrial Design graduate program",
+    "he": "פרופ׳ · ראש מעבדת Design Tech, ראש המסלול לתארים מתקדמים בעיצוב תעשייתי"
+  },
+  "photo": "",
+  "email": "",
+  "linkedin": "",
+  "supervisors": [],
+  "bio": {
+    "en": "Ezri Tarazi earned his BDes in Industrial Design at Bezalel Academy of Art and Design in Jerusalem in 1990 and worked in Bezalel's R&D department (1990–1996). He chaired Bezalel's Industrial Design Department (1996–2004) and founded its Master's program in Industrial Design.\n\nHe co-founded the IDEO branch in Israel (1998–2002), was a partner in several tech startups, and founded d-Vision together with Keter Group (2005–2012). His studio specialises in strategic design, design thinking and products for industry. His work has been shown at the Museum of Modern Art and the Cooper Hewitt in New York, the Triennale in Milan and elsewhere.\n\nAt the Technion he chairs the Industrial Design graduate program in the Faculty of Architecture and Town Planning and founded the Design-Tech initiative in 2018. He has published two books on design and design thinking.",
+    "he": "עזרי טרזי סיים תואר ראשון בעיצוב תעשייתי בבצלאל אקדמיה לאמנות ועיצוב ב־1990 ועבד במחלקת המו״פ של בצלאל (1990–1996). הוא עמד בראש המחלקה לעיצוב תעשייתי בבצלאל (1996–2004) וייסד את התואר השני בעיצוב תעשייתי.\n\nהוא היה ממייסדי סניף IDEO בישראל (1998–2002), שותף בכמה חברות סטארט־אפ, וייסד את d-Vision יחד עם קבוצת כתר (2005–2012). הסטודיו שלו מתמחה בעיצוב אסטרטגי, בחשיבה עיצובית ובמוצרים לתעשייה. עבודותיו הוצגו במוזיאון לאמנות מודרנית ובקופר יואיט בניו יורק, בטריאנלה במילאנו ובמקומות נוספים.\n\nבטכניון הוא עומד בראש המסלול לתארים מתקדמים בעיצוב תעשייתי בפקולטה לארכיטקטורה ובינוי ערים, ויסד ב־2018 את יוזמת Design-Tech. פרסם שני ספרים על עיצוב וחשיבה עיצובית."
+  },
+  "keywords": [
+    {
+      "en": "Industrial design in the Fourth Industrial Revolution",
+      "he": "עיצוב תעשייתי במהפכה התעשייתית הרביעית"
+    },
+    {
+      "en": "Digital design and manufacturing",
+      "he": "עיצוב וייצור דיגיטליים"
+    },
+    {
+      "en": "Design for the marine environment",
+      "he": "עיצוב לסביבה הימית"
+    },
+    {
+      "en": "Design for emergency medicine",
+      "he": "עיצוב לרפואת חירום"
+    },
+    {
+      "en": "Nature Centered Design",
+      "he": "עיצוב ממוקד טבע"
+    },
+    {
+      "en": "Design thinking",
+      "he": "חשיבה עיצובית"
+    }
+  ],
+  "interests": {
+    "en": "Design and culture, well-being and health, life-support systems.",
+    "he": "עיצוב ותרבות, רווחה ובריאות, מערכות תומכות חיים."
+  },
+  "projects": [
+    {
+      "title": {
+        "en": "3D-printed clay reefs",
+        "he": "שוניות חימר מודפסות"
+      },
+      "year": "2019–",
+      "description": {
+        "en": "Modular artificial reefs designed from scans of living reefs and printed in clay, installed in the Gulf of Eilat and in Fiji.",
+        "he": "שוניות מלאכותיות מודולריות שתוכננו מסריקות של שוניות חיות והודפסו בחימר, והוצבו במפרץ אילת ובפיג׳י."
+      },
+      "images": [
+        "assets/reef-1.jpg",
+        "assets/reef-2.jpg",
+        "assets/reef-3.jpg"
+      ],
+      "video": "assets/reef-dive.mp4"
+    }
+  ],
+  "resume": "",
+  "contact": {
+    "website": "https://designtech.net.technion.ac.il/prof-ezri-tarazi/",
+    "phone": "",
+    "other": null
+  }
+}

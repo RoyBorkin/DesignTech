@@ -1,0 +1,21 @@
+{
+  "type": "event",
+  "id": "2019/06/18/design-tech-2019-conference",
+  "start": "2019-06-18",
+  "end": "2019-06-19",
+  "title": {
+    "en": "Design Tech 2019: International Conference on Design and Technology",
+    "he": "Design Tech 2019: הכנס הבינלאומי לעיצוב וטכנולוגיה"
+  },
+  "excerpt": {
+    "en": "The first Design Tech conference: design as a hacker, protector, healer, visualizer and leader.",
+    "he": "כנס Design Tech הראשון: העיצוב כהאקר, כמגן, כמרפא, כמדמיין וכמנהיג."
+  },
+  "when": null,
+  "location": {
+    "en": "Technion, Israel Institute of Technology, Haifa",
+    "he": "הטכניון, חיפה"
+  },
+  "link": "https://air.iuav.it/retrieve/de164c2a-bc08-60ee-e053-3a05fe0a7787/design-tech-2019-conference-ebook.pdf",
+  "cover": ""
+}

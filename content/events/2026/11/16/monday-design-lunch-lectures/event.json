@@ -1,0 +1,24 @@
+{
+  "type": "event",
+  "id": "2026/11/16/monday-design-lunch-lectures",
+  "start": "2026-11-16T12:30",
+  "end": "2026-11-16T13:30",
+  "title": {
+    "en": "Monday design lunch lectures",
+    "he": "הרצאות צהריים בעיצוב, ימי שני"
+  },
+  "excerpt": {
+    "en": "Open lunch lectures on design with leading local designers, every Monday during the semester.",
+    "he": "הרצאות צהריים פתוחות על עיצוב עם מיטב המעצבים המקומיים, בכל יום שני במהלך הסמסטר."
+  },
+  "when": {
+    "en": "Every Monday during the semester, 12:30",
+    "he": "בכל יום שני במהלך הסמסטר, 12:30"
+  },
+  "location": {
+    "en": "Faculty of Architecture and Town Planning, Technion",
+    "he": "הפקולטה לארכיטקטורה ובינוי ערים, הטכניון"
+  },
+  "link": "",
+  "cover": ""
+}

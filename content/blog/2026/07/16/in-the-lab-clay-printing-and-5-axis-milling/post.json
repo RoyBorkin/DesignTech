@@ -1,0 +1,23 @@
+{
+  "type": "post",
+  "id": "2026/07/16/in-the-lab-clay-printing-and-5-axis-milling",
+  "date": "2026-07-16",
+  "title": {
+    "en": "In the lab: clay printing and 5-axis milling",
+    "he": "במעבדה: הדפסת חימר וכרסום בחמישה צירים"
+  },
+  "excerpt": {
+    "en": "Two of the machines behind our research, filmed on an ordinary working day.",
+    "he": "שתיים מהמכונות שמאחורי המחקר שלנו, ביום עבודה רגיל."
+  },
+  "tags": [
+    "lab",
+    "fabrication"
+  ],
+  "author": {
+    "en": "Design Tech Lab",
+    "he": "מעבדת Design Tech"
+  },
+  "cover": "assets/cover.jpg",
+  "thumb": "assets/cover-thumb.jpg"
+}

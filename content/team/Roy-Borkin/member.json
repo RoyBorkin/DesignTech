@@ -1,0 +1,24 @@
+{
+  "slug": "Roy-Borkin",
+  "order": 30,
+  "group": "other",
+  "name": {
+    "en": "Roy Borkin",
+    "he": "רועי בורקין"
+  },
+  "subtitle": {
+    "en": "Researcher · Product designer",
+    "he": "חוקר · מעצב מוצר"
+  },
+  "email": "",
+  "linkedin": "https://www.linkedin.com/in/royborkin/",
+  "bio": {
+    "en": "",
+    "he": ""
+  },
+  "keywords": [],
+  "projects": [],
+  "contact": {
+    "website": "https://royborkin.github.io/"
+  }
+}

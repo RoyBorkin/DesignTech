@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="DesignTech"><title>DesignTech</title><defs>
+<path id="d" fill-rule="evenodd" d="M14 22h28a28 28 0 0 1 0 56H14zM26 33v34h16a17 17 0 0 0 0-34z"/>
+<path id="t" d="M44 22h44v11H72v45H60V33H44z"/>
+<clipPath id="dc"><use href="#d"/></clipPath></defs>
+<use href="#d" fill="#57BED2"/><use href="#t" fill="#D7262A"/><use href="#t" fill="#7C3632" clip-path="url(#dc)"/></svg>

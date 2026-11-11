@@ -1,0 +1,23 @@
+{
+  "type": "post",
+  "id": "2025/02/25/3d-printed-shoes-digital-design-and-craft",
+  "date": "2025-02-25",
+  "title": {
+    "en": "3D-printed shoes from the Digital Design and Craft course",
+    "he": "נעליים מודפסות מהקורס עיצוב ומלאכה דיגיטליים"
+  },
+  "excerpt": {
+    "en": "Shoes designed with parametric programming as part of the Digital Design and Craft course.",
+    "he": "נעליים שתוכננו בתכנות פרמטרי במסגרת הקורס עיצוב ומלאכה דיגיטליים."
+  },
+  "tags": [
+    "course",
+    "parametric"
+  ],
+  "author": {
+    "en": "Photo: Haim Singer",
+    "he": "צילום: חיים זינגר"
+  },
+  "cover": "assets/cover.jpg",
+  "thumb": "assets/cover-thumb.jpg"
+}

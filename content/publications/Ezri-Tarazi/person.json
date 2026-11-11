@@ -1,0 +1,100 @@
+{
+  "slug": "Ezri-Tarazi",
+  "name": {
+    "en": "Ezri Tarazi",
+    "he": "עזרי טרזי"
+  },
+  "papers": [
+    {
+      "id": "goldschmidt-tarazi-2023-expanding-frontiers",
+      "type": "book",
+      "year": 2023,
+      "title": {
+        "en": "Expanding the Frontiers of Design: Critical Perspectives",
+        "he": "Expanding the Frontiers of Design: Critical Perspectives"
+      },
+      "authors": "Gabriela Goldschmidt, Ezri Tarazi (eds.)",
+      "venue": {
+        "en": "Routledge",
+        "he": "Routledge"
+      },
+      "abstract": {
+        "en": "An edited collection of selected papers from the 13th Design Thinking Research Symposium (DTRS13), exploring Design Thinking from theoretical, practical and pedagogical perspectives, with a critical analysis of the design process.",
+        "he": ""
+      },
+      "url": "https://www.routledge.com/Expanding-the-Frontiers-of-Design-Critical-Perspectives/Goldschmidt-Tarazi/p/book/9780367772000",
+      "doi": "",
+      "keywords": [
+        "design thinking",
+        "DTRS13"
+      ]
+    },
+    {
+      "id": "tarazi-2023-7d-ecosystem-centered-design",
+      "type": "chapter",
+      "year": 2023,
+      "title": {
+        "en": "7D – Ecosystem centered design",
+        "he": "7D – עיצוב ממוקד מערכת אקולוגית"
+      },
+      "authors": "Ezri Tarazi",
+      "venue": {
+        "en": "In: Expanding the Frontiers of Design: Critical Perspectives (Routledge), chapter 5.2",
+        "he": "בתוך: Expanding the Frontiers of Design: Critical Perspectives (Routledge), פרק 5.2"
+      },
+      "url": "https://www.routledge.com/Expanding-the-Frontiers-of-Design-Critical-Perspectives/Goldschmidt-Tarazi/p/book/9780367772000",
+      "keywords": [
+        "7D",
+        "ecosystem",
+        "design method"
+      ]
+    },
+    {
+      "id": "levy-2022-emerging-3d-technologies-coral-reefs",
+      "type": "journal",
+      "year": 2022,
+      "title": {
+        "en": "Emerging 3D technologies for future reformation of coral reefs: Enhancing biodiversity using biomimetic structures based on designs by nature",
+        "he": "Emerging 3D technologies for future reformation of coral reefs: Enhancing biodiversity using biomimetic structures based on designs by nature"
+      },
+      "authors": "Natalie Levy, Ofer Berman, Matan Yuval, Yossi Loya, Tali Treibitz, Ezri Tarazi, Oren Levy",
+      "venue": {
+        "en": "Science of The Total Environment, 830, 154749",
+        "he": "Science of The Total Environment, 830, 154749"
+      },
+      "doi": "10.1016/j.scitotenv.2022.154749",
+      "members": [
+        "Ofer-Berman"
+      ],
+      "abstract": {
+        "en": "A customizable 3D interface for producing scalable reef structures from real data collected in coral ecosystems: 3D imaging and environmental DNA feed a parametric model that is printed in naturally porous ceramic, and the same toolkit evaluates the reef after installation.",
+        "he": ""
+      },
+      "keywords": [
+        "coral reefs",
+        "3D printing",
+        "biomimetics",
+        "eDNA"
+      ]
+    },
+    {
+      "id": "design-tech-2019-proceedings",
+      "type": "conference",
+      "year": 2019,
+      "title": {
+        "en": "Design Tech 2019: International Conference on Design and Technology, Conference Proceedings",
+        "he": "Design Tech 2019: ספר הכנס"
+      },
+      "authors": "Ezri Tarazi (conference chair)",
+      "venue": {
+        "en": "Design Tech, Faculty of Architecture, Technion, Haifa. ISBN 978-965-572-991-7",
+        "he": "Design Tech, הפקולטה לארכיטקטורה, הטכניון, חיפה. ISBN 978-965-572-991-7"
+      },
+      "url": "https://air.iuav.it/retrieve/de164c2a-bc08-60ee-e053-3a05fe0a7787/design-tech-2019-conference-ebook.pdf",
+      "keywords": [
+        "conference",
+        "proceedings"
+      ]
+    }
+  ]
+}

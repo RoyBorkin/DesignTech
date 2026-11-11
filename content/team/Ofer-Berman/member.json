@@ -1,0 +1,38 @@
+{
+  "slug": "Ofer-Berman",
+  "order": 20,
+  "group": "phd",
+  "name": {
+    "en": "Ofer Berman",
+    "he": "עופר ברמן"
+  },
+  "subtitle": {
+    "en": "PhD researcher",
+    "he": "דוקטורנט"
+  },
+  "supervisors": [
+    {
+      "en": "Prof. Ezri Tarazi",
+      "he": "פרופ׳ עזרי טרזי"
+    }
+  ],
+  "bio": {
+    "en": "Ofer's research translates the structure of living coral reefs into printed ceramic reefs. He is a co-author of the 2022 Science of the Total Environment paper on 3D technologies for the reformation of coral reefs, and co-created the printed clay coral display shown at the Design Museum Holon.",
+    "he": "המחקר של עופר מתרגם את המבנה של שוניות אלמוגים חיות לשוניות קרמיות מודפסות. הוא שותף לכתיבת המאמר מ־2022 ב־Science of the Total Environment על טכנולוגיות תלת־ממד לשיקום שוניות, ויצר יחד עם פרופ׳ טרזי את מיצב האלמוג המודפס שהוצג במוזיאון העיצוב חולון."
+  },
+  "keywords": [
+    {
+      "en": "Clay 3D printing",
+      "he": "הדפסת חימר"
+    },
+    {
+      "en": "Biomimetics",
+      "he": "ביומימטיקה"
+    },
+    {
+      "en": "Reef restoration",
+      "he": "שיקום שוניות"
+    }
+  ],
+  "projects": []
+}

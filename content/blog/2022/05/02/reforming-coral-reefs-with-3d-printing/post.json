@@ -1,0 +1,23 @@
+{
+  "type": "post",
+  "id": "2022/05/02/reforming-coral-reefs-with-3d-printing",
+  "date": "2022-05-02",
+  "title": {
+    "en": "Reforming coral reefs with 3D printing",
+    "he": "לעצב מחדש שוניות אלמוגים בהדפסת תלת־ממד"
+  },
+  "excerpt": {
+    "en": "A new paper in Science of the Total Environment describes how scans and environmental DNA become printed ceramic reefs.",
+    "he": "מאמר חדש ב־Science of the Total Environment מתאר איך סריקות ו־DNA סביבתי הופכים לשוניות קרמיות מודפסות."
+  },
+  "tags": [
+    "marine",
+    "publication"
+  ],
+  "author": {
+    "en": "Design Tech Lab",
+    "he": "מעבדת Design Tech"
+  },
+  "cover": "assets/cover.jpg",
+  "thumb": "assets/cover-thumb.jpg"
+}

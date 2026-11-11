@@ -1,108 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<!doctype html>
+<html lang="en" dir="ltr" data-theme="apple" data-page="home">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>DesignTech — Technion Design Lab</title>
-  <meta name="description" content="Projects, experiments and process notes from the Technion Design Lab.">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>DesignTech Lab · Technion</title>
+  <meta name="description" content="Design Tech Lab at the Technion: graduate industrial design research in the marine environment, medical equipment and design thinking.">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="DesignTech — Technion Design Lab">
-  <meta property="og:description" content="Projects, experiments and process notes from the Technion Design Lab.">
-  <meta property="og:image" content="img/logo.png">
-  <meta name="theme-color" content="#57bed2">
-
-  <link rel="icon" type="image/png" href="img/favicon.png">
-  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet"
-    href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap">
-
-  <link rel="stylesheet" href="css/style.css">
+  <meta property="og:title" content="DesignTech Lab · Technion">
+  <meta property="og:description" content="Design Tech Lab at the Technion: graduate industrial design research in the marine environment, medical equipment and design thinking.">
+  <meta property="og:image" content="assets/brand/og-image.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/brand/mark.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/brand/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="assets/brand/apple-touch-icon.png">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="alternate" hreflang="he" href="index.html?lang=he">
+  <link rel="alternate" hreflang="en" href="index.html?lang=en">
+  <link rel="stylesheet" href="assets/fonts/fonts.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/themes/apple.css" id="theme-css">
+  <script>(function(){var d=document.documentElement,q=new URLSearchParams(location.search);try{var L=q.get('lang');if(L==='he'||L==='en')localStorage.setItem('dt-lang',L);L=localStorage.getItem('dt-lang')||'en';d.lang=L;d.dir=L==='he'?'rtl':'ltr';if(q.has('theme')){var p=q.get('theme');p?sessionStorage.setItem('dt-theme',p):sessionStorage.removeItem('dt-theme');}var T=sessionStorage.getItem('dt-theme');if(T&&/^(future|bauhaus|cinema|apple|minimal|editorial)$/.test(T)&&T!==d.getAttribute('data-theme')){d.setAttribute('data-theme',T);document.getElementById('theme-css').href='assets/css/themes/'+T+'.css';}}catch(e){}d.classList.add('js');})();</script>
+  <script type="module" src="assets/js/app.js"></script>
 </head>
-
-<body>
-
-  <!-- ======================================================= header ==== -->
-  <header class="site-header">
-    <div class="wrap header-inner">
-      <a class="brand" href="index.html">
-        <img src="img/logo.png" alt="DesignTech">
-        <span class="brand-text" id="tagline">Technion Design Lab</span>
-      </a>
-
-      <div class="header-tools">
-        <div class="search">
-          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-            <circle cx="9" cy="9" r="6" />
-            <path d="M13.5 13.5 17 17" stroke-linecap="round" />
-          </svg>
-          <label class="sr-only" for="search">Search posts</label>
-          <input id="search" type="search" placeholder="Search posts" autocomplete="off">
-        </div>
-
-        <!-- the corner icon that leads to the (password-protected) editor -->
-        <a class="admin-link" href="admin.html" title="Write a new post" aria-label="Write a new post">
-          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true">
-            <path d="M13.1 3.4a1.6 1.6 0 0 1 2.3 0l1.2 1.2a1.6 1.6 0 0 1 0 2.3L7.9 15.6l-4 1 1-4 8.2-9.2Z"
-              stroke-linecap="round" stroke-linejoin="round" />
-            <path d="M12.2 4.6 15.4 7.8" stroke-linecap="round" />
-          </svg>
-        </a>
-      </div>
-    </div>
-  </header>
-
-  <!-- ========================================================= hero ==== -->
-  <section class="hero">
-    <div class="wrap hero-inner">
-      <span class="eyebrow">The lab journal</span>
-      <h1 id="hero-title">Notes from the <em>Design Lab</em></h1>
-      <p id="hero-text">Projects, experiments and process notes from the Technion Design Lab —
-        written down while they are still fresh enough to be wrong.</p>
-    </div>
-  </section>
-
-  <!-- ======================================================== posts ==== -->
-  <main class="section">
-    <div class="wrap">
-
-      <div id="notice" hidden></div>
-
-      <div class="featured" id="featured" hidden></div>
-
-      <div class="section-head">
-        <h2>All posts</h2>
-        <span class="rule"></span>
-        <span class="count" id="count"></span>
-      </div>
-
-      <div class="grid" id="grid" aria-live="polite"></div>
-
-      <div id="more-wrap" hidden style="text-align:center;margin-top:56px">
-        <button class="btn btn-ghost" id="more-btn" type="button">Load more</button>
-      </div>
-
-    </div>
+<body id="top">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header id="site-header"></header>
+  <main id="main" tabindex="-1">
+    <noscript><div class="noscript"><h1>DesignTech Lab · Technion</h1><p>Design Tech Lab at the Technion: graduate industrial design research in the marine environment, medical equipment and design thinking.</p><p>This site needs JavaScript to show its content.</p></div></noscript>
   </main>
-
-  <!-- ======================================================= footer ==== -->
-  <footer class="site-footer">
-    <div class="wrap footer-inner">
-      <img src="img/logo.png" alt="DesignTech — Technion Design Lab">
-      <p>&copy; <span id="year">2026</span> DesignTech · Technion Design Lab</p>
-      <p><a href="admin.html">Write a post</a></p>
-    </div>
-  </footer>
-
-  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
-  <script src="config.js"></script>
-  <script src="js/demo-posts.js"></script>
-  <script src="js/drive.js"></script>
-  <script src="js/home.js"></script>
+  <footer id="site-footer"></footer>
 </body>
-
 </html>

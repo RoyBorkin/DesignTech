@@ -1,0 +1,97 @@
+{
+  "updated": "2026-11-11T10:53:41.810Z",
+  "items": [
+    {
+      "id": "2026/07/20/printed-clay-reefs-in-the-water",
+      "date": "2026-07-20",
+      "title": {
+        "en": "Printed clay reefs, in the water",
+        "he": "שוניות חימר מודפסות, במים"
+      },
+      "excerpt": {
+        "en": "Coral fragments go into clay reef units printed at the Technion. Field notes from the latest installation.",
+        "he": "שברי אלמוגים נשתלים ביחידות שונית מחימר שהודפסו בטכניון. רשימות שטח מההצבה האחרונה."
+      },
+      "cover": "assets/cover.jpg",
+      "thumb": "assets/cover-thumb.jpg",
+      "tags": [
+        "marine",
+        "reef"
+      ],
+      "author": {
+        "en": "Design Tech Lab",
+        "he": "מעבדת Design Tech"
+      },
+      "draft": false
+    },
+    {
+      "id": "2026/07/16/in-the-lab-clay-printing-and-5-axis-milling",
+      "date": "2026-07-16",
+      "title": {
+        "en": "In the lab: clay printing and 5-axis milling",
+        "he": "במעבדה: הדפסת חימר וכרסום בחמישה צירים"
+      },
+      "excerpt": {
+        "en": "Two of the machines behind our research, filmed on an ordinary working day.",
+        "he": "שתיים מהמכונות שמאחורי המחקר שלנו, ביום עבודה רגיל."
+      },
+      "cover": "assets/cover.jpg",
+      "thumb": "assets/cover-thumb.jpg",
+      "tags": [
+        "lab",
+        "fabrication"
+      ],
+      "author": {
+        "en": "Design Tech Lab",
+        "he": "מעבדת Design Tech"
+      },
+      "draft": false
+    },
+    {
+      "id": "2025/02/25/3d-printed-shoes-digital-design-and-craft",
+      "date": "2025-02-25",
+      "title": {
+        "en": "3D-printed shoes from the Digital Design and Craft course",
+        "he": "נעליים מודפסות מהקורס עיצוב ומלאכה דיגיטליים"
+      },
+      "excerpt": {
+        "en": "Shoes designed with parametric programming as part of the Digital Design and Craft course.",
+        "he": "נעליים שתוכננו בתכנות פרמטרי במסגרת הקורס עיצוב ומלאכה דיגיטליים."
+      },
+      "cover": "assets/cover.jpg",
+      "thumb": "assets/cover-thumb.jpg",
+      "tags": [
+        "course",
+        "parametric"
+      ],
+      "author": {
+        "en": "Photo: Haim Singer",
+        "he": "צילום: חיים זינגר"
+      },
+      "draft": false
+    },
+    {
+      "id": "2022/05/02/reforming-coral-reefs-with-3d-printing",
+      "date": "2022-05-02",
+      "title": {
+        "en": "Reforming coral reefs with 3D printing",
+        "he": "לעצב מחדש שוניות אלמוגים בהדפסת תלת־ממד"
+      },
+      "excerpt": {
+        "en": "A new paper in Science of the Total Environment describes how scans and environmental DNA become printed ceramic reefs.",
+        "he": "מאמר חדש ב־Science of the Total Environment מתאר איך סריקות ו־DNA סביבתי הופכים לשוניות קרמיות מודפסות."
+      },
+      "cover": "assets/cover.jpg",
+      "thumb": "assets/cover-thumb.jpg",
+      "tags": [
+        "marine",
+        "publication"
+      ],
+      "author": {
+        "en": "Design Tech Lab",
+        "he": "מעבדת Design Tech"
+      },
+      "draft": false
+    }
+  ]
+}

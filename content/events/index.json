@@ -1,0 +1,137 @@
+{
+  "updated": "2026-11-11T10:53:42.409Z",
+  "items": [
+    {
+      "id": "2019/06/18/design-tech-2019-conference",
+      "start": "2019-06-18",
+      "end": "2019-06-19",
+      "title": {
+        "en": "Design Tech 2019: International Conference on Design and Technology",
+        "he": "Design Tech 2019: הכנס הבינלאומי לעיצוב וטכנולוגיה"
+      },
+      "excerpt": {
+        "en": "The first Design Tech conference: design as a hacker, protector, healer, visualizer and leader.",
+        "he": "כנס Design Tech הראשון: העיצוב כהאקר, כמגן, כמרפא, כמדמיין וכמנהיג."
+      },
+      "when": null,
+      "location": {
+        "en": "Technion, Israel Institute of Technology, Haifa",
+        "he": "הטכניון, חיפה"
+      },
+      "link": "https://air.iuav.it/retrieve/de164c2a-bc08-60ee-e053-3a05fe0a7787/design-tech-2019-conference-ebook.pdf",
+      "cover": "",
+      "draft": false
+    },
+    {
+      "id": "2019/12/01/printed-clay-coral-design-museum-holon",
+      "start": "2019-12-01",
+      "end": "2020-05-31",
+      "title": {
+        "en": "Printed clay coral at the Design Museum Holon",
+        "he": "אלמוג חימר מודפס במוזיאון העיצוב חולון"
+      },
+      "excerpt": {
+        "en": "An international group exhibition celebrating a decade of the Design Museum Holon.",
+        "he": "תערוכה קבוצתית בינלאומית לציון עשור למוזיאון העיצוב חולון."
+      },
+      "when": {
+        "en": "December 2019 – May 2020",
+        "he": "דצמבר 2019 – מאי 2020"
+      },
+      "location": {
+        "en": "Design Museum Holon",
+        "he": "מוזיאון העיצוב חולון"
+      },
+      "link": "",
+      "cover": "assets/cover.jpg",
+      "draft": false
+    },
+    {
+      "id": "2023/03/30/tel-aviv-biennale-of-crafts-and-design",
+      "start": "2023-03-30T19:00",
+      "end": "",
+      "title": {
+        "en": "Tel Aviv Biennale of Crafts & Design",
+        "he": "הביאנלה לאומנות ועיצוב, תל אביב"
+      },
+      "excerpt": {
+        "en": "Prof. Ezri Tarazi and the Design-Tech Lab exhibit at the biennale. Opening at 19:00.",
+        "he": "פרופ׳ עזרי טרזי ומעבדת Design-Tech מציגים בביאנלה. הפתיחה בשעה 19:00."
+      },
+      "when": null,
+      "location": {
+        "en": "Tel Aviv",
+        "he": "תל אביב"
+      },
+      "link": "",
+      "cover": "",
+      "draft": false
+    },
+    {
+      "id": "2025/06/04/designtech-2025-conference",
+      "start": "2025-06-04",
+      "end": "",
+      "title": {
+        "en": "DesignTech 2025: International Conference",
+        "he": "DesignTech 2025: כנס בינלאומי"
+      },
+      "excerpt": {
+        "en": "Held for the second time at the Technion, the conference let attendees present up-to-date design research and theory.",
+        "he": "הכנס התקיים בטכניון בפעם השנייה ואפשר למשתתפים להציג מחקר ותיאוריה עדכניים בעיצוב."
+      },
+      "when": null,
+      "location": {
+        "en": "Technion, Israel Institute of Technology, Haifa",
+        "he": "הטכניון, חיפה"
+      },
+      "link": "",
+      "cover": "",
+      "draft": false
+    },
+    {
+      "id": "2026/05/06/designtech-2026-conference",
+      "start": "2026-05-06",
+      "end": "2026-05-07",
+      "title": {
+        "en": "DesignTech 2026: International Conference on Design and Technology",
+        "he": "DesignTech 2026: הכנס הבינלאומי לעיצוב וטכנולוגיה"
+      },
+      "excerpt": {
+        "en": "The third edition of the conference: a platform for design researchers and practitioners to present current design research and theory.",
+        "he": "המהדורה השלישית של הכנס: במה לחוקרי ולאנשי מקצוע בעיצוב להצגת מחקר ותיאוריה עדכניים."
+      },
+      "when": null,
+      "location": {
+        "en": "Technion, Israel Institute of Technology, Haifa",
+        "he": "הטכניון, חיפה"
+      },
+      "link": "",
+      "cover": "assets/cover.jpg",
+      "draft": false
+    },
+    {
+      "id": "2026/11/16/monday-design-lunch-lectures",
+      "start": "2026-11-16T12:30",
+      "end": "2026-11-16T13:30",
+      "title": {
+        "en": "Monday design lunch lectures",
+        "he": "הרצאות צהריים בעיצוב, ימי שני"
+      },
+      "excerpt": {
+        "en": "Open lunch lectures on design with leading local designers, every Monday during the semester.",
+        "he": "הרצאות צהריים פתוחות על עיצוב עם מיטב המעצבים המקומיים, בכל יום שני במהלך הסמסטר."
+      },
+      "when": {
+        "en": "Every Monday during the semester, 12:30",
+        "he": "בכל יום שני במהלך הסמסטר, 12:30"
+      },
+      "location": {
+        "en": "Faculty of Architecture and Town Planning, Technion",
+        "he": "הפקולטה לארכיטקטורה ובינוי ערים, הטכניון"
+      },
+      "link": "",
+      "cover": "",
+      "draft": false
+    }
+  ]
+}

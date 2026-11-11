@@ -1,0 +1,90 @@
+{
+  "updated": "2026-11-11T10:53:43.041Z",
+  "items": [
+    {
+      "slug": "Ezri-Tarazi",
+      "name": {
+        "en": "Ezri Tarazi",
+        "he": "עזרי טרזי"
+      },
+      "subtitle": {
+        "en": "Prof. · Head of the Design Tech Lab, Chair of the Industrial Design graduate program",
+        "he": "פרופ׳ · ראש מעבדת Design Tech, ראש המסלול לתארים מתקדמים בעיצוב תעשייתי"
+      },
+      "photo": "",
+      "email": "",
+      "linkedin": "",
+      "group": "head",
+      "order": 1,
+      "hidden": false
+    },
+    {
+      "slug": "Yuval-Gur",
+      "name": {
+        "en": "Yuval Gur",
+        "he": "יובל גור"
+      },
+      "subtitle": {
+        "en": "Lab coordinator · Designer and researcher",
+        "he": "רכז המעבדה · מעצב וחוקר"
+      },
+      "photo": "",
+      "email": "",
+      "linkedin": "",
+      "group": "staff",
+      "order": 10,
+      "hidden": false
+    },
+    {
+      "slug": "Ofer-Berman",
+      "name": {
+        "en": "Ofer Berman",
+        "he": "עופר ברמן"
+      },
+      "subtitle": {
+        "en": "PhD researcher",
+        "he": "דוקטורנט"
+      },
+      "photo": "",
+      "email": "",
+      "linkedin": "",
+      "group": "phd",
+      "order": 20,
+      "hidden": false
+    },
+    {
+      "slug": "Oren-Arbel",
+      "name": {
+        "en": "Oren Arbel",
+        "he": "אורן ארבל"
+      },
+      "subtitle": {
+        "en": "PhD researcher · Ceramic designer",
+        "he": "דוקטורנט · מעצב קרמיקה"
+      },
+      "photo": "",
+      "email": "",
+      "linkedin": "",
+      "group": "phd",
+      "order": 21,
+      "hidden": false
+    },
+    {
+      "slug": "Roy-Borkin",
+      "name": {
+        "en": "Roy Borkin",
+        "he": "רועי בורקין"
+      },
+      "subtitle": {
+        "en": "Researcher · Product designer",
+        "he": "חוקר · מעצב מוצר"
+      },
+      "photo": "",
+      "email": "",
+      "linkedin": "https://www.linkedin.com/in/royborkin/",
+      "group": "other",
+      "order": 30,
+      "hidden": false
+    }
+  ]
+}

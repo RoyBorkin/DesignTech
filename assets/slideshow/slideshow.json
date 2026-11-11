@@ -1,0 +1,92 @@
+{
+  "updated": "2026-11-11T10:53:38.487Z",
+  "note": "Order of the home-page slideshow. DesignTech Studio rewrites this file; scripts/build-manifests.mjs adds any new file dropped into this folder.",
+  "items": [
+    {
+      "file": "img_0772.jpg"
+    },
+    {
+      "file": "bfaq6150.jpg"
+    },
+    {
+      "file": "efjc0587.jpg"
+    },
+    {
+      "file": "eilat-dive.mp4",
+      "type": "video",
+      "poster": "eilat-dive.jpg"
+    },
+    {
+      "file": "img_0776.jpg"
+    },
+    {
+      "file": "irxz2755.jpg"
+    },
+    {
+      "file": "ubao9046.jpg"
+    },
+    {
+      "file": "img_0769.jpg"
+    },
+    {
+      "file": "osqa8015.jpg"
+    },
+    {
+      "file": "tnfo2140.jpg"
+    },
+    {
+      "file": "abql9623.jpg"
+    },
+    {
+      "file": "img_0774.jpg"
+    },
+    {
+      "file": "fqdm9403.jpg"
+    },
+    {
+      "file": "img_0777.jpg"
+    },
+    {
+      "file": "kzox7481.jpg"
+    },
+    {
+      "file": "img_0771.jpg"
+    },
+    {
+      "file": "img_0773.jpg"
+    },
+    {
+      "file": "img_0767.jpg"
+    },
+    {
+      "file": "fslx2222.jpg"
+    },
+    {
+      "file": "img_0768.jpg"
+    },
+    {
+      "file": "img_0770.jpg"
+    },
+    {
+      "file": "img_0775.jpg"
+    },
+    {
+      "file": "mdci6966.jpg"
+    },
+    {
+      "file": "topl5142.jpg"
+    },
+    {
+      "file": "fhwm8284.jpg"
+    },
+    {
+      "file": "jdwy1993.jpg"
+    },
+    {
+      "file": "pfzv9662.jpg"
+    },
+    {
+      "file": "sbqs4676.jpg"
+    }
+  ]
+}
