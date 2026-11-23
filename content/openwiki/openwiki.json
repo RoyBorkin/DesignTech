@@ -1,33 +1,4428 @@
 {
-  "updated": "2026-11-11T12:00:00.000Z",
+  "updated": "2026-11-23T16:00:00.000Z",
   "lists": [
     {
       "id": "digital-fabrication",
-      "name": { "en": "Digital fabrication", "he": "ייצור דיגיטלי" },
-      "description": { "en": "Software and machines for designing and making complex forms.", "he": "תוכנות ומכונות לתכנון ולייצור של צורות מורכבות." },
+      "name": {
+        "en": "Digital fabrication",
+        "he": "ייצור דיגיטלי"
+      },
+      "description": {
+        "en": "Software and machines for designing and making complex forms.",
+        "he": "תוכנות ומכונות לתכנון ולייצור של צורות מורכבות."
+      },
       "items": [
-        { "id": "grasshopper", "type": "tool", "title": { "en": "Grasshopper", "he": "Grasshopper" }, "text": { "en": "Visual programming for Rhino: the standard tool for parametric and algorithmic design.", "he": "תכנות חזותי ל־Rhino: הכלי המקובל לעיצוב פרמטרי ואלגוריתמי." }, "url": "https://www.grasshopper3d.com/", "tags": ["parametric", "rhino"], "added": "2026-11-11" },
-        { "id": "blender", "type": "tool", "title": { "en": "Blender", "he": "Blender" }, "text": { "en": "Free, open-source 3D suite for modelling, simulation and rendering.", "he": "תוכנת תלת־ממד חינמית בקוד פתוח למידול, סימולציה ורינדור." }, "url": "https://www.blender.org/", "tags": ["3d", "open source"], "added": "2026-11-11" },
-        { "id": "3d-wasp", "type": "tool", "title": { "en": "WASP clay 3D printing", "he": "הדפסת חימר של WASP" }, "text": { "en": "The maker of the LDM clay extruder used in the lab.", "he": "יצרנית ראש הדפסת החימר LDM שבו משתמשים במעבדה." }, "url": "https://www.3dwasp.com/en/", "tags": ["clay", "printing"], "added": "2026-11-11" }
+        {
+          "id": "grasshopper",
+          "type": "tool",
+          "title": {
+            "en": "Grasshopper",
+            "he": "Grasshopper"
+          },
+          "text": {
+            "en": "Visual programming for Rhino: the standard tool for parametric and algorithmic design.",
+            "he": "תכנות חזותי ל־Rhino: הכלי המקובל לעיצוב פרמטרי ואלגוריתמי."
+          },
+          "url": "https://www.grasshopper3d.com/",
+          "tags": [
+            "parametric",
+            "rhino"
+          ],
+          "added": "2026-11-11"
+        },
+        {
+          "id": "blender",
+          "type": "tool",
+          "title": {
+            "en": "Blender",
+            "he": "Blender"
+          },
+          "text": {
+            "en": "Free, open-source 3D suite for modelling, simulation and rendering.",
+            "he": "תוכנת תלת־ממד חינמית בקוד פתוח למידול, סימולציה ורינדור."
+          },
+          "url": "https://www.blender.org/",
+          "tags": [
+            "3d",
+            "open source"
+          ],
+          "added": "2026-11-11"
+        },
+        {
+          "id": "3d-wasp",
+          "type": "tool",
+          "title": {
+            "en": "WASP clay 3D printing",
+            "he": "הדפסת חימר של WASP"
+          },
+          "text": {
+            "en": "The maker of the LDM clay extruder used in the lab.",
+            "he": "יצרנית ראש הדפסת החימר LDM שבו משתמשים במעבדה."
+          },
+          "url": "https://www.3dwasp.com/en/",
+          "tags": [
+            "clay",
+            "printing"
+          ],
+          "added": "2026-11-11"
+        }
       ]
     },
     {
       "id": "reef-restoration",
-      "name": { "en": "Reef restoration", "he": "שיקום שוניות" },
-      "description": { "en": "Science, projects and organisations working to bring coral reefs back.", "he": "מחקר, פרויקטים וארגונים שפועלים להשיב את שוניות האלמוגים." },
+      "name": {
+        "en": "Reef restoration",
+        "he": "שיקום שוניות"
+      },
+      "description": {
+        "en": "Science, projects and organisations working to bring coral reefs back.",
+        "he": "מחקר, פרויקטים וארגונים שפועלים להשיב את שוניות האלמוגים."
+      },
       "items": [
-        { "id": "noaa-crcp", "type": "article", "title": { "en": "NOAA Coral Reef Conservation Program", "he": "תוכנית שימור שוניות האלמוגים של NOAA" }, "text": { "en": "Background, data and restoration programmes from the US national program.", "he": "רקע, נתונים ותוכניות שיקום מהתוכנית הלאומית האמריקאית." }, "url": "https://coralreef.noaa.gov/", "tags": ["coral", "data"], "added": "2026-11-11" },
-        { "id": "reef-design-lab", "type": "project", "title": { "en": "Reef Design Lab", "he": "Reef Design Lab" }, "text": { "en": "A design studio building artificial reef and marine habitat structures.", "he": "סטודיו לעיצוב שבונה שוניות מלאכותיות ומבנים לבתי גידול ימיים." }, "url": "https://www.reefdesignlab.com/", "tags": ["artificial reef"], "added": "2026-11-11" },
-        { "id": "levy-2022", "type": "paper", "title": { "en": "Emerging 3D technologies for future reformation of coral reefs", "he": "Emerging 3D technologies for future reformation of coral reefs" }, "text": { "en": "The 2022 paper on designing printed reefs from 3D scans and environmental DNA.", "he": "המאמר מ־2022 על תכנון שוניות מודפסות מסריקות תלת־ממד ו־DNA סביבתי." }, "url": "https://doi.org/10.1016/j.scitotenv.2022.154749", "tags": ["3d printing", "biomimetics"], "added": "2026-11-11" }
+        {
+          "id": "noaa-crcp",
+          "type": "article",
+          "title": {
+            "en": "NOAA Coral Reef Conservation Program",
+            "he": "תוכנית שימור שוניות האלמוגים של NOAA"
+          },
+          "text": {
+            "en": "Background, data and restoration programmes from the US national program.",
+            "he": "רקע, נתונים ותוכניות שיקום מהתוכנית הלאומית האמריקאית."
+          },
+          "url": "https://coralreef.noaa.gov/",
+          "tags": [
+            "coral",
+            "data"
+          ],
+          "added": "2026-11-11"
+        },
+        {
+          "id": "reef-design-lab",
+          "type": "project",
+          "title": {
+            "en": "Reef Design Lab",
+            "he": "Reef Design Lab"
+          },
+          "text": {
+            "en": "A design studio building artificial reef and marine habitat structures.",
+            "he": "סטודיו לעיצוב שבונה שוניות מלאכותיות ומבנים לבתי גידול ימיים."
+          },
+          "url": "https://www.reefdesignlab.com/",
+          "tags": [
+            "artificial reef"
+          ],
+          "added": "2026-11-11"
+        },
+        {
+          "id": "levy-2022",
+          "type": "paper",
+          "title": {
+            "en": "Emerging 3D technologies for future reformation of coral reefs",
+            "he": "Emerging 3D technologies for future reformation of coral reefs"
+          },
+          "text": {
+            "en": "The 2022 paper on designing printed reefs from 3D scans and environmental DNA.",
+            "he": "המאמר מ־2022 על תכנון שוניות מודפסות מסריקות תלת־ממד ו־DNA סביבתי."
+          },
+          "url": "https://doi.org/10.1016/j.scitotenv.2022.154749",
+          "tags": [
+            "3d printing",
+            "biomimetics"
+          ],
+          "added": "2026-11-11"
+        }
       ]
     },
     {
       "id": "design-thinking",
-      "name": { "en": "Design thinking", "he": "חשיבה עיצובית" },
-      "description": { "en": "Methods and courses for teaching and practising design thinking.", "he": "שיטות וקורסים ללימוד ולתרגול של חשיבה עיצובית." },
+      "name": {
+        "en": "Design thinking",
+        "he": "חשיבה עיצובית"
+      },
+      "description": {
+        "en": "Methods and courses for teaching and practising design thinking.",
+        "he": "שיטות וקורסים ללימוד ולתרגול של חשיבה עיצובית."
+      },
       "items": [
-        { "id": "ideo-design-thinking", "type": "article", "title": { "en": "IDEO: Design Thinking", "he": "IDEO: חשיבה עיצובית" }, "text": { "en": "IDEO's introduction to design thinking, with history and resources.", "he": "המבוא של IDEO לחשיבה עיצובית, עם היסטוריה ומקורות." }, "url": "https://designthinking.ideo.com/", "tags": ["method"], "added": "2026-11-11" },
-        { "id": "dschool-resources", "type": "course", "title": { "en": "Stanford d.school resources", "he": "משאבי d.school של סטנפורד" }, "text": { "en": "Free activities, guides and tools from the Hasso Plattner Institute of Design.", "he": "פעילויות, מדריכים וכלים חינמיים מבית הספר לעיצוב של סטנפורד." }, "url": "https://dschool.stanford.edu/resources", "tags": ["teaching", "workshop"], "added": "2026-11-11" }
+        {
+          "id": "ideo-design-thinking",
+          "type": "article",
+          "title": {
+            "en": "IDEO: Design Thinking",
+            "he": "IDEO: חשיבה עיצובית"
+          },
+          "text": {
+            "en": "IDEO's introduction to design thinking, with history and resources.",
+            "he": "המבוא של IDEO לחשיבה עיצובית, עם היסטוריה ומקורות."
+          },
+          "url": "https://designthinking.ideo.com/",
+          "tags": [
+            "method"
+          ],
+          "added": "2026-11-11"
+        },
+        {
+          "id": "dschool-resources",
+          "type": "course",
+          "title": {
+            "en": "Stanford d.school resources",
+            "he": "משאבי d.school של סטנפורד"
+          },
+          "text": {
+            "en": "Free activities, guides and tools from the Hasso Plattner Institute of Design.",
+            "he": "פעילויות, מדריכים וכלים חינמיים מבית הספר לעיצוב של סטנפורד."
+          },
+          "url": "https://dschool.stanford.edu/resources",
+          "tags": [
+            "teaching",
+            "workshop"
+          ],
+          "added": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "3d-printing",
+      "name": {
+        "en": "3D printing",
+        "he": "הדפסת תלת־ממד"
+      },
+      "description": {
+        "en": "Clay and non-planar printing, design for printing, G-code experiments, projects and finishing.",
+        "he": "הדפסת חימר והדפסה לא־מישורית, עיצוב להדפסה, ניסויי G-code, פרויקטים וגימור."
+      },
+      "items": [
+        {
+          "id": "design-and-print-vases-at-the-push-of-a-button-change-settin",
+          "type": "video",
+          "title": {
+            "en": "Design and print vases at the push of a button, change settings mid-print (@rotocopier)",
+            "he": ""
+          },
+          "text": {
+            "en": "Generate a vase and print it right away, then adjust print settings while the print is running.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/DFIPM6dzwim/",
+          "tags": [
+            "vases",
+            "parametric",
+            "live-control",
+            "instagram"
+          ],
+          "added": "2025-02-28",
+          "sub": {
+            "en": "Clay & non-planar printing",
+            "he": "הדפסת חימר והדפסה לא־מישורית"
+          }
+        },
+        {
+          "id": "claywoven-youtube-channel",
+          "type": "video",
+          "title": {
+            "en": "claywoven — YouTube channel",
+            "he": ""
+          },
+          "text": {
+            "en": "A channel of clay 3D-printing experiments: woven textures and non-planar paths.",
+            "he": ""
+          },
+          "url": "https://youtube.com/@claywoven",
+          "tags": [
+            "clay",
+            "non-planar",
+            "textures",
+            "youtube"
+          ],
+          "added": "2025-12-14",
+          "sub": {
+            "en": "Clay & non-planar printing",
+            "he": "הדפסת חימר והדפסה לא־מישורית"
+          }
+        },
+        {
+          "id": "clay-experiments-on-bambu-a1-mini-claywoven",
+          "type": "video",
+          "title": {
+            "en": "Clay experiments on Bambu A1 mini — claywoven",
+            "he": ""
+          },
+          "text": {
+            "en": "Clay printing tried on a small desktop printer, the Bambu Lab A1 mini.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/cddSY5gELl4",
+          "tags": [
+            "clay",
+            "bambu-lab",
+            "desktop-printer",
+            "youtube"
+          ],
+          "added": "2026-02-07",
+          "sub": {
+            "en": "Clay & non-planar printing",
+            "he": "הדפסת חימר והדפסה לא־מישורית"
+          }
+        },
+        {
+          "id": "handle-variations-design-for-mass-production-3d-printing-sla",
+          "type": "video",
+          "title": {
+            "en": "Handle variations: design for mass-production 3D printing — Slant 3D",
+            "he": ""
+          },
+          "text": {
+            "en": "How small changes to a part's geometry make it faster, stronger and cheaper to print in large numbers.",
+            "he": ""
+          },
+          "url": "https://youtu.be/rUUq4kgi7t4",
+          "tags": [
+            "dfam",
+            "mass-production",
+            "print-farm",
+            "youtube"
+          ],
+          "added": "2023-06-29",
+          "sub": {
+            "en": "Design for 3D printing",
+            "he": "עיצוב להדפסת תלת־ממד"
+          }
+        },
+        {
+          "id": "photo-ai-cad-print-real-world-surface-textures-noah-builds",
+          "type": "video",
+          "title": {
+            "en": "Photo → AI → CAD → print: real-world surface textures (@noah.builds_)",
+            "he": ""
+          },
+          "text": {
+            "en": "A workflow that turns a photo of a real surface into a texture on a CAD model, then prints it.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/DTs2JrHiENu/",
+          "tags": [
+            "textures",
+            "ai",
+            "cad",
+            "workflow",
+            "instagram"
+          ],
+          "added": "2026-01-25",
+          "sub": {
+            "en": "Design for 3D printing",
+            "he": "עיצוב להדפסת תלת־ממד"
+          }
+        },
+        {
+          "id": "blendergrbl-send-g-code-from-blender-github",
+          "type": "tool",
+          "title": {
+            "en": "BlenderGRBL — send G-code from Blender (GitHub)",
+            "he": ""
+          },
+          "text": {
+            "en": "A Blender add-on that streams G-code to GRBL machines (CNC, plotters, lasers) straight from Blender.",
+            "he": ""
+          },
+          "url": "https://github.com/fmoel/BlenderGRBL",
+          "tags": [
+            "blender",
+            "g-code",
+            "grbl",
+            "cnc",
+            "open-source"
+          ],
+          "added": "2025-05-15",
+          "sub": {
+            "en": "G-code & slicing experiments",
+            "he": "ניסויי G-code וחיתוך (slicing)"
+          }
+        },
+        {
+          "id": "non-planar-printing-by-bending-g-code-cnc-kitchen",
+          "type": "article",
+          "title": {
+            "en": "Non-planar printing by bending G-code (CNC Kitchen)",
+            "he": ""
+          },
+          "text": {
+            "en": "Print curved layers on an ordinary printer by deforming the model, slicing it, then bending the G-code back.",
+            "he": ""
+          },
+          "url": "https://www.cnckitchen.com/blog/non-planar-3d-printing-by-bending-g-code",
+          "tags": [
+            "non-planar",
+            "g-code",
+            "slicing",
+            "experiment"
+          ],
+          "added": "2025-06-04",
+          "sub": {
+            "en": "G-code & slicing experiments",
+            "he": "ניסויי G-code וחיתוך (slicing)"
+          }
+        },
+        {
+          "id": "nozzleboss-g-code-in-blender",
+          "type": "tool",
+          "title": {
+            "en": "nozzleboss — G-code in Blender",
+            "he": ""
+          },
+          "text": {
+            "en": "A Blender add-on that imports G-code as editable geometry, so you can view, change and export toolpaths.",
+            "he": ""
+          },
+          "url": "https://github.com/Heinz-Loepmeier/nozzleboss",
+          "tags": [
+            "blender",
+            "g-code",
+            "toolpaths",
+            "open-source"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "G-code & slicing experiments",
+            "he": "ניסויי G-code וחיתוך (slicing)"
+          }
+        },
+        {
+          "id": "i-printed-a-better-lathe-chris-borge",
+          "type": "video",
+          "title": {
+            "en": "I printed a better lathe — Chris Borge",
+            "he": ""
+          },
+          "text": {
+            "en": "A working lathe made mostly of 3D-printed parts, and how its design was improved.",
+            "he": ""
+          },
+          "url": "https://youtu.be/6Js8erWbsDQ",
+          "tags": [
+            "machines",
+            "lathe",
+            "printed-tools",
+            "youtube"
+          ],
+          "added": "2024-10-23",
+          "sub": {
+            "en": "Models & projects",
+            "he": "מודלים ופרויקטים"
+          }
+        },
+        {
+          "id": "3d-printing-in-the-1930s-ancient-capture",
+          "type": "video",
+          "title": {
+            "en": "3D printing in the 1930s — Ancient Capture",
+            "he": ""
+          },
+          "text": {
+            "en": "Historic footage of an early technique that worked like 3D printing, long before today's printers.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/kBhqLUGPpf4",
+          "tags": [
+            "history",
+            "photosculpture",
+            "youtube"
+          ],
+          "added": "2024-11-15",
+          "sub": {
+            "en": "Models & projects",
+            "he": "מודלים ופרויקטים"
+          }
+        },
+        {
+          "id": "hyfam-hybrid-formative-additive-manufacturing-johns-hopkins-",
+          "type": "article",
+          "title": {
+            "en": "HyFAM hybrid formative-additive manufacturing (Johns Hopkins) (@jhucase)",
+            "he": ""
+          },
+          "text": {
+            "en": "Johns Hopkins research on HyFAM, which combines forming and 3D printing to fill gaps that printing alone leaves.",
+            "he": ""
+          },
+          "url": "https://engineering.jhu.edu/case/news/hyfam-fills-gaps-in-3d-printing/",
+          "tags": [
+            "research",
+            "hybrid-manufacturing",
+            "johns-hopkins"
+          ],
+          "added": "2025-06-25",
+          "sub": {
+            "en": "Models & projects",
+            "he": "מודלים ופרויקטים"
+          }
+        },
+        {
+          "id": "3d-printed-weaving-loom-jj-shankles",
+          "type": "video",
+          "title": {
+            "en": "3D-printed weaving loom — JJ Shankles",
+            "he": ""
+          },
+          "text": {
+            "en": "A weaving loom made of printed parts.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/zc7fYRQFjMg",
+          "tags": [
+            "textiles",
+            "weaving",
+            "machines",
+            "youtube"
+          ],
+          "added": "2025-12-12",
+          "sub": {
+            "en": "Models & projects",
+            "he": "מודלים ופרויקטים"
+          }
+        },
+        {
+          "id": "eflesh-3d-printable-magnetic-tactile-sensor-intellarity",
+          "type": "video",
+          "title": {
+            "en": "eFlesh — 3D-printable magnetic tactile sensor (@intellarity)",
+            "he": ""
+          },
+          "text": {
+            "en": "A touch sensor made from printed lattice and magnets: it senses pressure when the soft structure is pressed.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/DUS2cHfgHbF/",
+          "tags": [
+            "sensors",
+            "robotics",
+            "tactile",
+            "research",
+            "instagram"
+          ],
+          "added": "2026-02-16",
+          "sub": {
+            "en": "Models & projects",
+            "he": "מודלים ופרויקטים"
+          }
+        },
+        {
+          "id": "electroplating-3d-prints-graphite-hen3drik",
+          "type": "video",
+          "title": {
+            "en": "Electroplating 3D prints (graphite) — HEN3DRIK",
+            "he": ""
+          },
+          "text": {
+            "en": "Coat a print with conductive graphite paint, then electroplate it with metal.",
+            "he": ""
+          },
+          "url": "https://youtu.be/TlD9USAhcEs",
+          "tags": [
+            "electroplating",
+            "metal-finish",
+            "post-processing",
+            "youtube"
+          ],
+          "added": "2025-03-08",
+          "sub": {
+            "en": "Post-processing & finishing",
+            "he": "עיבוד וגימור"
+          }
+        },
+        {
+          "id": "in-fill-out-boiling-pla-to-transform-infill-leo-koda-megosu",
+          "type": "video",
+          "title": {
+            "en": "\"In Fill Out\" — boiling PLA to transform infill (Leo Koda) (@megosu)",
+            "he": ""
+          },
+          "text": {
+            "en": "A design project that boils PLA prints so the inner infill deforms and becomes the visible form.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/DRhJDKMDe4C/",
+          "tags": [
+            "pla",
+            "infill",
+            "material-experiment",
+            "design-project",
+            "instagram"
+          ],
+          "added": "2025-11-28",
+          "sub": {
+            "en": "Post-processing & finishing",
+            "he": "עיבוד וגימור"
+          }
+        },
+        {
+          "id": "wasp-at-formnext-2025",
+          "type": "video",
+          "title": {
+            "en": "WASP at Formnext 2025",
+            "he": ""
+          },
+          "text": {
+            "en": "WASP's printers and projects shown at the Formnext 2025 fair.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1Dndrb1Ru4/",
+          "tags": [
+            "wasp",
+            "clay",
+            "trade-fair",
+            "facebook"
+          ],
+          "added": "2026-01-22",
+          "sub": {
+            "en": "Printers, slicers & tips",
+            "he": "מדפסות, תוכנות חיתוך וטיפים"
+          }
+        },
+        {
+          "id": "fix-tiny-printed-text-arachne-3djake",
+          "type": "video",
+          "title": {
+            "en": "Fix tiny printed text (Arachne) — 3DJake",
+            "he": ""
+          },
+          "text": {
+            "en": "Use the Arachne wall generator in the slicer to print small text cleanly.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/e91awvJ_RvE",
+          "tags": [
+            "slicer",
+            "arachne",
+            "small-details",
+            "tips",
+            "youtube"
+          ],
+          "added": "2026-05-06",
+          "sub": {
+            "en": "Printers, slicers & tips",
+            "he": "מדפסות, תוכנות חיתוך וטיפים"
+          }
+        },
+        {
+          "id": "rotating-multi-outlet-nozzle",
+          "type": "video",
+          "title": {
+            "en": "Rotating multi-outlet nozzle",
+            "he": ""
+          },
+          "text": {
+            "en": "A rotating nozzle with several outlets.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1JKjcdGtDb/",
+          "tags": [
+            "nozzle",
+            "hardware",
+            "facebook"
+          ],
+          "added": "2026-06-17",
+          "sub": {
+            "en": "Printers, slicers & tips",
+            "he": "מדפסות, תוכנות חיתוך וטיפים"
+          }
+        },
+        {
+          "id": "claude-3d-printer-is-an-absurdly-useful-combination-makeuseo",
+          "type": "article",
+          "title": {
+            "en": "Claude + 3D printer is an absurdly useful combination (MakeUseOf)",
+            "he": ""
+          },
+          "text": {
+            "en": "MakeUseOf on using Claude alongside a 3D printer.",
+            "he": ""
+          },
+          "url": "https://www.makeuseof.com/claude-3d-printer-absurdly-useful-combination/",
+          "tags": [
+            "ai",
+            "claude",
+            "workflow"
+          ],
+          "added": "2026-11-07",
+          "sub": {
+            "en": "Printers, slicers & tips",
+            "he": "מדפסות, תוכנות חיתוך וטיפים"
+          }
+        }
+      ]
+    },
+    {
+      "id": "web-open-source-tools",
+      "name": {
+        "en": "Web and Open-Source Tools",
+        "he": "כלי רשת וקוד פתוח"
+      },
+      "description": {
+        "en": "Free and open-source software for the desktop, for developers and for getting work done.",
+        "he": "תוכנות חינמיות ובקוד פתוח למחשב, לפיתוח ולעבודה היומיומית."
+      },
+      "items": [
+        {
+          "id": "xda-rustdesk-self-hosted-a-free-remote-desktop-server-on-ras",
+          "type": "article",
+          "title": {
+            "en": "XDA - RustDesk - self-hosted a free remote desktop server on Raspberry Pi and Windows",
+            "he": ""
+          },
+          "text": {
+            "en": "XDA's guide to running your own RustDesk server for free, open-source remote desktop access.",
+            "he": ""
+          },
+          "url": "https://share.google/f16oCqlzwF2zt4Lzl",
+          "tags": [
+            "remote-desktop",
+            "self-hosted",
+            "raspberry-pi",
+            "open-source"
+          ],
+          "added": "2025-09-08",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "localsend-private-local-file-sharing",
+          "type": "tool",
+          "title": {
+            "en": "LocalSend — private local file sharing",
+            "he": ""
+          },
+          "text": {
+            "en": "Send files between nearby devices over your local network, with no cloud and no account. Works on every platform.",
+            "he": ""
+          },
+          "url": "https://github.com/localsend/localsend",
+          "tags": [
+            "file-sharing",
+            "cross-platform",
+            "privacy",
+            "open-source"
+          ],
+          "added": "2026-08-17",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "sharex-screenshots-recording-annotation",
+          "type": "tool",
+          "title": {
+            "en": "ShareX — screenshots, recording, annotation",
+            "he": ""
+          },
+          "text": {
+            "en": "A free Windows tool for screenshots, screen recording, annotation and quick uploads.",
+            "he": ""
+          },
+          "url": "https://github.com/ShareX/ShareX",
+          "tags": [
+            "screenshots",
+            "screen-recording",
+            "windows",
+            "open-source"
+          ],
+          "added": "2026-08-26",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "optimizerduck-windows-optimizer",
+          "type": "tool",
+          "title": {
+            "en": "optimizerDuck — Windows optimizer",
+            "he": ""
+          },
+          "text": {
+            "en": "An open-source Windows tweaking and cleanup tool.",
+            "he": ""
+          },
+          "url": "https://github.com/itsfatduck/optimizerDuck",
+          "tags": [
+            "windows",
+            "optimization",
+            "open-source"
+          ],
+          "added": "2026-09-07",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "open-source-100-local-grammarly-alternative",
+          "type": "tool",
+          "title": {
+            "en": "Open-source 100% local Grammarly alternative",
+            "he": ""
+          },
+          "text": {
+            "en": "Harper: a grammar checker that runs entirely on your device, so your writing never leaves it.",
+            "he": ""
+          },
+          "url": "https://github.com/automattic/harper",
+          "tags": [
+            "writing",
+            "grammar",
+            "local",
+            "privacy",
+            "open-source"
+          ],
+          "added": "2026-09-22",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "screen-edge-pill-that-watches-your-computer",
+          "type": "tool",
+          "title": {
+            "en": "Screen-edge pill that watches your computer",
+            "he": ""
+          },
+          "text": {
+            "en": "EdgePilot: a small pill-shaped helper that sits on the screen edge and keeps an eye on what your computer is doing.",
+            "he": ""
+          },
+          "url": "https://github.com/pricootz/edgepilot",
+          "tags": [
+            "desktop",
+            "monitoring",
+            "open-source"
+          ],
+          "added": "2026-10-04",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "pecofence-open-source-alternative-to-fences",
+          "type": "tool",
+          "title": {
+            "en": "PecoFence — open-source alternative to Fences",
+            "he": ""
+          },
+          "text": {
+            "en": "Organise desktop icons into boxes (fences), a free alternative to Stardock Fences.",
+            "he": ""
+          },
+          "url": "https://github.com/DayuanJiang/PecoFence",
+          "tags": [
+            "desktop",
+            "organisation",
+            "windows",
+            "open-source"
+          ],
+          "added": "2026-10-05",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "artcraft-free-open-source-creative-apps-adobe-fusion-and-off",
+          "type": "tool",
+          "title": {
+            "en": "ArtCraft — free open-source creative apps (Adobe Fusion and office alternatives)",
+            "he": ""
+          },
+          "text": {
+            "en": "A collection of free creative and office apps offered as open-source alternatives to paid suites.",
+            "he": ""
+          },
+          "url": "https://github.com/storytold/artcraft",
+          "tags": [
+            "creative-apps",
+            "adobe-alternative",
+            "open-source"
+          ],
+          "added": "2026-10-07",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          },
+          "links": [
+            {
+              "label": "App list",
+              "url": "https://getartcraft.com/apps"
+            }
+          ]
+        },
+        {
+          "id": "plexo-download-manager-merging-every-connection",
+          "type": "tool",
+          "title": {
+            "en": "Plexo — download manager merging every connection",
+            "he": ""
+          },
+          "text": {
+            "en": "A download manager that combines all your network connections to download faster.",
+            "he": ""
+          },
+          "url": "https://github.com/anmolkapil/plexo",
+          "tags": [
+            "downloads",
+            "networking",
+            "open-source"
+          ],
+          "added": "2026-10-23",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "upscayl-free-ai-image-upscaler",
+          "type": "tool",
+          "title": {
+            "en": "Upscayl — free AI image upscaler",
+            "he": ""
+          },
+          "text": {
+            "en": "Enlarge and sharpen images with AI, running locally on your computer.",
+            "he": ""
+          },
+          "url": "https://github.com/upscayl/upscayl",
+          "tags": [
+            "images",
+            "ai",
+            "upscaling",
+            "open-source"
+          ],
+          "added": "2026-11-15",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "gpu-task-manager-ufd-tech",
+          "type": "tool",
+          "title": {
+            "en": "GPU Task Manager — UFD Tech",
+            "he": ""
+          },
+          "text": {
+            "en": "A task-manager view of what is using your GPU.",
+            "he": ""
+          },
+          "url": "https://github.com/shanselman/gputaskman",
+          "tags": [
+            "gpu",
+            "monitoring",
+            "windows",
+            "open-source"
+          ],
+          "added": "2026-11-19",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "beamer-share-mouse-between-two-computers",
+          "type": "tool",
+          "title": {
+            "en": "Beamer — share mouse between two computers",
+            "he": ""
+          },
+          "text": {
+            "en": "Use one mouse (and keyboard) across two computers.",
+            "he": ""
+          },
+          "url": "https://github.com/kalkman-code/beamer",
+          "tags": [
+            "mouse-sharing",
+            "multi-computer",
+            "open-source"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "terraprinter-real-places-as-3d-printable-terrain",
+          "type": "tool",
+          "title": {
+            "en": "TerraPrinter — real places as 3D-printable terrain",
+            "he": ""
+          },
+          "text": {
+            "en": "A free browser tool that turns real places on Earth, and even Mars and the Moon, into 3D-printable terrain models with buildings, roads and water. Exports STL or 3MF for your slicer.",
+            "he": ""
+          },
+          "url": "https://terraprinter.com/",
+          "tags": [
+            "3d-printing",
+            "terrain",
+            "maps",
+            "stl",
+            "web-tool"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Desktop, OS & PC tools",
+            "he": "כלים למחשב ולמערכת ההפעלה"
+          }
+        },
+        {
+          "id": "make-beautiful-desktop-apps-in-c-the-cherno",
+          "type": "video",
+          "title": {
+            "en": "Make beautiful desktop apps in C++ — The Cherno",
+            "he": ""
+          },
+          "text": {
+            "en": "How to build good-looking native desktop apps in C++.",
+            "he": ""
+          },
+          "url": "https://youtu.be/-NJDxf4XwlQ",
+          "tags": [
+            "c++",
+            "desktop-apps",
+            "ui",
+            "youtube"
+          ],
+          "added": "2023-08-25",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "brain-js-for-beginners-dev-to",
+          "type": "article",
+          "title": {
+            "en": "Brain.js for beginners (dev.to)",
+            "he": ""
+          },
+          "text": {
+            "en": "An introduction to Brain.js, a library for neural networks in JavaScript.",
+            "he": ""
+          },
+          "url": "https://dev.to/gfish94/brainjs-for-beginners-1g77",
+          "tags": [
+            "javascript",
+            "neural-networks",
+            "machine-learning",
+            "tutorial"
+          ],
+          "added": "2023-10-10",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "switch-statement-alternative-flutter-flutter-mapp",
+          "type": "video",
+          "title": {
+            "en": "Switch statement alternative (Flutter) — Flutter Mapp",
+            "he": ""
+          },
+          "text": {
+            "en": "A cleaner alternative to the switch statement in Flutter and Dart.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/cbA2HY1xV0w",
+          "tags": [
+            "flutter",
+            "dart",
+            "code-tips",
+            "youtube"
+          ],
+          "added": "2023-10-27",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "software-i-use-as-a-programmer-coding-with-lewis",
+          "type": "video",
+          "title": {
+            "en": "Software I use as a programmer — Coding with Lewis",
+            "he": ""
+          },
+          "text": {
+            "en": "A programmer's everyday software.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/TBXZNx4S8vk",
+          "tags": [
+            "dev-setup",
+            "software",
+            "youtube"
+          ],
+          "added": "2023-10-27",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "10-coolest-open-source-tools-of-2023-crn",
+          "type": "article",
+          "title": {
+            "en": "10 coolest open-source tools of 2023 (CRN)",
+            "he": ""
+          },
+          "text": {
+            "en": "CRN's round-up of notable open-source software from 2023.",
+            "he": ""
+          },
+          "url": "https://www.crn.com/news/software/the-10-coolest-open-source-software-tools-of-2023",
+          "tags": [
+            "open-source",
+            "roundup"
+          ],
+          "added": "2023-12-02",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "post-in-r-opensource",
+          "type": "other",
+          "title": {
+            "en": "Post in r/opensource",
+            "he": ""
+          },
+          "text": {
+            "en": "A post shared from Reddit's r/opensource community.",
+            "he": ""
+          },
+          "url": "https://www.reddit.com/r/opensource/s/MCCZUPLnKe",
+          "tags": [
+            "open-source",
+            "reddit"
+          ],
+          "added": "2024-01-17",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "post-in-r-opensource-march-2024",
+          "type": "other",
+          "title": {
+            "en": "Post in r/opensource (March 2024)",
+            "he": ""
+          },
+          "text": {
+            "en": "A post shared from Reddit's r/opensource community.",
+            "he": ""
+          },
+          "url": "https://www.reddit.com/r/opensource/s/L27nORgshr",
+          "tags": [
+            "open-source",
+            "reddit"
+          ],
+          "added": "2024-03-12",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "post-in-r-unity3d",
+          "type": "other",
+          "title": {
+            "en": "Post in r/Unity3D",
+            "he": ""
+          },
+          "text": {
+            "en": "A post shared from Reddit's Unity community.",
+            "he": ""
+          },
+          "url": "https://www.reddit.com/r/Unity3D/s/MQdWWoKbv8",
+          "tags": [
+            "unity",
+            "game-dev",
+            "reddit"
+          ],
+          "added": "2024-06-24",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "jetbrains-rider-for-unreal-engine-free-80-lv",
+          "type": "article",
+          "title": {
+            "en": "JetBrains Rider for Unreal Engine — free (80.lv)",
+            "he": ""
+          },
+          "text": {
+            "en": "80.lv on JetBrains releasing a free version of its Rider code editor for Unreal Engine development.",
+            "he": ""
+          },
+          "url": "https://80.lv/articles/jetbrains-launched-rider-for-unreal-engine-free-version/",
+          "tags": [
+            "unreal-engine",
+            "ide",
+            "game-dev"
+          ],
+          "added": "2024-10-26",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "map3d-free-open-source-3d-city-map-generator",
+          "type": "tool",
+          "title": {
+            "en": "Map3D — free open-source 3D city map generator",
+            "he": ""
+          },
+          "text": {
+            "en": "Generate 3D city maps from real map data.",
+            "he": ""
+          },
+          "url": "https://github.com/cartesiancs/map3d",
+          "tags": [
+            "maps",
+            "3d",
+            "cities",
+            "gis",
+            "open-source"
+          ],
+          "added": "2026-07-15",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19GzcSXXHR/"
+            }
+          ]
+        },
+        {
+          "id": "quarkdown-markdown-with-layouts-and-scripting",
+          "type": "tool",
+          "title": {
+            "en": "Quarkdown — Markdown with layouts and scripting",
+            "he": ""
+          },
+          "text": {
+            "en": "Markdown extended with functions, layouts and scripting, for documents, books and slides.",
+            "he": ""
+          },
+          "url": "https://github.com/iamgio/quarkdown",
+          "tags": [
+            "markdown",
+            "documents",
+            "typesetting",
+            "open-source"
+          ],
+          "added": "2026-08-05",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1LTFwMDTYM/"
+            }
+          ]
+        },
+        {
+          "id": "complete-shelf-open-source-swiftui-bookshelf-template",
+          "type": "video",
+          "title": {
+            "en": "Complete Shelf — open-source SwiftUI bookshelf template",
+            "he": ""
+          },
+          "text": {
+            "en": "An open-source SwiftUI template for a bookshelf app.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/199EYqRmDt/",
+          "tags": [
+            "swiftui",
+            "ios",
+            "template",
+            "open-source",
+            "facebook"
+          ],
+          "added": "2026-08-08",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "scrapy-python-web-scraping-framework",
+          "type": "tool",
+          "title": {
+            "en": "Scrapy — Python web-scraping framework",
+            "he": ""
+          },
+          "text": {
+            "en": "A mature Python framework for crawling websites and extracting structured data.",
+            "he": ""
+          },
+          "url": "https://github.com/scrapy/scrapy",
+          "tags": [
+            "python",
+            "web-scraping",
+            "data",
+            "open-source"
+          ],
+          "added": "2026-08-10",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1aY8Q7J2dj/"
+            }
+          ]
+        },
+        {
+          "id": "asciline-video-as-packed-text-no-video-element",
+          "type": "tool",
+          "title": {
+            "en": "ASCILINE — video as packed text, no video element",
+            "he": ""
+          },
+          "text": {
+            "en": "Plays video in the browser as packed text frames instead of using a video element.",
+            "he": ""
+          },
+          "url": "https://github.com/YusufB5/ASCILINE",
+          "tags": [
+            "web",
+            "video",
+            "ascii",
+            "experiment",
+            "open-source"
+          ],
+          "added": "2026-09-08",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/18ye6qCMZ9/"
+            }
+          ]
+        },
+        {
+          "id": "quickliquid-real-refraction-glass-ui",
+          "type": "tool",
+          "title": {
+            "en": "QuickLiquid — real refraction glass UI",
+            "he": ""
+          },
+          "text": {
+            "en": "A web UI effect that imitates glass with real refraction.",
+            "he": ""
+          },
+          "url": "https://github.com/amarnath3003/quickLiquid",
+          "tags": [
+            "ui",
+            "glass-effect",
+            "web",
+            "shaders",
+            "open-source"
+          ],
+          "added": "2026-09-13",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1H1u7Y37Gw/"
+            }
+          ]
+        },
+        {
+          "id": "byoc-store-files-in-users-own-cloud",
+          "type": "video",
+          "title": {
+            "en": "BYOC — store files in users' own cloud",
+            "he": ""
+          },
+          "text": {
+            "en": "\"Bring your own cloud\": apps keep users' files in each user's own cloud storage instead of on the app's servers.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/19cYdwaKJQ/",
+          "tags": [
+            "cloud-storage",
+            "privacy",
+            "architecture",
+            "facebook"
+          ],
+          "added": "2026-09-15",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "ruview-vital-signs-via-wifi",
+          "type": "tool",
+          "title": {
+            "en": "RuView — vital signs via WiFi",
+            "he": ""
+          },
+          "text": {
+            "en": "An open-source project that senses vital signs such as breathing from WiFi signals.",
+            "he": ""
+          },
+          "url": "https://github.com/ruvnet/RuView",
+          "tags": [
+            "wifi-sensing",
+            "health",
+            "research",
+            "open-source"
+          ],
+          "added": "2026-09-19",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19agR5jZD1/"
+            }
+          ]
+        },
+        {
+          "id": "ln-vpype-3d-scenes-to-plotter-lines-index-opensource",
+          "type": "video",
+          "title": {
+            "en": "ln + vpype — 3D scenes to plotter lines (@index.opensource)",
+            "he": ""
+          },
+          "text": {
+            "en": "Render 3D scenes as vector lines with ln, then prepare them for a pen plotter with vpype.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/Dd9Uvy9ByCE/",
+          "tags": [
+            "pen-plotter",
+            "generative-art",
+            "3d",
+            "vector",
+            "instagram"
+          ],
+          "added": "2026-10-04",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "post-in-r-coolgithubprojects",
+          "type": "other",
+          "title": {
+            "en": "Post in r/coolgithubprojects",
+            "he": ""
+          },
+          "text": {
+            "en": "A project shared in Reddit's r/coolgithubprojects.",
+            "he": ""
+          },
+          "url": "https://www.reddit.com/r/coolgithubprojects/s/0jk4RZlYjg",
+          "tags": [
+            "github",
+            "reddit"
+          ],
+          "added": "2026-10-08",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "robot-heads-interactive-robot-avatars-react-library",
+          "type": "tool",
+          "title": {
+            "en": "Robot Heads — interactive robot avatars React library",
+            "he": ""
+          },
+          "text": {
+            "en": "A React library of interactive robot-head avatars.",
+            "he": ""
+          },
+          "url": "https://github.com/fayazara/robot-heads",
+          "tags": [
+            "react",
+            "avatars",
+            "ui",
+            "open-source"
+          ],
+          "added": "2026-10-11",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1HmzK3sTYW/"
+            }
+          ]
+        },
+        {
+          "id": "causticsengineering-compute-glass-that-projects-an-image-rep",
+          "type": "video",
+          "title": {
+            "en": "causticsEngineering — compute glass that projects an image (repo) (@trending.repos)",
+            "he": ""
+          },
+          "text": {
+            "en": "Calculates the surface of a piece of glass or acrylic so the light passing through it projects a chosen image. Ready for CNC milling.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/De7HbfbD2dp/",
+          "tags": [
+            "caustics",
+            "optics",
+            "computational-design",
+            "cnc",
+            "instagram"
+          ],
+          "added": "2026-10-31",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "bui-blender-s-gpu-ui-as-a-standalone-library",
+          "type": "tool",
+          "title": {
+            "en": "BUI — Blender's GPU UI as a standalone library",
+            "he": ""
+          },
+          "text": {
+            "en": "Blender's GPU-drawn interface, extracted as a library you can use in other apps.",
+            "he": ""
+          },
+          "url": "https://github.com/ppmpreetham/BUI",
+          "tags": [
+            "blender",
+            "ui",
+            "gpu",
+            "open-source"
+          ],
+          "added": "2026-11-08",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1J5Zg3MUEx/"
+            }
+          ]
+        },
+        {
+          "id": "gpui-rust-desktop-ui-without-a-browser-better-stack",
+          "type": "video",
+          "title": {
+            "en": "GPUI — Rust desktop UI without a browser — Better Stack",
+            "he": ""
+          },
+          "text": {
+            "en": "Better Stack on GPUI, a GPU-accelerated Rust framework for desktop apps that doesn't use a browser engine.",
+            "he": ""
+          },
+          "url": "https://youtu.be/YjCsu1m6fJE",
+          "tags": [
+            "rust",
+            "desktop-apps",
+            "ui",
+            "gpu",
+            "youtube"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "bambulabs-api-python-api-for-bambu-lab-printers",
+          "type": "tool",
+          "title": {
+            "en": "bambulabs_api — Python API for Bambu Lab printers",
+            "he": ""
+          },
+          "text": {
+            "en": "A Python library for controlling and monitoring Bambu Lab 3D printers from your own code.",
+            "he": ""
+          },
+          "url": "https://github.com/torbenconto/bambulabs_api",
+          "tags": [
+            "python",
+            "bambu-lab",
+            "3d-printing",
+            "automation",
+            "open-source"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Dev tools & code",
+            "he": "כלי פיתוח וקוד"
+          }
+        },
+        {
+          "id": "a-simple-file-management-system-jeff-su",
+          "type": "video",
+          "title": {
+            "en": "A simple file-management system — Jeff Su",
+            "he": ""
+          },
+          "text": {
+            "en": "A simple, practical way to name and organise your files and folders.",
+            "he": ""
+          },
+          "url": "https://youtu.be/MM-MPS57qKA",
+          "tags": [
+            "file-management",
+            "organisation",
+            "youtube"
+          ],
+          "added": "2023-07-24",
+          "sub": {
+            "en": "Productivity apps",
+            "he": "אפליקציות פרודוקטיביות"
+          }
+        },
+        {
+          "id": "kaneo-minimal-self-hosted-project-management",
+          "type": "tool",
+          "title": {
+            "en": "Kaneo — minimal self-hosted project management",
+            "he": ""
+          },
+          "text": {
+            "en": "A lightweight project-management board you host yourself.",
+            "he": ""
+          },
+          "url": "https://github.com/usekaneo/kaneo",
+          "tags": [
+            "project-management",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-08-17",
+          "sub": {
+            "en": "Productivity apps",
+            "he": "אפליקציות פרודוקטיביות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/v/14s3ryLuVCG/"
+            }
+          ]
+        },
+        {
+          "id": "midday-invoicing-time-tracking-files-for-freelancers",
+          "type": "tool",
+          "title": {
+            "en": "Midday — invoicing, time tracking & files for freelancers",
+            "he": ""
+          },
+          "text": {
+            "en": "Invoicing, time tracking, files and finances in one open-source app for freelancers and small businesses.",
+            "he": ""
+          },
+          "url": "https://github.com/midday-ai/midday",
+          "tags": [
+            "freelance",
+            "invoicing",
+            "time-tracking",
+            "open-source"
+          ],
+          "added": "2026-09-08",
+          "sub": {
+            "en": "Productivity apps",
+            "he": "אפליקציות פרודוקטיביות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1D64ziYDx5/"
+            }
+          ]
+        },
+        {
+          "id": "the-best-productivity-tool-i-own-open-source-xda",
+          "type": "article",
+          "title": {
+            "en": "\"The best productivity tool I own\" — open source (XDA)",
+            "he": ""
+          },
+          "text": {
+            "en": "XDA on an open-source tool the writer calls their best productivity tool.",
+            "he": ""
+          },
+          "url": "https://www.xda-developers.com/this-open-source-tool-is-the-best-productivity-tool-i-own/",
+          "tags": [
+            "productivity",
+            "open-source"
+          ],
+          "added": "2026-09-28",
+          "sub": {
+            "en": "Productivity apps",
+            "he": "אפליקציות פרודוקטיביות"
+          }
+        },
+        {
+          "id": "personal-finance-app-worth-1m-now-open-source",
+          "type": "tool",
+          "title": {
+            "en": "Personal-finance app worth ~$1M, now open source",
+            "he": ""
+          },
+          "text": {
+            "en": "Maybe: a personal-finance app that was released as open source.",
+            "he": ""
+          },
+          "url": "https://github.com/maybe-finance/maybe",
+          "tags": [
+            "personal-finance",
+            "budgeting",
+            "open-source"
+          ],
+          "added": "2026-11-11",
+          "sub": {
+            "en": "Productivity apps",
+            "he": "אפליקציות פרודוקטיביות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1Cd9EdR3tf/"
+            }
+          ]
+        },
+        {
+          "id": "free-crm-on-github",
+          "type": "tool",
+          "title": {
+            "en": "Free CRM on GitHub",
+            "he": ""
+          },
+          "text": {
+            "en": "Ever Gauzy: an open-source business platform with CRM, HR, time tracking and project management.",
+            "he": ""
+          },
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "tags": [
+            "crm",
+            "business",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "Productivity apps",
+            "he": "אפליקציות פרודוקטיביות"
+          }
+        },
+        {
+          "id": "signudoc-open-source-docusign-alternative",
+          "type": "tool",
+          "title": {
+            "en": "SignuDoc — open-source DocuSign alternative",
+            "he": ""
+          },
+          "text": {
+            "en": "Sign documents electronically with an open-source alternative to DocuSign.",
+            "he": ""
+          },
+          "url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
+          "tags": [
+            "e-signature",
+            "documents",
+            "docusign-alternative",
+            "open-source"
+          ],
+          "added": "2026-11-20",
+          "sub": {
+            "en": "Productivity apps",
+            "he": "אפליקציות פרודוקטיביות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1M1PLfhKig/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-guides-and-info",
+      "name": {
+        "en": "AI Guides and Info",
+        "he": "מדריכים ומידע על בינה מלאכותית"
+      },
+      "description": {
+        "en": "AI tools for 3D, images, video and design.",
+        "he": "כלי בינה מלאכותית לתלת־ממד, תמונות, וידאו ועיצוב."
+      },
+      "items": [
+        {
+          "id": "ai-images-to-3d-models-with-wonder3d-pogs-cafe",
+          "type": "tool",
+          "title": {
+            "en": "AI images to 3D models with Wonder3D — Pogs Cafe",
+            "he": ""
+          },
+          "text": {
+            "en": "Wonder3D: open-source research code that turns a single image into a textured 3D model.",
+            "he": ""
+          },
+          "url": "https://github.com/xxlong0/Wonder3D",
+          "tags": [
+            "image-to-3d",
+            "3d-generation",
+            "research",
+            "open-source"
+          ],
+          "added": "2023-11-29",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "krea-ai-image-upscaler-ai-quest",
+          "type": "tool",
+          "title": {
+            "en": "Krea AI image upscaler — AI Quest",
+            "he": ""
+          },
+          "text": {
+            "en": "Krea's AI tool for enlarging and adding detail to images.",
+            "he": ""
+          },
+          "url": "https://www.krea.ai/",
+          "tags": [
+            "upscaling",
+            "images",
+            "ai"
+          ],
+          "added": "2024-01-09",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "meshlab-open-source-mesh-processing",
+          "type": "tool",
+          "title": {
+            "en": "MeshLab — open-source mesh processing",
+            "he": ""
+          },
+          "text": {
+            "en": "A free desktop app for cleaning, repairing, simplifying and converting 3D meshes and point clouds.",
+            "he": ""
+          },
+          "url": "https://github.com/cnr-isti-vclab/meshlab",
+          "tags": [
+            "meshes",
+            "3d-scanning",
+            "repair",
+            "open-source"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "qwen-image-edit-tutorial-ai-search",
+          "type": "video",
+          "title": {
+            "en": "Qwen Image Edit tutorial — AI Search",
+            "he": ""
+          },
+          "text": {
+            "en": "How to edit images with prompts using Alibaba's open Qwen Image Edit model.",
+            "he": ""
+          },
+          "url": "https://youtu.be/WOcxMUwKWIk",
+          "tags": [
+            "image-editing",
+            "qwen",
+            "open-model",
+            "youtube"
+          ],
+          "added": "2025-08-21",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "hunyuan3d-2-windows-portable-github",
+          "type": "tool",
+          "title": {
+            "en": "Hunyuan3D-2 Windows portable (GitHub)",
+            "he": ""
+          },
+          "text": {
+            "en": "A ready-to-run Windows package of Tencent's Hunyuan3D-2, which generates 3D models from images or text.",
+            "he": ""
+          },
+          "url": "https://github.com/YanWenKun/Hunyuan3D-2-WinPortable",
+          "tags": [
+            "image-to-3d",
+            "hunyuan3d",
+            "windows",
+            "open-source"
+          ],
+          "added": "2025-12-27",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "apple-sharp-single-image-to-3d-gaussian-splats-open-source-r",
+          "type": "tool",
+          "title": {
+            "en": "Apple SHARP — single image to 3D Gaussian splats, open source (@robdewinter1)",
+            "he": ""
+          },
+          "text": {
+            "en": "Turns one photo into a 3D Gaussian-splat scene you can look around in.",
+            "he": ""
+          },
+          "url": "https://github.com/Sharp-ML/SHARP-ML",
+          "tags": [
+            "gaussian-splats",
+            "image-to-3d",
+            "apple",
+            "open-source"
+          ],
+          "added": "2025-12-29",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Apple ml-sharp repo",
+              "url": "https://github.com/apple-aiml-research/ml-sharp"
+            }
+          ]
+        },
+        {
+          "id": "versecrafter-4d-controllable-ai-video-model-photogametry",
+          "type": "paper",
+          "title": {
+            "en": "VerseCrafter — 4D-controllable AI video model (photogametry)",
+            "he": ""
+          },
+          "text": {
+            "en": "A research video model that lets you control both the camera and the movement of objects in a generated scene.",
+            "he": ""
+          },
+          "url": "https://sixiaozheng.github.io/VerseCrafter_page/",
+          "tags": [
+            "video-generation",
+            "4d",
+            "camera-control",
+            "research"
+          ],
+          "added": "2026-02-25",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "text-to-cad-github",
+          "type": "tool",
+          "title": {
+            "en": "text-to-cad (GitHub)",
+            "he": ""
+          },
+          "text": {
+            "en": "Describe a part in words and get a CAD model.",
+            "he": ""
+          },
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "tags": [
+            "text-to-cad",
+            "cad",
+            "ai",
+            "open-source"
+          ],
+          "added": "2026-07-23",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "open-source-higgsfield-alternative-cinematic-camera-moves",
+          "type": "tool",
+          "title": {
+            "en": "Open-source Higgsfield alternative (cinematic camera moves)",
+            "he": ""
+          },
+          "text": {
+            "en": "A free alternative to Higgsfield for AI videos with cinematic camera moves.",
+            "he": ""
+          },
+          "url": "https://github.com/wide-trace/open-higgsfield",
+          "tags": [
+            "video-generation",
+            "camera-moves",
+            "open-source"
+          ],
+          "added": "2026-08-08",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1CtMeqUs7c/"
+            }
+          ]
+        },
+        {
+          "id": "ultrashape-1-0-low-res-to-detailed-watertight-3d",
+          "type": "tool",
+          "title": {
+            "en": "UltraShape 1.0 — low-res to detailed watertight 3D",
+            "he": ""
+          },
+          "text": {
+            "en": "Refines a rough, low-resolution 3D shape into a detailed, watertight model.",
+            "he": ""
+          },
+          "url": "https://github.com/PKU-YuanGroup/UltraShape-1.0",
+          "tags": [
+            "3d-generation",
+            "mesh-refinement",
+            "research",
+            "open-source"
+          ],
+          "added": "2026-08-21",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1DfaU3G8yv/"
+            }
+          ]
+        },
+        {
+          "id": "img2threejs-image-or-reference-photo-to-editable-animation-r",
+          "type": "tool",
+          "title": {
+            "en": "img2threejs — image or reference photo to editable, animation-ready Three.js code",
+            "he": ""
+          },
+          "text": {
+            "en": "Turns an image or reference photo into a Three.js model as code you can edit and animate.",
+            "he": ""
+          },
+          "url": "https://github.com/img2threejs/img2threejs",
+          "tags": [
+            "threejs",
+            "image-to-3d",
+            "code",
+            "web",
+            "open-source"
+          ],
+          "added": "2026-08-24",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1C6b28WB66/"
+            }
+          ]
+        },
+        {
+          "id": "jing-playable-ai-generated-first-person-worlds",
+          "type": "tool",
+          "title": {
+            "en": "Jing — playable AI-generated first-person worlds",
+            "he": ""
+          },
+          "text": {
+            "en": "Generates worlds you can walk through in first person.",
+            "he": ""
+          },
+          "url": "https://github.com/XGEN-Labs/XGEN-JING/",
+          "tags": [
+            "world-generation",
+            "games",
+            "ai",
+            "open-source"
+          ],
+          "added": "2026-09-20",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "4danyone-novel-views-of-a-person-from-one-video",
+          "type": "tool",
+          "title": {
+            "en": "4DAnyone — novel views of a person from one video",
+            "he": ""
+          },
+          "text": {
+            "en": "Research code that renders a person from new camera angles using a single video.",
+            "he": ""
+          },
+          "url": "https://github.com/ant-research/4DAnyone",
+          "tags": [
+            "4d",
+            "novel-view",
+            "humans",
+            "research",
+            "open-source"
+          ],
+          "added": "2026-09-22",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "kiln-llms-build-game-ready-3d-models",
+          "type": "tool",
+          "title": {
+            "en": "Kiln — LLMs build game-ready 3D models",
+            "he": ""
+          },
+          "text": {
+            "en": "Language models build 3D models ready for use in games.",
+            "he": ""
+          },
+          "url": "https://github.com/instruktlabs/kiln",
+          "tags": [
+            "llm",
+            "3d-generation",
+            "game-assets",
+            "open-source"
+          ],
+          "added": "2026-09-29",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "aha-3d-indoor-video-to-editable-3d-scene",
+          "type": "tool",
+          "title": {
+            "en": "Aha 3D — indoor video to editable 3D scene",
+            "he": ""
+          },
+          "text": {
+            "en": "Turns a video of a room into a 3D scene you can edit.",
+            "he": ""
+          },
+          "url": "https://github.com/KevinXu02/aha-3d",
+          "tags": [
+            "video-to-3d",
+            "interiors",
+            "scenes",
+            "open-source"
+          ],
+          "added": "2026-09-29",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "idol-one-photo-to-a-3d-object",
+          "type": "tool",
+          "title": {
+            "en": "Idol — one photo to a 3D object",
+            "he": ""
+          },
+          "text": {
+            "en": "An SDK that makes a 3D object from a single photo.",
+            "he": ""
+          },
+          "url": "https://github.com/speridlabs/idol-sdk",
+          "tags": [
+            "image-to-3d",
+            "sdk",
+            "open-source"
+          ],
+          "added": "2026-11-01",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "freefield-open-source-higgsfield-for-comfyui",
+          "type": "tool",
+          "title": {
+            "en": "Freefield — open-source Higgsfield for ComfyUI",
+            "he": ""
+          },
+          "text": {
+            "en": "Higgsfield-style cinematic camera effects as ComfyUI workflows.",
+            "he": ""
+          },
+          "url": "https://github.com/neuregex/freefield",
+          "tags": [
+            "comfyui",
+            "video-generation",
+            "camera-moves",
+            "open-source"
+          ],
+          "added": "2026-11-06",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1C7CVZKbtG/"
+            }
+          ]
+        },
+        {
+          "id": "google-pointdit-3d-geometry-estimation",
+          "type": "tool",
+          "title": {
+            "en": "Google PointDiT — 3D geometry estimation",
+            "he": ""
+          },
+          "text": {
+            "en": "Google Research code that estimates 3D geometry with a diffusion transformer.",
+            "he": ""
+          },
+          "url": "https://github.com/google-research/pointdit",
+          "tags": [
+            "3d-geometry",
+            "point-clouds",
+            "google",
+            "research"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1JwT2KLkNz/"
+            }
+          ]
+        },
+        {
+          "id": "sand3d-3d-shapes-as-code-for-llms-glb-urdf-usd",
+          "type": "tool",
+          "title": {
+            "en": "sand3d — 3D shapes as code for LLMs (GLB/URDF/USD)",
+            "he": ""
+          },
+          "text": {
+            "en": "Lets language models describe 3D shapes as code and export them as GLB, URDF or USD.",
+            "he": ""
+          },
+          "url": "https://github.com/Sandflow-ai/sand3d",
+          "tags": [
+            "llm",
+            "3d",
+            "code",
+            "robotics",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1GyF1YhLQh/"
+            }
+          ]
+        },
+        {
+          "id": "aleph-download-textured-3d-landmarks",
+          "type": "tool",
+          "title": {
+            "en": "Aleph — download textured 3D landmarks",
+            "he": ""
+          },
+          "text": {
+            "en": "Download textured 3D models of real landmarks.",
+            "he": ""
+          },
+          "url": "https://github.com/belluxx/aleph",
+          "tags": [
+            "3d-models",
+            "landmarks",
+            "maps",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "dlss-5-style-enhancement-for-photos-video-windows",
+          "type": "tool",
+          "title": {
+            "en": "DLSS 5-style enhancement for photos & video (Windows)",
+            "he": ""
+          },
+          "text": {
+            "en": "A Windows tool that applies DLSS-style AI enhancement to photos and videos.",
+            "he": ""
+          },
+          "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+          "tags": [
+            "upscaling",
+            "video",
+            "windows",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "spritecast-one-drawing-becomes-an-animated-game-character",
+          "type": "tool",
+          "title": {
+            "en": "Spritecast — one drawing becomes an animated game character",
+            "he": ""
+          },
+          "text": {
+            "en": "Turns a single drawing into an animated character for games.",
+            "he": ""
+          },
+          "url": "https://github.com/sunghwan0112/spritecast",
+          "tags": [
+            "animation",
+            "sprites",
+            "games",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "crucible-3d-engine-for-ai-agents",
+          "type": "tool",
+          "title": {
+            "en": "Crucible — 3D engine for AI agents",
+            "he": ""
+          },
+          "text": {
+            "en": "A 3D engine designed for AI agents to work in.",
+            "he": ""
+          },
+          "url": "https://github.com/codepawl/crucible",
+          "tags": [
+            "3d-engine",
+            "ai-agents",
+            "simulation",
+            "open-source"
+          ],
+          "added": "2026-11-19",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1AQYiM6xHB/"
+            }
+          ]
+        },
+        {
+          "id": "comfy-desktop-friendly-comfyui-front-end",
+          "type": "tool",
+          "title": {
+            "en": "Comfy-Desktop — friendly ComfyUI front-end",
+            "he": ""
+          },
+          "text": {
+            "en": "The official desktop app for ComfyUI, the node-based tool for running image and video models.",
+            "he": ""
+          },
+          "url": "https://github.com/Comfy-Org/desktop",
+          "tags": [
+            "comfyui",
+            "desktop-app",
+            "image-generation",
+            "open-source"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19VEQXTxEp/"
+            }
+          ]
+        },
+        {
+          "id": "youtube-video-title-to-add",
+          "type": "video",
+          "title": {
+            "en": "YouTube video (title to add)",
+            "he": ""
+          },
+          "text": {
+            "en": "Shared without a title. Open the link and add a title and description.",
+            "he": ""
+          },
+          "url": "https://www.youtube.com/watch?v=B_JmRIabBa4",
+          "tags": [
+            "youtube",
+            "to-review"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "AI 3D & image generation",
+            "he": "בינה מלאכותית לתלת־ממד ולתמונות"
+          }
+        },
+        {
+          "id": "immersive-product-landing-page-10x-faster-with-manus-ai",
+          "type": "video",
+          "title": {
+            "en": "Immersive product landing page 10x faster with Manus AI",
+            "he": ""
+          },
+          "text": {
+            "en": "Building an immersive product landing page with the Manus AI agent.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1GS1PzkUE5/",
+          "tags": [
+            "landing-page",
+            "ai-agent",
+            "web-design",
+            "facebook"
+          ],
+          "added": "2026-03-04",
+          "sub": {
+            "en": "AI for design & images",
+            "he": "בינה מלאכותית לעיצוב ולתמונות"
+          }
+        },
+        {
+          "id": "vectary-canvas-ai-3d-design-for-product-concepts-vectary3d",
+          "type": "video",
+          "title": {
+            "en": "Vectary Canvas — AI 3D design for product concepts (@vectary3d)",
+            "he": ""
+          },
+          "text": {
+            "en": "Vectary's AI canvas for exploring product concepts in 3D.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/DXpDPIUCHhz/",
+          "tags": [
+            "product-design",
+            "3d",
+            "concepts",
+            "vectary",
+            "instagram"
+          ],
+          "added": "2026-05-10",
+          "sub": {
+            "en": "AI for design & images",
+            "he": "בינה מלאכותית לעיצוב ולתמונות"
+          }
+        },
+        {
+          "id": "vectary-canvas-sketch-to-3d-concepts-vectary3d",
+          "type": "video",
+          "title": {
+            "en": "Vectary Canvas — sketch to 3D concepts (@vectary3d)",
+            "he": ""
+          },
+          "text": {
+            "en": "Turning a sketch into 3D product concepts with Vectary Canvas.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/DZYb4delVrC/",
+          "tags": [
+            "sketch-to-3d",
+            "product-design",
+            "vectary",
+            "instagram"
+          ],
+          "added": "2026-06-20",
+          "sub": {
+            "en": "AI for design & images",
+            "he": "בינה מלאכותית לעיצוב ולתמונות"
+          }
+        },
+        {
+          "id": "google-s-design-md-one-file-that-teaches-your-agent-your-des",
+          "type": "tool",
+          "title": {
+            "en": "Google's DESIGN.md — one file that teaches your agent your design system (The AI Empire)",
+            "he": ""
+          },
+          "text": {
+            "en": "A collection of DESIGN.md files: one file that describes a design system so an AI coding agent follows it.",
+            "he": ""
+          },
+          "url": "https://github.com/voltagent/awesome-design-md",
+          "tags": [
+            "design-systems",
+            "ai-agents",
+            "design-md",
+            "open-source"
+          ],
+          "added": "2026-07-26",
+          "sub": {
+            "en": "AI for design & images",
+            "he": "בינה מלאכותית לעיצוב ולתמונות"
+          }
+        },
+        {
+          "id": "typeui-makes-ai-generated-interfaces-look-good-niyitech",
+          "type": "tool",
+          "title": {
+            "en": "TypeUI — makes AI-generated interfaces look good (Niyitech)",
+            "he": ""
+          },
+          "text": {
+            "en": "Design guidance that helps AI tools produce better-looking interfaces.",
+            "he": ""
+          },
+          "url": "https://github.com/bergside/typeui",
+          "tags": [
+            "ui-design",
+            "ai-agents",
+            "design-systems",
+            "open-source"
+          ],
+          "added": "2026-08-08",
+          "sub": {
+            "en": "AI for design & images",
+            "he": "בינה מלאכותית לעיצוב ולתמונות"
+          }
+        },
+        {
+          "id": "horizonx-design-context-for-ai",
+          "type": "video",
+          "title": {
+            "en": "HorizonX — design context for AI",
+            "he": ""
+          },
+          "text": {
+            "en": "A tool that gives AI the design context of your product.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1Hb5kfxaLQ/",
+          "tags": [
+            "design-context",
+            "ai",
+            "facebook"
+          ],
+          "added": "2026-10-07",
+          "sub": {
+            "en": "AI for design & images",
+            "he": "בינה מלאכותית לעיצוב ולתמונות"
+          }
+        },
+        {
+          "id": "conversational-creative-tool-experiment-boning1011",
+          "type": "video",
+          "title": {
+            "en": "Conversational creative tool experiment (@boning1011)",
+            "he": ""
+          },
+          "text": {
+            "en": "An experiment in making images by talking with a creative tool.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/Df-10JMt0Fp/",
+          "tags": [
+            "interaction-design",
+            "creative-tools",
+            "experiment",
+            "instagram"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "AI for design & images",
+            "he": "בינה מלאכותית לעיצוב ולתמונות"
+          }
+        }
+      ]
+    },
+    {
+      "id": "web-apps",
+      "name": {
+        "en": "Web apps",
+        "he": "אפליקציות ווב"
+      },
+      "description": {
+        "en": "Small apps that run in the browser or on the desktop.",
+        "he": "אפליקציות קטנות שרצות בדפדפן או במחשב."
+      },
+      "items": [
+        {
+          "id": "image-tracer-raster-images-to-vector-svg",
+          "type": "tool",
+          "title": {
+            "en": "Image Tracer — raster images to vector SVG",
+            "he": ""
+          },
+          "text": {
+            "en": "A browser tool that converts raster images into vector SVG, with adjustable levels, image tweaks and conversion settings. Built on the open-source imagetracer.js library.",
+            "he": ""
+          },
+          "url": "https://tamirp.com/vector/",
+          "tags": [
+            "vectorize",
+            "svg",
+            "images",
+            "web-tool"
+          ],
+          "added": "2026-11-23"
+        },
+        {
+          "id": "inkrail-offline-typewriter-style-writing-app",
+          "type": "tool",
+          "title": {
+            "en": "Inkrail — offline typewriter-style writing app",
+            "he": ""
+          },
+          "text": {
+            "en": "A quiet, offline writing desk in typewriter style for Mac and Windows, with no accounts or subscriptions. MIT-licensed.",
+            "he": ""
+          },
+          "url": "https://github.com/aaryanverma/inkrail",
+          "tags": [
+            "writing",
+            "offline",
+            "desktop-app",
+            "open-source"
+          ],
+          "added": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "useful-websites",
+      "name": {
+        "en": "Useful Websites",
+        "he": "אתרים שימושיים"
+      },
+      "description": {
+        "en": "Tools, code resources, fonts, learning and design inspiration.",
+        "he": "כלים, משאבי קוד, גופנים, למידה והשראה לעיצוב."
+      },
+      "items": [
+        {
+          "id": "ilove3d-3d-file-tools",
+          "type": "tool",
+          "title": {
+            "en": "iLove3D — 3D file tools",
+            "he": ""
+          },
+          "text": {
+            "en": "Online tools for converting and working with 3D files.",
+            "he": ""
+          },
+          "url": "https://ilove3d.app/en",
+          "tags": [
+            "3d-files",
+            "conversion",
+            "web-tool"
+          ],
+          "added": "2026-07-24",
+          "sub": {
+            "en": "Useful tools",
+            "he": "כלים שימושיים"
+          }
+        },
+        {
+          "id": "free-custom-graph-paper-generator",
+          "type": "video",
+          "title": {
+            "en": "Free custom graph-paper generator",
+            "he": ""
+          },
+          "text": {
+            "en": "A site that makes custom graph paper to print.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1QXWoyGAuG/",
+          "tags": [
+            "printables",
+            "graph-paper",
+            "facebook"
+          ],
+          "added": "2026-11-17",
+          "sub": {
+            "en": "Useful tools",
+            "he": "כלים שימושיים"
+          }
+        },
+        {
+          "id": "no-signup-useful-websites",
+          "type": "video",
+          "title": {
+            "en": "No-signup useful websites",
+            "he": ""
+          },
+          "text": {
+            "en": "A round-up of useful websites that need no account.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1E7RErekir/",
+          "tags": [
+            "no-signup",
+            "roundup",
+            "facebook"
+          ],
+          "added": "2026-11-20",
+          "sub": {
+            "en": "Useful tools",
+            "he": "כלים שימושיים"
+          }
+        },
+        {
+          "id": "ilovepdf-pdf-tools",
+          "type": "tool",
+          "title": {
+            "en": "iLovePDF — PDF tools",
+            "he": ""
+          },
+          "text": {
+            "en": "Free online tools to merge, split, compress, convert and edit PDFs.",
+            "he": ""
+          },
+          "url": "https://www.ilovepdf.com/",
+          "tags": [
+            "pdf",
+            "documents",
+            "web-tool"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Useful tools",
+            "he": "כלים שימושיים"
+          }
+        },
+        {
+          "id": "iloveimg-image-tools",
+          "type": "tool",
+          "title": {
+            "en": "iLoveIMG — image tools",
+            "he": ""
+          },
+          "text": {
+            "en": "Free online tools to resize, compress, crop and convert images.",
+            "he": ""
+          },
+          "url": "https://www.iloveimg.com/",
+          "tags": [
+            "images",
+            "conversion",
+            "web-tool"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Useful tools",
+            "he": "כלים שימושיים"
+          }
+        },
+        {
+          "id": "curl-noise-particles-webgl-demo",
+          "type": "project",
+          "title": {
+            "en": "Curl-noise particles (WebGL demo)",
+            "he": ""
+          },
+          "text": {
+            "en": "A WebGL particle demo driven by curl noise.",
+            "he": ""
+          },
+          "url": "https://curl-noise-particels.vercel.app/",
+          "tags": [
+            "webgl",
+            "particles",
+            "demo",
+            "creative-coding"
+          ],
+          "added": "2023-06-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "ancient-icosahedron-webgl-demo",
+          "type": "project",
+          "title": {
+            "en": "Ancient icosahedron (WebGL demo)",
+            "he": ""
+          },
+          "text": {
+            "en": "A WebGL demo of an icosahedron.",
+            "he": ""
+          },
+          "url": "https://ancient-icosahedron.vercel.app/",
+          "tags": [
+            "webgl",
+            "3d",
+            "demo",
+            "creative-coding"
+          ],
+          "added": "2023-06-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "top-10-websites-every-developer-needs-dev-to",
+          "type": "article",
+          "title": {
+            "en": "Top 10 websites every developer needs (dev.to)",
+            "he": ""
+          },
+          "text": {
+            "en": "A dev.to list of websites that help developers.",
+            "he": ""
+          },
+          "url": "https://dev.to/j471n/top-10-websites-every-developer-needs-to-know-about-f5j",
+          "tags": [
+            "developer-resources",
+            "roundup"
+          ],
+          "added": "2023-06-26",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "mdn-javascript-array-reference",
+          "type": "article",
+          "title": {
+            "en": "MDN — JavaScript Array reference",
+            "he": ""
+          },
+          "text": {
+            "en": "Mozilla's reference for JavaScript arrays and all their methods.",
+            "he": ""
+          },
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+          "tags": [
+            "javascript",
+            "reference",
+            "mdn"
+          ],
+          "added": "2023-09-14",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "playcode-javascript-playground",
+          "type": "tool",
+          "title": {
+            "en": "PlayCode — JavaScript playground",
+            "he": ""
+          },
+          "text": {
+            "en": "Write and run JavaScript in the browser and see the result live.",
+            "he": ""
+          },
+          "url": "https://playcode.io/javascript",
+          "tags": [
+            "javascript",
+            "playground",
+            "web-tool"
+          ],
+          "added": "2023-09-14",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "reactbits-dev-copy-paste-animated-react-components",
+          "type": "tool",
+          "title": {
+            "en": "reactbits.dev — copy-paste animated React components",
+            "he": ""
+          },
+          "text": {
+            "en": "A library of animated React components you copy into your project.",
+            "he": ""
+          },
+          "url": "https://reactbits.dev",
+          "tags": [
+            "react",
+            "components",
+            "animation"
+          ],
+          "added": "2025-06-13",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1DjPLEFsTk/"
+            }
+          ]
+        },
+        {
+          "id": "free-public-data-sources-categorized-github-list",
+          "type": "dataset",
+          "title": {
+            "en": "Free public data sources — categorized GitHub list",
+            "he": ""
+          },
+          "text": {
+            "en": "Awesome Public Datasets: a list of free public datasets sorted by topic.",
+            "he": ""
+          },
+          "url": "https://github.com/awesomedata/awesome-public-datasets",
+          "tags": [
+            "datasets",
+            "open-data",
+            "awesome-list"
+          ],
+          "added": "2026-07-15",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1CjhPXtqaw/"
+            }
+          ]
+        },
+        {
+          "id": "public-apis-thousands-of-free-apis-in-one-list",
+          "type": "tool",
+          "title": {
+            "en": "public-apis — thousands of free APIs in one list",
+            "he": ""
+          },
+          "text": {
+            "en": "A big community list of free APIs, sorted by category.",
+            "he": ""
+          },
+          "url": "https://github.com/public-apis/public-apis",
+          "tags": [
+            "apis",
+            "awesome-list",
+            "open-source"
+          ],
+          "added": "2026-08-03",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          },
+          "links": [
+            {
+              "label": "Original post (Aug 2026)",
+              "url": "https://www.facebook.com/share/r/1D5HHSqtEN/"
+            },
+            {
+              "label": "Original post (Oct 2026)",
+              "url": "https://www.facebook.com/share/r/19mdqQkmq2/"
+            }
+          ]
+        },
+        {
+          "id": "kexsio-live-preview-components-templates-to-remix-with-ai-ni",
+          "type": "tool",
+          "title": {
+            "en": "Kexsio — live-preview components & templates to remix with AI (Niyitech)",
+            "he": ""
+          },
+          "text": {
+            "en": "UI components and templates with live previews, ready to remix with AI.",
+            "he": ""
+          },
+          "url": "https://kexsio.com/animations",
+          "tags": [
+            "components",
+            "templates",
+            "animation",
+            "ai"
+          ],
+          "added": "2026-08-10",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "plasma-ui-stunning-ui-components",
+          "type": "tool",
+          "title": {
+            "en": "Plasma UI — stunning UI components",
+            "he": ""
+          },
+          "text": {
+            "en": "A UI component library.",
+            "he": ""
+          },
+          "url": "https://github.com/CruxGarden/plasma-ui",
+          "tags": [
+            "components",
+            "ui",
+            "open-source"
+          ],
+          "added": "2026-09-30",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "organui-healthcare-biology-shadcn-components",
+          "type": "tool",
+          "title": {
+            "en": "OrganUI — healthcare/biology shadcn components",
+            "he": ""
+          },
+          "text": {
+            "en": "shadcn-style components for healthcare and biology interfaces.",
+            "he": ""
+          },
+          "url": "https://github.com/organui/organui",
+          "tags": [
+            "shadcn",
+            "components",
+            "healthcare",
+            "biology",
+            "open-source"
+          ],
+          "added": "2026-10-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "threeui-160-free-3d-hero-sections-for-three-js",
+          "type": "tool",
+          "title": {
+            "en": "THREEUI — 160+ free 3D hero sections for Three.js",
+            "he": ""
+          },
+          "text": {
+            "en": "More than 160 free 3D hero sections for websites, built with Three.js.",
+            "he": ""
+          },
+          "url": "https://github.com/MengTo/threeui",
+          "tags": [
+            "threejs",
+            "hero-sections",
+            "3d",
+            "web",
+            "open-source"
+          ],
+          "added": "2026-11-11",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/16YgGxWQPGg/"
+            }
+          ]
+        },
+        {
+          "id": "meta-open-sources-its-design-system",
+          "type": "tool",
+          "title": {
+            "en": "Meta open-sources its design system",
+            "he": ""
+          },
+          "text": {
+            "en": "Meta's design system, released as open source.",
+            "he": ""
+          },
+          "url": "https://github.com/meta/astryx",
+          "tags": [
+            "design-systems",
+            "components",
+            "meta",
+            "open-source"
+          ],
+          "added": "2026-11-11",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "ansphare-600-prompts-200-components-for-websites-hebrew",
+          "type": "tool",
+          "title": {
+            "en": "Ansphare — 600 prompts & 200 components for websites (Hebrew)",
+            "he": ""
+          },
+          "text": {
+            "en": "A Hebrew site with about 600 prompts and 200 components for building websites.",
+            "he": ""
+          },
+          "url": "https://ansphare.com/",
+          "tags": [
+            "prompts",
+            "components",
+            "hebrew",
+            "web"
+          ],
+          "added": "2026-11-18",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "anime-js-javascript-animation-library",
+          "type": "tool",
+          "title": {
+            "en": "Anime.js — JavaScript animation library",
+            "he": ""
+          },
+          "text": {
+            "en": "A lightweight JavaScript library for animating CSS, SVG, DOM and JavaScript objects.",
+            "he": ""
+          },
+          "url": "https://animejs.com",
+          "tags": [
+            "javascript",
+            "animation",
+            "library",
+            "open-source"
+          ],
+          "added": "2026-11-19",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1RMvrVRHWN/"
+            }
+          ]
+        },
+        {
+          "id": "codevember-one-word-one-3d-world-a-day",
+          "type": "project",
+          "title": {
+            "en": "Codevember — one word, one 3D world a day",
+            "he": ""
+          },
+          "text": {
+            "en": "A Codevember project: every day of November, one word becomes a small 3D world.",
+            "he": ""
+          },
+          "url": "https://github.com/acher249/codevember-2026",
+          "tags": [
+            "creative-coding",
+            "3d",
+            "challenge",
+            "open-source"
+          ],
+          "added": "2026-11-19",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "team-project-management-dashboard-ui",
+          "type": "tool",
+          "title": {
+            "en": "Team project-management dashboard UI",
+            "he": ""
+          },
+          "text": {
+            "en": "A dashboard UI template for team project management.",
+            "he": ""
+          },
+          "url": "https://codeandchill.store/templates/pane",
+          "tags": [
+            "dashboard",
+            "template",
+            "ui"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "ai-particle-simulator-casberry",
+          "type": "tool",
+          "title": {
+            "en": "AI Particle Simulator (Casberry)",
+            "he": ""
+          },
+          "text": {
+            "en": "Create and animate 3D particle swarms in the browser with WebGL, including gesture controls and formations built from formulas. Exports code to use elsewhere.",
+            "he": ""
+          },
+          "url": "https://particles.casberry.in/",
+          "tags": [
+            "particles",
+            "webgl",
+            "3d",
+            "web-tool"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "originkit-animated-ui-components-for-your-ai-assistant",
+          "type": "tool",
+          "title": {
+            "en": "Originkit — animated UI components for your AI assistant",
+            "he": ""
+          },
+          "text": {
+            "en": "Browse and import animated UI components from Originkit's free library, through an MCP server or straight from your AI assistant.",
+            "he": ""
+          },
+          "url": "https://github.com/vellum-ai/originkit",
+          "tags": [
+            "components",
+            "animation",
+            "mcp",
+            "ai-agents",
+            "open-source"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "21st-dev-community-ui-components",
+          "type": "tool",
+          "title": {
+            "en": "21st.dev — community UI components",
+            "he": ""
+          },
+          "text": {
+            "en": "A community library of React and Tailwind UI components.",
+            "he": ""
+          },
+          "url": "https://21st.dev/",
+          "tags": [
+            "components",
+            "react",
+            "tailwind"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "daisyui-tailwind-css-component-library",
+          "type": "tool",
+          "title": {
+            "en": "daisyUI — Tailwind CSS component library",
+            "he": ""
+          },
+          "text": {
+            "en": "Ready-made component classes and themes for Tailwind CSS.",
+            "he": ""
+          },
+          "url": "https://github.com/saadeghi/daisyui",
+          "tags": [
+            "tailwind",
+            "components",
+            "css",
+            "open-source"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "aceternity-ui-animated-components",
+          "type": "tool",
+          "title": {
+            "en": "Aceternity UI — animated components",
+            "he": ""
+          },
+          "text": {
+            "en": "Animated React components built with Tailwind CSS and Framer Motion.",
+            "he": ""
+          },
+          "url": "https://ui.aceternity.com/",
+          "tags": [
+            "components",
+            "animation",
+            "react",
+            "tailwind"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "toools-app-private-text-tools",
+          "type": "tool",
+          "title": {
+            "en": "toools.app — private text tools",
+            "he": ""
+          },
+          "text": {
+            "en": "Free browser text tools: word and character counters, case converters, list sorters, encoders and generators. Everything runs on your device, so your text stays private.",
+            "he": ""
+          },
+          "url": "https://toools.app/",
+          "tags": [
+            "text-tools",
+            "privacy",
+            "web-tool"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "toools-design-directory-of-design-tools",
+          "type": "tool",
+          "title": {
+            "en": "TOOOLS.design — directory of design tools",
+            "he": ""
+          },
+          "text": {
+            "en": "A curated directory of about 2,500 design tools and resources for people who design websites, apps and brands, in 18 categories. Updated weekly, free and with no account.",
+            "he": ""
+          },
+          "url": "https://www.toools.design/",
+          "tags": [
+            "design-tools",
+            "directory",
+            "resources"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Web dev & code resources",
+            "he": "פיתוח ווב ומשאבי קוד"
+          }
+        },
+        {
+          "id": "addictive-2d-web-simulation-80-lv",
+          "type": "article",
+          "title": {
+            "en": "Addictive 2D web simulation (80.lv)",
+            "he": ""
+          },
+          "text": {
+            "en": "80.lv on a 2D simulation you can play in the browser.",
+            "he": ""
+          },
+          "url": "https://80.lv/articles/play-with-this-addictive-2d-web-simulation-in-your-browser/",
+          "tags": [
+            "simulation",
+            "browser",
+            "toy"
+          ],
+          "added": "2025-04-26",
+          "sub": {
+            "en": "Fun sites",
+            "he": "אתרים מהנים"
+          }
+        },
+        {
+          "id": "hop-earth-drive-through-cities-on-google-maps",
+          "type": "tool",
+          "title": {
+            "en": "Hop.Earth — drive through cities on Google Maps",
+            "he": ""
+          },
+          "text": {
+            "en": "Drive through real cities in the browser using Google Maps.",
+            "he": ""
+          },
+          "url": "https://hop.earth",
+          "tags": [
+            "maps",
+            "driving",
+            "browser",
+            "toy"
+          ],
+          "added": "2026-08-17",
+          "sub": {
+            "en": "Fun sites",
+            "he": "אתרים מהנים"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1TRqYMZsWb/"
+            }
+          ]
+        },
+        {
+          "id": "tooooools-lo-fi-effects-for-images-video",
+          "type": "tool",
+          "title": {
+            "en": "Tooooools — lo-fi effects for images & video",
+            "he": ""
+          },
+          "text": {
+            "en": "Free, no-signup web tool for lo-fi effects on images and videos: dithering, halftone, gradients and patterns. Upload, adjust, export.",
+            "he": ""
+          },
+          "url": "https://www.tooooools.app/",
+          "tags": [
+            "image-effects",
+            "dithering",
+            "halftone",
+            "no-signup",
+            "web-tool"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Fun sites",
+            "he": "אתרים מהנים"
+          }
+        },
+        {
+          "id": "effect-app-real-time-effects-for-images-video",
+          "type": "tool",
+          "title": {
+            "en": "Effect.app — real-time effects for images & video",
+            "he": ""
+          },
+          "text": {
+            "en": "A browser editor with more than 40 real-time effects for images and video, such as film looks, halftones and glitches. Runs locally, with presets, keyframe animation and export up to 4K.",
+            "he": ""
+          },
+          "url": "https://effect.app/features",
+          "tags": [
+            "image-effects",
+            "video",
+            "glitch",
+            "web-tool"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Fun sites",
+            "he": "אתרים מהנים"
+          }
+        },
+        {
+          "id": "dafont-free-fonts",
+          "type": "tool",
+          "title": {
+            "en": "DaFont — free fonts",
+            "he": ""
+          },
+          "text": {
+            "en": "A huge archive of free fonts sorted by style.",
+            "he": ""
+          },
+          "url": "https://www.dafont.com/",
+          "tags": [
+            "free-fonts",
+            "typography"
+          ],
+          "added": "2023-03-04",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "calligraphr-turn-your-handwriting-into-a-font",
+          "type": "tool",
+          "title": {
+            "en": "Calligraphr — turn your handwriting into a font",
+            "he": ""
+          },
+          "text": {
+            "en": "Fill in a template by hand, scan it, and get a font of your own handwriting.",
+            "he": ""
+          },
+          "url": "https://www.calligraphr.com/en/",
+          "tags": [
+            "handwriting",
+            "font-making",
+            "typography"
+          ],
+          "added": "2023-05-24",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "free-faces-curated-free-typefaces",
+          "type": "tool",
+          "title": {
+            "en": "Free Faces — curated free typefaces",
+            "he": ""
+          },
+          "text": {
+            "en": "A hand-picked gallery of good free typefaces.",
+            "he": ""
+          },
+          "url": "https://www.freefaces.gallery/",
+          "tags": [
+            "free-fonts",
+            "curated",
+            "typography"
+          ],
+          "added": "2023-07-27",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "drakonit-bold-hebrew-font-ben-uri",
+          "type": "tool",
+          "title": {
+            "en": "Drakonit Bold Hebrew font (Ben-Uri)",
+            "he": ""
+          },
+          "text": {
+            "en": "A bold Hebrew display font from the Ben-Uri type foundry.",
+            "he": ""
+          },
+          "url": "https://fonts.ben-uri.com/drakonit-bold/",
+          "tags": [
+            "hebrew",
+            "display-font",
+            "typography"
+          ],
+          "added": "2024-01-01",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "favourite-free-font-sites-comments",
+          "type": "video",
+          "title": {
+            "en": "Favourite free font sites (comments)",
+            "he": ""
+          },
+          "text": {
+            "en": "A post whose comments collect people's favourite free font sites.",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1GYT7TjmaH/",
+          "tags": [
+            "free-fonts",
+            "roundup",
+            "facebook"
+          ],
+          "added": "2026-04-06",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "google-fonts",
+          "type": "tool",
+          "title": {
+            "en": "Google Fonts",
+            "he": ""
+          },
+          "text": {
+            "en": "Free, open-source fonts for web and print, including many Hebrew families.",
+            "he": ""
+          },
+          "url": "https://fonts.google.com/",
+          "tags": [
+            "free-fonts",
+            "web-fonts",
+            "hebrew",
+            "typography"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "fontshare-free-quality-fonts-indian-type-foundry",
+          "type": "tool",
+          "title": {
+            "en": "Fontshare — free quality fonts (Indian Type Foundry)",
+            "he": ""
+          },
+          "text": {
+            "en": "Free professional fonts from the Indian Type Foundry, for personal and commercial use.",
+            "he": ""
+          },
+          "url": "https://www.fontshare.com/",
+          "tags": [
+            "free-fonts",
+            "typography"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "dirtyline-studio-type-foundry",
+          "type": "tool",
+          "title": {
+            "en": "Dirtyline Studio — type foundry",
+            "he": ""
+          },
+          "text": {
+            "en": "A type foundry and graphic-design studio. Most fonts are paid; a Freebies section has free trials.",
+            "he": ""
+          },
+          "url": "https://dirtylinestudio.com/",
+          "tags": [
+            "type-foundry",
+            "display-fonts",
+            "typography"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "atkinson-hyperlegible-free-font-from-the-braille-institute",
+          "type": "tool",
+          "title": {
+            "en": "Atkinson Hyperlegible — free font from the Braille Institute",
+            "he": ""
+          },
+          "text": {
+            "en": "A free typeface designed to be easier to read for people with low vision.",
+            "he": ""
+          },
+          "url": "https://www.brailleinstitute.org/freefont/",
+          "tags": [
+            "accessibility",
+            "legibility",
+            "free-fonts",
+            "typography"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Fonts",
+            "he": "גופנים"
+          }
+        },
+        {
+          "id": "khan-academy-computer-programming",
+          "type": "course",
+          "title": {
+            "en": "Khan Academy — computer programming",
+            "he": ""
+          },
+          "text": {
+            "en": "Free interactive lessons in programming, drawing and animation with JavaScript.",
+            "he": ""
+          },
+          "url": "https://www.khanacademy.org/computing/computer-programming/programming",
+          "tags": [
+            "programming",
+            "javascript",
+            "beginners"
+          ],
+          "added": "2023-09-14",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          }
+        },
+        {
+          "id": "9-tips-to-go-from-beginner-to-intermediate-coder",
+          "type": "article",
+          "title": {
+            "en": "9 tips to go from beginner to intermediate coder",
+            "he": ""
+          },
+          "text": {
+            "en": "Practical advice for moving from beginner to intermediate coding.",
+            "he": ""
+          },
+          "url": "https://medium.com/code-chrysalis/9-tips-to-help-you-advance-from-beginner-to-intermediate-coding-db98f9ba01b0",
+          "tags": [
+            "programming",
+            "career",
+            "tips"
+          ],
+          "added": "2023-09-14",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          }
+        },
+        {
+          "id": "interactive-tool-that-teaches-better-photography",
+          "type": "course",
+          "title": {
+            "en": "Interactive tool that teaches better photography",
+            "he": ""
+          },
+          "text": {
+            "en": "Photoskop: interactive lessons on exposure, aperture, shutter speed and composition.",
+            "he": ""
+          },
+          "url": "https://photoskop.com/",
+          "tags": [
+            "photography",
+            "interactive",
+            "camera-basics"
+          ],
+          "added": "2025-09-06",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          }
+        },
+        {
+          "id": "learn-git-visually-interactive-tool",
+          "type": "course",
+          "title": {
+            "en": "Learn Git visually — interactive tool",
+            "he": ""
+          },
+          "text": {
+            "en": "Learn Git Branching: practise Git commands and watch branches move as you type.",
+            "he": ""
+          },
+          "url": "https://learngitbranching.js.org",
+          "tags": [
+            "git",
+            "interactive",
+            "version-control"
+          ],
+          "added": "2026-07-15",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1BaMDzbr7F/"
+            }
+          ]
+        },
+        {
+          "id": "ai-engineering-from-scratch-open-curriculum-the-ai-empire",
+          "type": "course",
+          "title": {
+            "en": "AI Engineering from Scratch — open curriculum (The AI Empire)",
+            "he": ""
+          },
+          "text": {
+            "en": "A free, open-source curriculum of hundreds of lessons on building with AI, from basics to advanced. Shared in several posts.",
+            "he": ""
+          },
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "tags": [
+            "ai-engineering",
+            "curriculum",
+            "llm",
+            "open-source"
+          ],
+          "added": "2026-07-26",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          },
+          "links": [
+            {
+              "label": "Original post (Jul 2026)",
+              "url": "https://www.facebook.com/share/1M3rrHDuFJ/"
+            },
+            {
+              "label": "Original post (Aug 2026)",
+              "url": "https://www.facebook.com/share/r/1EkQUY6PJF/"
+            },
+            {
+              "label": "Original post (Sep 2026)",
+              "url": "https://www.facebook.com/share/r/19dfcVAn4j/"
+            }
+          ]
+        },
+        {
+          "id": "build-your-own-x-project-guides",
+          "type": "course",
+          "title": {
+            "en": "Build Your Own X — project guides",
+            "he": ""
+          },
+          "text": {
+            "en": "Guides for rebuilding well-known technologies yourself: databases, Git, games, a web server and more.",
+            "he": ""
+          },
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "tags": [
+            "programming",
+            "projects",
+            "tutorials",
+            "open-source"
+          ],
+          "added": "2026-08-04",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19E3osv84Y/"
+            }
+          ]
+        },
+        {
+          "id": "llms-from-scratch-how-language-models-work-inside-arabic-pos",
+          "type": "book",
+          "title": {
+            "en": "LLMs-from-scratch — how language models work inside (Arabic post)",
+            "he": ""
+          },
+          "text": {
+            "en": "Sebastian Raschka's code for building a GPT-style language model step by step, from his book.",
+            "he": ""
+          },
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "tags": [
+            "llm",
+            "deep-learning",
+            "python",
+            "open-source"
+          ],
+          "added": "2026-08-12",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/1Q5KvERkc2/"
+            }
+          ]
+        },
+        {
+          "id": "what-should-i-build-next-project-ideas-list",
+          "type": "tool",
+          "title": {
+            "en": "\"What should I build next\" project-ideas list",
+            "he": ""
+          },
+          "text": {
+            "en": "App Ideas: project ideas sorted by difficulty, for practising programming.",
+            "he": ""
+          },
+          "url": "https://github.com/florinpop17/app-ideas",
+          "tags": [
+            "project-ideas",
+            "programming",
+            "practice",
+            "open-source"
+          ],
+          "added": "2026-09-26",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1PwmPqioT8/"
+            }
+          ]
+        },
+        {
+          "id": "the-book-of-secret-knowledge",
+          "type": "book",
+          "title": {
+            "en": "The Book of Secret Knowledge",
+            "he": ""
+          },
+          "text": {
+            "en": "A big collection of lists, manuals, cheat sheets and tools for developers and system administrators.",
+            "he": ""
+          },
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "tags": [
+            "cheatsheets",
+            "sysadmin",
+            "reference",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "Learning",
+            "he": "למידה"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1HXxppyM6d/"
+            }
+          ]
+        },
+        {
+          "id": "nokia-design-archive-aalto-university",
+          "type": "dataset",
+          "title": {
+            "en": "Nokia Design Archive (Aalto University)",
+            "he": ""
+          },
+          "text": {
+            "en": "Aalto University's online archive of Nokia's design work: sketches, concepts and studies.",
+            "he": ""
+          },
+          "url": "https://nokiadesignarchive.aalto.fi/?node=A0001",
+          "tags": [
+            "design-history",
+            "archive",
+            "industrial-design",
+            "nokia"
+          ],
+          "added": "2025-01-16",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "hidden-design-inspiration-sites-viewport-ui-designspells-cof",
+          "type": "video",
+          "title": {
+            "en": "Hidden design-inspiration sites: Viewport UI, DesignSpells, Cofolios",
+            "he": ""
+          },
+          "text": {
+            "en": "A post on three lesser-known inspiration sites (each also listed here).",
+            "he": ""
+          },
+          "url": "https://www.facebook.com/share/r/1ByiEa4HgA/",
+          "tags": [
+            "inspiration",
+            "roundup",
+            "facebook"
+          ],
+          "added": "2025-02-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "stills-visual-trend-report",
+          "type": "article",
+          "title": {
+            "en": "Stills — visual trend report",
+            "he": ""
+          },
+          "text": {
+            "en": "Stills' report on visual trends in photography and imagery.",
+            "he": ""
+          },
+          "url": "https://campaigns.stills.com/trend-report",
+          "tags": [
+            "trends",
+            "photography",
+            "visual-culture"
+          ],
+          "added": "2025-04-15",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "japanese-design-principles-digital-synopsis",
+          "type": "article",
+          "title": {
+            "en": "Japanese design principles (Digital Synopsis)",
+            "he": ""
+          },
+          "text": {
+            "en": "An illustrated guide to principles from Japanese aesthetics and how they apply to design.",
+            "he": ""
+          },
+          "url": "https://digitalsynopsis.com/design/japanese-design-principles/",
+          "tags": [
+            "design-principles",
+            "japanese-aesthetics"
+          ],
+          "added": "2026-07-27",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "viewport-ui",
+          "type": "tool",
+          "title": {
+            "en": "Viewport UI",
+            "he": ""
+          },
+          "text": {
+            "en": "A gallery of website and app interface examples.",
+            "he": ""
+          },
+          "url": "https://viewportui.com/",
+          "tags": [
+            "ui-inspiration",
+            "gallery",
+            "web-design"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "designspells",
+          "type": "tool",
+          "title": {
+            "en": "DesignSpells",
+            "he": ""
+          },
+          "text": {
+            "en": "A collection of small, delightful design details from websites and apps.",
+            "he": ""
+          },
+          "url": "https://designspells.com/",
+          "tags": [
+            "micro-interactions",
+            "details",
+            "ui-inspiration"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "cofolios",
+          "type": "tool",
+          "title": {
+            "en": "Cofolios",
+            "he": ""
+          },
+          "text": {
+            "en": "A collection of designers' portfolio websites.",
+            "he": ""
+          },
+          "url": "https://www.cofolios.com/",
+          "tags": [
+            "portfolios",
+            "inspiration"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "yanko-design",
+          "type": "article",
+          "title": {
+            "en": "Yanko Design",
+            "he": ""
+          },
+          "text": {
+            "en": "Daily industrial and product design concepts and news.",
+            "he": ""
+          },
+          "url": "https://www.yankodesign.com/",
+          "tags": [
+            "industrial-design",
+            "product-design",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "speck-design-the-journal",
+          "type": "article",
+          "title": {
+            "en": "Speck Design — The Journal",
+            "he": ""
+          },
+          "text": {
+            "en": "The product design studio Speck Design's journal.",
+            "he": ""
+          },
+          "url": "https://www.speckdesign.com/the-journal",
+          "tags": [
+            "product-design",
+            "studio",
+            "journal"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "it-s-nice-that",
+          "type": "article",
+          "title": {
+            "en": "It's Nice That",
+            "he": ""
+          },
+          "text": {
+            "en": "Graphic design, illustration, art and creative culture.",
+            "he": ""
+          },
+          "url": "https://www.itsnicethat.com/",
+          "tags": [
+            "graphic-design",
+            "illustration",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "fast-company-co-design",
+          "type": "article",
+          "title": {
+            "en": "Fast Company — Co.Design",
+            "he": ""
+          },
+          "text": {
+            "en": "Fast Company's design section: products, UX, architecture and business.",
+            "he": ""
+          },
+          "url": "https://www.fastcompany.com/co-design",
+          "tags": [
+            "design-news",
+            "ux",
+            "business",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "core77",
+          "type": "article",
+          "title": {
+            "en": "Core77",
+            "he": ""
+          },
+          "text": {
+            "en": "Industrial design news, articles and community.",
+            "he": ""
+          },
+          "url": "https://www.core77.com/",
+          "tags": [
+            "industrial-design",
+            "magazine",
+            "community"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "dezeen",
+          "type": "article",
+          "title": {
+            "en": "Dezeen",
+            "he": ""
+          },
+          "text": {
+            "en": "Architecture, interiors and design news.",
+            "he": ""
+          },
+          "url": "https://www.dezeen.com/",
+          "tags": [
+            "architecture",
+            "design-news",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "design-week",
+          "type": "article",
+          "title": {
+            "en": "Design Week",
+            "he": ""
+          },
+          "text": {
+            "en": "Design industry news from the UK.",
+            "he": ""
+          },
+          "url": "https://www.designweek.co.uk/",
+          "tags": [
+            "design-news",
+            "branding",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "design-milk",
+          "type": "article",
+          "title": {
+            "en": "Design Milk",
+            "he": ""
+          },
+          "text": {
+            "en": "Modern design, furniture, interiors and art.",
+            "he": ""
+          },
+          "url": "https://design-milk.com/",
+          "tags": [
+            "furniture",
+            "interiors",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "designboom",
+          "type": "article",
+          "title": {
+            "en": "designboom",
+            "he": ""
+          },
+          "text": {
+            "en": "Architecture and design magazine.",
+            "he": ""
+          },
+          "url": "https://www.designboom.com/",
+          "tags": [
+            "architecture",
+            "design-news",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "idsa-innovation-magazine",
+          "type": "article",
+          "title": {
+            "en": "IDSA — INNOVATION magazine",
+            "he": ""
+          },
+          "text": {
+            "en": "The Industrial Designers Society of America's magazine.",
+            "he": ""
+          },
+          "url": "https://www.idsa.org/news-publications/innovation-magazine/",
+          "tags": [
+            "industrial-design",
+            "idsa",
+            "magazine"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "european-product-design-award",
+          "type": "other",
+          "title": {
+            "en": "European Product Design Award",
+            "he": ""
+          },
+          "text": {
+            "en": "An international award for product design, with a gallery of winners.",
+            "he": ""
+          },
+          "url": "https://www.productdesignaward.eu/",
+          "tags": [
+            "awards",
+            "product-design"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "best-design-awards-industrial-design-new-zealand",
+          "type": "other",
+          "title": {
+            "en": "Best Design Awards — Industrial design (New Zealand)",
+            "he": ""
+          },
+          "text": {
+            "en": "Winners of the industrial-design category of New Zealand's Best Design Awards.",
+            "he": ""
+          },
+          "url": "https://bestawards.co.nz/industrial-design/",
+          "tags": [
+            "awards",
+            "industrial-design"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        },
+        {
+          "id": "lemanoosh",
+          "type": "tool",
+          "title": {
+            "en": "Lemanoosh",
+            "he": ""
+          },
+          "text": {
+            "en": "A curated feed of industrial and product design work, with design jobs.",
+            "he": ""
+          },
+          "url": "https://lemanoosh.com/",
+          "tags": [
+            "industrial-design",
+            "product-design",
+            "inspiration"
+          ],
+          "added": "2026-11-23",
+          "sub": {
+            "en": "Design inspiration",
+            "he": "השראה לעיצוב"
+          }
+        }
       ]
     }
   ]
