@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:00:00.000Z",
+  "updated": "2026-11-24T11:30:00.000Z",
   "lists": [
     {
       "id": "digital-fabrication",
@@ -2617,6 +2617,593 @@
             "en": "AI for design & images",
             "he": "בינה מלאכותית לעיצוב ולתמונות"
           }
+        },
+        {
+          "id": "notebooklm-creates-slides-kills-canva-powerpoint-hebrew",
+          "type": "tool",
+          "title": {
+            "en": "NotebookLM creates slides — \"kills Canva & PowerPoint\" (Hebrew)",
+            "he": ""
+          },
+          "text": {
+            "en": "Google's NotebookLM can now turn your sources into slides.",
+            "he": ""
+          },
+          "url": "https://notebooklm.google.com",
+          "tags": [
+            "notebooklm",
+            "presentations",
+            "google"
+          ],
+          "added": "2025-12-13",
+          "sub": {
+            "en": "AI tools & news",
+            "he": "כלים וחדשות בבינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1b72XhiJuz/"
+            }
+          ]
+        },
+        {
+          "id": "language-model-builder",
+          "type": "tool",
+          "title": {
+            "en": "Language Model Builder",
+            "he": ""
+          },
+          "text": {
+            "en": "A site about building language models.",
+            "he": ""
+          },
+          "url": "https://languagemodelbuilder.com/",
+          "tags": [
+            "llm",
+            "learning"
+          ],
+          "added": "2026-07-26",
+          "sub": {
+            "en": "AI tools & news",
+            "he": "כלים וחדשות בבינה מלאכותית"
+          }
+        },
+        {
+          "id": "karpathy-s-llm-council-ask-several-models-at-once",
+          "type": "tool",
+          "title": {
+            "en": "Karpathy's LLM Council — ask several models at once",
+            "he": ""
+          },
+          "text": {
+            "en": "Andrej Karpathy's app that sends one question to several language models, has them review each other, then combines their answers.",
+            "he": ""
+          },
+          "url": "https://github.com/karpathy/llm-council",
+          "tags": [
+            "llm",
+            "multi-model",
+            "karpathy",
+            "open-source"
+          ],
+          "added": "2026-08-08",
+          "sub": {
+            "en": "AI tools & news",
+            "he": "כלים וחדשות בבינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19WPvCHJqR/"
+            }
+          ]
+        },
+        {
+          "id": "openmontage-open-source-ai-video-editing-engine",
+          "type": "tool",
+          "title": {
+            "en": "OpenMontage — open-source AI video-editing engine",
+            "he": ""
+          },
+          "text": {
+            "en": "An open-source engine for editing video with AI.",
+            "he": ""
+          },
+          "url": "https://github.com/OpenMontageInc/OpenMontage",
+          "tags": [
+            "video-editing",
+            "ai",
+            "open-source"
+          ],
+          "added": "2026-10-23",
+          "sub": {
+            "en": "AI tools & news",
+            "he": "כלים וחדשות בבינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/p/19NQDWuXjh/"
+            }
+          ]
+        },
+        {
+          "id": "voicestudio-open-source-elevenlabs-alternative-voice-cloning",
+          "type": "tool",
+          "title": {
+            "en": "VoiceStudio — open-source ElevenLabs alternative (voice cloning, dubbing)",
+            "he": ""
+          },
+          "text": {
+            "en": "Voice cloning, text-to-speech and dubbing as an open-source alternative to ElevenLabs.",
+            "he": ""
+          },
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "tags": [
+            "voice-cloning",
+            "text-to-speech",
+            "dubbing",
+            "open-source"
+          ],
+          "added": "2026-10-23",
+          "sub": {
+            "en": "AI tools & news",
+            "he": "כלים וחדשות בבינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/14vohBkq1BR/"
+            }
+          ]
+        },
+        {
+          "id": "yogurt-open-source-granola-alternative-meeting-notes",
+          "type": "tool",
+          "title": {
+            "en": "Yogurt — open-source Granola alternative (meeting notes)",
+            "he": ""
+          },
+          "text": {
+            "en": "Takes notes of your meetings with AI; an open-source alternative to Granola.",
+            "he": ""
+          },
+          "url": "https://github.com/FrigadeHQ/yogurt",
+          "tags": [
+            "meeting-notes",
+            "transcription",
+            "open-source"
+          ],
+          "added": "2026-11-20",
+          "sub": {
+            "en": "AI tools & news",
+            "he": "כלים וחדשות בבינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19AHAFpgBe/"
+            }
+          ]
+        },
+        {
+          "id": "openhuman",
+          "type": "tool",
+          "title": {
+            "en": "OpenHuman",
+            "he": ""
+          },
+          "text": {
+            "en": "An open-source AI agent project from Tiny Humans.",
+            "he": ""
+          },
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "tags": [
+            "ai-agents",
+            "open-source"
+          ],
+          "added": "2026-09-29",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1b9cv7nAH7/"
+            }
+          ]
+        },
+        {
+          "id": "odysseus-self-hosted-chatgpt-plus-alternative",
+          "type": "tool",
+          "title": {
+            "en": "Odysseus — self-hosted ChatGPT Plus alternative",
+            "he": ""
+          },
+          "text": {
+            "en": "A ChatGPT Plus-style AI assistant you host yourself.",
+            "he": ""
+          },
+          "url": "https://github.com/odysseus-dev/odysseus",
+          "tags": [
+            "chat",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-10-13",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1JEXbu6kVx/"
+            }
+          ]
+        },
+        {
+          "id": "cli-anything-make-any-software-agent-native",
+          "type": "tool",
+          "title": {
+            "en": "CLI-Anything — make any software agent-native",
+            "he": ""
+          },
+          "text": {
+            "en": "Wraps any software in a command-line interface that AI agents can operate. Shared in three posts.",
+            "he": ""
+          },
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "tags": [
+            "cli",
+            "ai-agents",
+            "automation",
+            "open-source"
+          ],
+          "added": "2026-10-15",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post (1)",
+              "url": "https://www.facebook.com/share/r/1LSmwkVtVY/"
+            },
+            {
+              "label": "Original post (2)",
+              "url": "https://www.facebook.com/share/r/1Emq634N4W/"
+            },
+            {
+              "label": "Original post (3)",
+              "url": "https://www.facebook.com/share/r/193NN9izBn/"
+            }
+          ]
+        },
+        {
+          "id": "cindy-free-open-source-claude-code-alternative",
+          "type": "tool",
+          "title": {
+            "en": "Cindy — free open-source Claude Code alternative",
+            "he": ""
+          },
+          "text": {
+            "en": "A free, open-source coding agent in the style of Claude Code.",
+            "he": ""
+          },
+          "url": "https://github.com/makecindy/cindy",
+          "tags": [
+            "coding-agent",
+            "open-source"
+          ],
+          "added": "2026-11-06",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1DnFNAqYWH/"
+            }
+          ]
+        },
+        {
+          "id": "swarmchat-slack-for-ai-agents",
+          "type": "tool",
+          "title": {
+            "en": "SwarmChat — Slack for AI agents",
+            "he": ""
+          },
+          "text": {
+            "en": "A chat space where several AI agents talk and work together.",
+            "he": ""
+          },
+          "url": "https://github.com/Pranjal2041/swarmchat",
+          "tags": [
+            "multi-agent",
+            "collaboration",
+            "open-source"
+          ],
+          "added": "2026-11-06",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1cMdVMJR7S/"
+            }
+          ]
+        },
+        {
+          "id": "freellmapi-free-providers-behind-one-key-for-claude-code",
+          "type": "tool",
+          "title": {
+            "en": "freellmapi — free providers behind one key for Claude Code",
+            "he": ""
+          },
+          "text": {
+            "en": "Puts free AI model providers behind a single API key you can use with Claude Code.",
+            "he": ""
+          },
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "tags": [
+            "api",
+            "llm-providers",
+            "claude-code",
+            "open-source"
+          ],
+          "added": "2026-11-11",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1E5Fqbc2p4/"
+            }
+          ]
+        },
+        {
+          "id": "worktrunk-parallel-ai-agents-with-git-worktrees",
+          "type": "tool",
+          "title": {
+            "en": "Worktrunk — parallel AI agents with git worktrees",
+            "he": ""
+          },
+          "text": {
+            "en": "Runs several AI coding agents in parallel, each in its own git worktree.",
+            "he": ""
+          },
+          "url": "https://github.com/max-sixty/worktrunk",
+          "tags": [
+            "git",
+            "worktrees",
+            "parallel-agents",
+            "open-source"
+          ],
+          "added": "2026-11-13",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1MRCbxvgjt/"
+            }
+          ]
+        },
+        {
+          "id": "metagpt-ai-software-company",
+          "type": "tool",
+          "title": {
+            "en": "MetaGPT — AI software company",
+            "he": ""
+          },
+          "text": {
+            "en": "Several AI agents take roles in a software company (product manager, architect, engineer) and build software together.",
+            "he": ""
+          },
+          "url": "https://github.com/FoundationAgents/MetaGPT",
+          "tags": [
+            "multi-agent",
+            "software-development",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19w6WM9zXN/"
+            }
+          ]
+        },
+        {
+          "id": "ruflo-60-cooperating-agents",
+          "type": "tool",
+          "title": {
+            "en": "Ruflo — 60+ cooperating agents",
+            "he": ""
+          },
+          "text": {
+            "en": "A framework for running more than 60 AI agents that work together.",
+            "he": ""
+          },
+          "url": "https://github.com/ruvnet/ruflo",
+          "tags": [
+            "multi-agent",
+            "orchestration",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1A7zniZwqe/"
+            }
+          ]
+        },
+        {
+          "id": "browsentic-your-ai-drives-your-browser",
+          "type": "tool",
+          "title": {
+            "en": "browsentic — your AI drives your browser",
+            "he": ""
+          },
+          "text": {
+            "en": "Lets an AI agent operate your web browser for you.",
+            "he": ""
+          },
+          "url": "https://github.com/imshaikot/browsentic",
+          "tags": [
+            "browser-automation",
+            "ai-agents",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1DMz73ce8v/"
+            }
+          ]
+        },
+        {
+          "id": "api-anything-turn-any-website-into-an-api",
+          "type": "tool",
+          "title": {
+            "en": "API Anything — turn any website into an API",
+            "he": ""
+          },
+          "text": {
+            "en": "Turns websites into APIs you can call from code.",
+            "he": ""
+          },
+          "url": "https://github.com/goodnight000/api-anything",
+          "tags": [
+            "api",
+            "web-scraping",
+            "automation",
+            "open-source"
+          ],
+          "added": "2026-11-17",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19qKyxPWwt/"
+            }
+          ]
+        },
+        {
+          "id": "airllm-70b-models-on-small-hardware",
+          "type": "tool",
+          "title": {
+            "en": "AirLLM — 70B models on small hardware",
+            "he": ""
+          },
+          "text": {
+            "en": "Runs very large language models (70B parameters) on modest hardware, such as a single small GPU.",
+            "he": ""
+          },
+          "url": "https://github.com/lyogavin/airllm",
+          "tags": [
+            "local-llm",
+            "inference",
+            "low-memory",
+            "open-source"
+          ],
+          "added": "2026-11-19",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1JQg8u5gDt/"
+            }
+          ]
+        },
+        {
+          "id": "open-webui-offline-chatgpt-style-app",
+          "type": "tool",
+          "title": {
+            "en": "Open WebUI — offline ChatGPT-style app",
+            "he": ""
+          },
+          "text": {
+            "en": "A self-hosted, ChatGPT-style interface for local and online AI models that can run fully offline.",
+            "he": ""
+          },
+          "url": "https://github.com/open-webui/open-webui",
+          "tags": [
+            "chat",
+            "local-llm",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-11-19",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1HXRVgAebS/"
+            }
+          ]
+        },
+        {
+          "id": "omniroute-ai-model-router",
+          "type": "tool",
+          "title": {
+            "en": "OmniRoute — AI model router",
+            "he": ""
+          },
+          "text": {
+            "en": "Routes each request to a suitable AI model.",
+            "he": ""
+          },
+          "url": "https://github.com/cheaper-inference/OmniRoute",
+          "tags": [
+            "llm-routing",
+            "cost",
+            "open-source"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "AI coding & agents",
+            "he": "קוד וסוכני בינה מלאכותית"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1HjpHX5isU/"
+            }
+          ]
         }
       ]
     },
@@ -4421,6 +5008,822 @@
           "sub": {
             "en": "Design inspiration",
             "he": "השראה לעיצוב"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai-skills",
+      "name": {
+        "en": "AI Skills",
+        "he": "סקילים לבינה מלאכותית"
+      },
+      "description": {
+        "en": "Skills, plugins and prompts for Claude, Claude Code and other AI agents.",
+        "he": "סקילים, תוספים ופרומפטים ל־Claude, ל־Claude Code ולסוכני בינה מלאכותית אחרים."
+      },
+      "items": [
+        {
+          "id": "reverse-skill-analyse-almost-any-app-with-claude-code-codex-",
+          "type": "tool",
+          "title": {
+            "en": "Reverse Skill — analyse almost any app with Claude Code, Codex or Cursor",
+            "he": ""
+          },
+          "text": {
+            "en": "A skill pack for reverse-engineering apps with AI coding agents. Shared in a Hebrew TechNews post and again later.",
+            "he": ""
+          },
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "tags": [
+            "reverse-engineering",
+            "claude-code",
+            "cursor",
+            "agent-skills"
+          ],
+          "added": "2026-08-02",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post (1)",
+              "url": "https://www.facebook.com/share/18yi3XsASt/"
+            },
+            {
+              "label": "Original post (2)",
+              "url": "https://www.facebook.com/share/r/1S896JEWRq/"
+            }
+          ]
+        },
+        {
+          "id": "prompt-master-claude-skill-that-writes-precise-prompts",
+          "type": "tool",
+          "title": {
+            "en": "Prompt Master — Claude skill that writes precise prompts",
+            "he": ""
+          },
+          "text": {
+            "en": "A skill that turns a rough request into a precise, well-structured prompt.",
+            "he": ""
+          },
+          "url": "https://github.com/nidhinjs/prompt-master",
+          "tags": [
+            "prompting",
+            "claude",
+            "agent-skills"
+          ],
+          "added": "2026-08-04",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/14gz3EkE4C9/"
+            }
+          ]
+        },
+        {
+          "id": "agent-reach-skill-giving-agents-internet-access",
+          "type": "tool",
+          "title": {
+            "en": "Agent Reach — skill giving agents internet access",
+            "he": ""
+          },
+          "text": {
+            "en": "Lets AI agents search and read content from around the internet.",
+            "he": ""
+          },
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "tags": [
+            "web-access",
+            "ai-agents",
+            "agent-skills"
+          ],
+          "added": "2026-08-08",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1CdvFX9erx/"
+            }
+          ]
+        },
+        {
+          "id": "book-to-skill-turn-any-book-into-an-agent-skill",
+          "type": "tool",
+          "title": {
+            "en": "book-to-skill — turn any book into an agent skill",
+            "he": ""
+          },
+          "text": {
+            "en": "Converts a book into a skill an AI agent can use as working knowledge.",
+            "he": ""
+          },
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "tags": [
+            "books",
+            "knowledge",
+            "agent-skills"
+          ],
+          "added": "2026-08-10",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1PDbn9EHG2/"
+            }
+          ]
+        },
+        {
+          "id": "council-of-high-intelligence-18-member-decision-council",
+          "type": "tool",
+          "title": {
+            "en": "Council of High Intelligence — 18-member decision council",
+            "he": ""
+          },
+          "text": {
+            "en": "A skill that has 18 simulated advisers debate a question before reaching a decision.",
+            "he": ""
+          },
+          "url": "https://github.com/0xNyk/council-of-high-intelligence",
+          "tags": [
+            "decision-making",
+            "multi-perspective",
+            "agent-skills"
+          ],
+          "added": "2026-08-23",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1a6WR9dLkE/"
+            }
+          ]
+        },
+        {
+          "id": "scroll-craft-skill-for-cinematic-scrolling-websites",
+          "type": "tool",
+          "title": {
+            "en": "Scroll Craft — skill for cinematic scrolling websites",
+            "he": ""
+          },
+          "text": {
+            "en": "Helps an AI agent build websites with cinematic scroll animations.",
+            "he": ""
+          },
+          "url": "https://github.com/nateherkai/scroll-craft",
+          "tags": [
+            "web-design",
+            "scroll-animation",
+            "agent-skills"
+          ],
+          "added": "2026-08-27",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1CixN3PnPa/"
+            }
+          ]
+        },
+        {
+          "id": "skills-for-real-engineers-matt-pocock",
+          "type": "tool",
+          "title": {
+            "en": "Skills for Real Engineers (Matt Pocock)",
+            "he": ""
+          },
+          "text": {
+            "en": "Matt Pocock's collection of agent skills for software engineering work.",
+            "he": ""
+          },
+          "url": "https://github.com/mattpocock/skills",
+          "tags": [
+            "software-engineering",
+            "claude-code",
+            "agent-skills"
+          ],
+          "added": "2026-09-08",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19Lohkn7nf/"
+            }
+          ]
+        },
+        {
+          "id": "logo-design-skill-for-claude-cursor-copilot",
+          "type": "tool",
+          "title": {
+            "en": "Logo design skill for Claude/Cursor/Copilot",
+            "he": ""
+          },
+          "text": {
+            "en": "A skill that guides AI tools through designing logos.",
+            "he": ""
+          },
+          "url": "https://github.com/kaankiziltug/logo-design-skill",
+          "tags": [
+            "logo-design",
+            "branding",
+            "agent-skills"
+          ],
+          "added": "2026-10-04",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1JzizCv13f/"
+            }
+          ]
+        },
+        {
+          "id": "claude-video-lets-claude-actually-watch-video",
+          "type": "tool",
+          "title": {
+            "en": "claude-video — lets Claude actually watch video",
+            "he": ""
+          },
+          "text": {
+            "en": "A tool that gives Claude the ability to watch and understand video.",
+            "he": ""
+          },
+          "url": "https://github.com/bradautomates/claude-video",
+          "tags": [
+            "video",
+            "claude",
+            "agent-skills"
+          ],
+          "added": "2026-10-04",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1JyqTBCqvT/"
+            }
+          ]
+        },
+        {
+          "id": "google-s-official-agent-skills-for-claude-code-firebase-clou",
+          "type": "tool",
+          "title": {
+            "en": "Google's official Agent Skills for Claude Code (Firebase, Cloud Run, Gemini…)",
+            "he": ""
+          },
+          "text": {
+            "en": "Google's own skills for working with its developer products from Claude Code.",
+            "he": ""
+          },
+          "url": "https://github.com/google/skills",
+          "tags": [
+            "google",
+            "firebase",
+            "cloud",
+            "claude-code",
+            "agent-skills"
+          ],
+          "added": "2026-10-04",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1HnN22dTc8/"
+            }
+          ]
+        },
+        {
+          "id": "anatomy-skill-that-draws-interactive-isometric-machines",
+          "type": "tool",
+          "title": {
+            "en": "Anatomy — skill that draws interactive isometric machines",
+            "he": ""
+          },
+          "text": {
+            "en": "A Claude Code skill that makes interactive isometric illustrations of machines and mechanisms. Shared in three posts.",
+            "he": ""
+          },
+          "url": "https://github.com/wheresryan22/anatomy",
+          "tags": [
+            "illustration",
+            "isometric",
+            "machines",
+            "claude-code",
+            "agent-skills"
+          ],
+          "added": "2026-10-13",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post (1)",
+              "url": "https://www.facebook.com/share/r/1Ba7m9eudJ/"
+            },
+            {
+              "label": "Original post (2)",
+              "url": "https://www.facebook.com/share/r/1HE43tm7sH/"
+            },
+            {
+              "label": "Original post (3)",
+              "url": "https://www.facebook.com/share/r/19qj3xU2vJ/"
+            }
+          ]
+        },
+        {
+          "id": "claude-pxl-pixel-art-with-code",
+          "type": "tool",
+          "title": {
+            "en": "Claude PXL — pixel art with code",
+            "he": ""
+          },
+          "text": {
+            "en": "Claude draws pixel art by writing code.",
+            "he": ""
+          },
+          "url": "https://github.com/crsolver/claude-pxl",
+          "tags": [
+            "pixel-art",
+            "claude",
+            "agent-skills"
+          ],
+          "added": "2026-10-22",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/18ZasBZtAm/"
+            }
+          ]
+        },
+        {
+          "id": "ai-design-skills-github",
+          "type": "tool",
+          "title": {
+            "en": "ai-design-skills (GitHub)",
+            "he": ""
+          },
+          "text": {
+            "en": "A collection of design-focused skills for AI agents.",
+            "he": ""
+          },
+          "url": "https://github.com/elayadesign/ai-design-skills",
+          "tags": [
+            "design",
+            "agent-skills"
+          ],
+          "added": "2026-10-26",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          }
+        },
+        {
+          "id": "dimensional-drawing-apple-style-ui-spec-drawings",
+          "type": "tool",
+          "title": {
+            "en": "Dimensional Drawing — Apple-style UI spec drawings",
+            "he": ""
+          },
+          "text": {
+            "en": "A skill for making Apple-style dimensioned drawings of UI specs.",
+            "he": ""
+          },
+          "url": "https://github.com/enesozturk/dimensional-drawing",
+          "tags": [
+            "ui-specs",
+            "technical-drawing",
+            "agent-skills"
+          ],
+          "added": "2026-10-27",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1EFEDU1BcT/"
+            }
+          ]
+        },
+        {
+          "id": "teardown-simulator-machines-you-can-take-apart",
+          "type": "tool",
+          "title": {
+            "en": "Teardown Simulator — machines you can take apart",
+            "he": ""
+          },
+          "text": {
+            "en": "A skill that builds interactive 3D machines you can take apart in the browser.",
+            "he": ""
+          },
+          "url": "https://github.com/elvarofficial/teardown",
+          "tags": [
+            "3d",
+            "machines",
+            "exploded-view",
+            "agent-skills"
+          ],
+          "added": "2026-11-05",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1CFdxxEKgy/"
+            }
+          ]
+        },
+        {
+          "id": "3dviz-pro-max-sentence-to-interactive-3d-scene",
+          "type": "tool",
+          "title": {
+            "en": "3Dviz Pro Max — sentence to interactive 3D scene",
+            "he": ""
+          },
+          "text": {
+            "en": "Describe a world in a sentence and the AI builds it as an interactive 3D scene.",
+            "he": ""
+          },
+          "url": "https://github.com/viettranx/3dviz-pro-max",
+          "tags": [
+            "3d",
+            "text-to-3d",
+            "scenes",
+            "agent-skills"
+          ],
+          "added": "2026-11-09",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1Zc69xjykA/"
+            }
+          ]
+        },
+        {
+          "id": "antialgorithm-anti-average-creative-skill",
+          "type": "tool",
+          "title": {
+            "en": "antialgorithm — anti-average creative skill",
+            "he": ""
+          },
+          "text": {
+            "en": "A creative skill that pushes AI away from average, predictable results.",
+            "he": ""
+          },
+          "url": "https://github.com/mankidev/antialgorithm",
+          "tags": [
+            "creativity",
+            "design",
+            "agent-skills"
+          ],
+          "added": "2026-11-19",
+          "sub": {
+            "en": "Claude skills",
+            "he": "סקילים ל־Claude"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1FPmZPGBxz/"
+            }
+          ]
+        },
+        {
+          "id": "aitmpl-claude-code-templates-skills-agents-commands",
+          "type": "tool",
+          "title": {
+            "en": "AITMPL — Claude Code templates: skills, agents, commands",
+            "he": ""
+          },
+          "text": {
+            "en": "A catalogue of ready-made skills, agents and commands for Claude Code.",
+            "he": ""
+          },
+          "url": "https://aitmpl.com",
+          "tags": [
+            "claude-code",
+            "templates",
+            "agents"
+          ],
+          "added": "2026-08-04",
+          "sub": {
+            "en": "Claude Code tools",
+            "he": "כלים ל־Claude Code"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1BCvS7etb3/"
+            }
+          ]
+        },
+        {
+          "id": "smart-ralph-dev-team-plugin-for-claude-code-codex",
+          "type": "tool",
+          "title": {
+            "en": "Smart Ralph — dev team plugin for Claude Code & Codex",
+            "he": ""
+          },
+          "text": {
+            "en": "A plugin that runs a team of development roles inside Claude Code or Codex.",
+            "he": ""
+          },
+          "url": "https://github.com/tzachbon/smart-ralph",
+          "tags": [
+            "claude-code",
+            "codex",
+            "plugin",
+            "agents"
+          ],
+          "added": "2026-09-03",
+          "sub": {
+            "en": "Claude Code tools",
+            "he": "כלים ל־Claude Code"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19exaPtoBZ/"
+            }
+          ]
+        },
+        {
+          "id": "understand-anything-explain-your-codebase",
+          "type": "tool",
+          "title": {
+            "en": "Understand-Anything — explain your codebase",
+            "he": ""
+          },
+          "text": {
+            "en": "Helps you understand a codebase by explaining how it is put together.",
+            "he": ""
+          },
+          "url": "https://github.com/Egonex-AI/Understand-Anything",
+          "tags": [
+            "codebase",
+            "documentation",
+            "claude-code"
+          ],
+          "added": "2026-09-21",
+          "sub": {
+            "en": "Claude Code tools",
+            "he": "כלים ל־Claude Code"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1UagBUSF6a/"
+            }
+          ]
+        },
+        {
+          "id": "reanimate-clone-any-website-animation",
+          "type": "tool",
+          "title": {
+            "en": "Reanimate — clone any website animation",
+            "he": ""
+          },
+          "text": {
+            "en": "Recreates animations you see on websites so you can use them in your own.",
+            "he": ""
+          },
+          "url": "https://github.com/niazmorshed2007/reanimate",
+          "tags": [
+            "web-animation",
+            "cloning",
+            "claude-code"
+          ],
+          "added": "2026-11-04",
+          "sub": {
+            "en": "Claude Code tools",
+            "he": "כלים ל־Claude Code"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1ZHWGUmgZK/"
+            }
+          ]
+        },
+        {
+          "id": "hyperresearch-claude-code-codex-as-a-deep-research-agent",
+          "type": "tool",
+          "title": {
+            "en": "hyperresearch — Claude Code / Codex as a deep-research agent",
+            "he": ""
+          },
+          "text": {
+            "en": "Turns Claude Code or Codex into an agent for deep research.",
+            "he": ""
+          },
+          "url": "https://github.com/jordan-gibbs/hyperresearch",
+          "tags": [
+            "research",
+            "claude-code",
+            "codex",
+            "agents"
+          ],
+          "added": "2026-11-11",
+          "sub": {
+            "en": "Claude Code tools",
+            "he": "כלים ל־Claude Code"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19gwwdApwa/"
+            }
+          ]
+        },
+        {
+          "id": "awesome-nanobanana-pro-nano-banana-pro-prompts-github",
+          "type": "tool",
+          "title": {
+            "en": "awesome-nanobanana-pro — Nano Banana Pro prompts (GitHub)",
+            "he": ""
+          },
+          "text": {
+            "en": "A collection of example prompts for Google's Nano Banana Pro image model.",
+            "he": ""
+          },
+          "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
+          "tags": [
+            "image-generation",
+            "prompts",
+            "nano-banana",
+            "awesome-list"
+          ],
+          "added": "2025-12-03",
+          "sub": {
+            "en": "Prompts & tricks",
+            "he": "פרומפטים וטריקים"
+          }
+        },
+        {
+          "id": "anthropic-s-free-interactive-prompt-engineering-course-the-a",
+          "type": "course",
+          "title": {
+            "en": "Anthropic's free interactive prompt-engineering course (The AI Empire)",
+            "he": ""
+          },
+          "text": {
+            "en": "Anthropic's interactive tutorial on writing good prompts for Claude, step by step with exercises.",
+            "he": ""
+          },
+          "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+          "tags": [
+            "prompting",
+            "course",
+            "anthropic",
+            "claude"
+          ],
+          "added": "2026-07-27",
+          "sub": {
+            "en": "Prompts & tricks",
+            "he": "פרומפטים וטריקים"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/1E9WEcGz4f/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "blender-3d",
+      "name": {
+        "en": "Blender 3D",
+        "he": "Blender תלת־ממד"
+      },
+      "description": {
+        "en": "Blender tutorials, tips and AI tools.",
+        "he": "מדריכים, טיפים וכלי בינה מלאכותית ל־Blender."
+      },
+      "items": [
+        {
+          "id": "blender-skills-agent-skills-for-blender",
+          "type": "tool",
+          "title": {
+            "en": "blender-skills — agent skills for Blender",
+            "he": ""
+          },
+          "text": {
+            "en": "Skills that help AI agents work in Blender.",
+            "he": ""
+          },
+          "url": "https://github.com/arjun988/blender-skills",
+          "tags": [
+            "blender",
+            "agent-skills",
+            "3d"
+          ],
+          "added": "2026-11-17",
+          "sub": {
+            "en": "AI + Blender",
+            "he": "בינה מלאכותית ו־Blender"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1DWL4PKmAq/"
+            }
+          ]
+        },
+        {
+          "id": "stablegen-prompt-to-textured-rigged-3d-character-in-blender",
+          "type": "tool",
+          "title": {
+            "en": "StableGen — prompt to textured, rigged 3D character in Blender",
+            "he": ""
+          },
+          "text": {
+            "en": "Generates a textured, rigged 3D character in Blender from a text prompt.",
+            "he": ""
+          },
+          "url": "https://github.com/sakalond/StableGen",
+          "tags": [
+            "blender",
+            "character",
+            "texturing",
+            "rigging",
+            "ai"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "AI + Blender",
+            "he": "בינה מלאכותית ו־Blender"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/193vHQTzAG/"
+            }
+          ]
+        },
+        {
+          "id": "solidify-modifier-portal-cube-3d",
+          "type": "video",
+          "title": {
+            "en": "Solidify modifier — Portal Cube 3D",
+            "he": ""
+          },
+          "text": {
+            "en": "A quick tip on using Blender's Solidify modifier to give surfaces thickness.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/4UaBcqmeqrI",
+          "tags": [
+            "blender",
+            "modifiers",
+            "modelling",
+            "youtube"
+          ],
+          "added": "2025-06-28",
+          "sub": {
+            "en": "Tutorials & tips",
+            "he": "מדריכים וטיפים"
           }
         }
       ]
