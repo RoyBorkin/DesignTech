@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:30:00.000Z",
+  "updated": "2026-11-24T13:00:00.000Z",
   "lists": [
     {
       "id": "digital-fabrication",
@@ -1782,6 +1782,244 @@
             {
               "label": "Original post",
               "url": "https://www.facebook.com/share/r/1M1PLfhKig/"
+            }
+          ]
+        },
+        {
+          "id": "cloudreve-self-hosted-cloud-storage-digital-escape-tools",
+          "type": "tool",
+          "title": {
+            "en": "Cloudreve — self-hosted cloud storage (Digital Escape Tools)",
+            "he": ""
+          },
+          "text": {
+            "en": "Run your own cloud drive for storing and sharing files, with support for several storage back-ends.",
+            "he": ""
+          },
+          "url": "https://github.com/cloudreve/cloudreve",
+          "tags": [
+            "cloud-storage",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-05-18",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Digital Escape Tools",
+              "url": "https://digitalescapetools.com/tools/tool.html?id=cloudreve"
+            }
+          ]
+        },
+        {
+          "id": "sync-in-self-hosted-file-storage-collaboration",
+          "type": "tool",
+          "title": {
+            "en": "Sync-in — self-hosted file storage & collaboration",
+            "he": ""
+          },
+          "text": {
+            "en": "A self-hosted platform for storing, sharing and working on files together.",
+            "he": ""
+          },
+          "url": "https://github.com/Sync-in/server",
+          "tags": [
+            "file-sharing",
+            "collaboration",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-08-11",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19MSnAd3u1/"
+            }
+          ]
+        },
+        {
+          "id": "phreshos-web-based-self-hosted-os",
+          "type": "tool",
+          "title": {
+            "en": "PhreshOS — web-based self-hosted OS",
+            "he": ""
+          },
+          "text": {
+            "en": "A desktop-like operating system that runs in the browser on your own server.",
+            "he": ""
+          },
+          "url": "https://github.com/PhreshOS/system",
+          "tags": [
+            "web-os",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-10-04",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19qJ97CeQf/"
+            }
+          ]
+        },
+        {
+          "id": "awesome-selfhosted-hundreds-of-self-hostable-apps",
+          "type": "tool",
+          "title": {
+            "en": "awesome-selfhosted — hundreds of self-hostable apps",
+            "he": ""
+          },
+          "text": {
+            "en": "A big list of free software you can run on your own server, sorted by category.",
+            "he": ""
+          },
+          "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "tags": [
+            "self-hosted",
+            "awesome-list",
+            "home-server"
+          ],
+          "added": "2026-10-14",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/v/1ByvxSPFhS/"
+            }
+          ]
+        },
+        {
+          "id": "phonebox-reuse-an-old-android-phone",
+          "type": "tool",
+          "title": {
+            "en": "phonebox — reuse an old Android phone",
+            "he": ""
+          },
+          "text": {
+            "en": "Turns an old Android phone into a useful always-on device.",
+            "he": ""
+          },
+          "url": "https://github.com/ersinkoc/phonebox",
+          "tags": [
+            "android",
+            "reuse",
+            "home-server",
+            "open-source"
+          ],
+          "added": "2026-11-16",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1MTJxEhkEK/"
+            }
+          ]
+        },
+        {
+          "id": "paperless-ngx-scan-index-and-archive-documents",
+          "type": "tool",
+          "title": {
+            "en": "Paperless-ngx — scan, index and archive documents",
+            "he": ""
+          },
+          "text": {
+            "en": "Scan your paper documents, have the text recognised, and search and organise them in a self-hosted archive.",
+            "he": ""
+          },
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "tags": [
+            "documents",
+            "ocr",
+            "archive",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-11-20",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19suXKvQSZ/"
+            }
+          ]
+        },
+        {
+          "id": "nextcloud-your-own-google-drive",
+          "type": "tool",
+          "title": {
+            "en": "Nextcloud — your own Google Drive",
+            "he": ""
+          },
+          "text": {
+            "en": "Self-hosted files, calendar, contacts and collaboration: an alternative to Google Drive that runs on your own server.",
+            "he": ""
+          },
+          "url": "https://github.com/nextcloud/server",
+          "tags": [
+            "cloud-storage",
+            "collaboration",
+            "self-hosted",
+            "open-source"
+          ],
+          "added": "2026-11-21",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1cqBaHuHMN/"
+            }
+          ]
+        },
+        {
+          "id": "docker-android-android-emulator-in-docker",
+          "type": "tool",
+          "title": {
+            "en": "Docker-Android — Android emulator in Docker",
+            "he": ""
+          },
+          "text": {
+            "en": "Runs an Android emulator inside a Docker container, useful for testing and automation.",
+            "he": ""
+          },
+          "url": "https://github.com/budtmo/docker-android",
+          "tags": [
+            "android",
+            "docker",
+            "emulator",
+            "open-source"
+          ],
+          "added": "2026-11-22",
+          "sub": {
+            "en": "Home server & self-hosting",
+            "he": "שרת ביתי ואירוח עצמי"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/19xLWN67GT/"
             }
           ]
         }
@@ -5009,6 +5247,68 @@
             "en": "Design inspiration",
             "he": "השראה לעיצוב"
           }
+        },
+        {
+          "id": "space-type-generator-kinetic-typography",
+          "type": "tool",
+          "title": {
+            "en": "Space Type Generator — kinetic typography",
+            "he": ""
+          },
+          "text": {
+            "en": "Make moving, animated type in the browser and export it.",
+            "he": ""
+          },
+          "url": "https://spacetypegenerator.com/",
+          "tags": [
+            "kinetic-typography",
+            "animation",
+            "type",
+            "web-tool"
+          ],
+          "added": "2025-01-24",
+          "sub": {
+            "en": "Design tools",
+            "he": "כלי עיצוב"
+          }
+        },
+        {
+          "id": "design-tools-tooooools-app-typedither-vercel-app-fontbrief-c",
+          "type": "video",
+          "title": {
+            "en": "Design tools: tooooools.app, typedither.vercel.app, fontbrief.com (@kellybadakdesign)",
+            "he": ""
+          },
+          "text": {
+            "en": "A reel on three browser design tools: lo-fi image effects, dithered type, and font briefs.",
+            "he": ""
+          },
+          "url": "https://www.instagram.com/reel/DHJr1ohPO7g/",
+          "tags": [
+            "design-tools",
+            "typography",
+            "image-effects",
+            "instagram"
+          ],
+          "added": "2025-04-21",
+          "sub": {
+            "en": "Design tools",
+            "he": "כלי עיצוב"
+          },
+          "links": [
+            {
+              "label": "tooooools.app",
+              "url": "https://tooooools.app"
+            },
+            {
+              "label": "typedither",
+              "url": "https://typedither.vercel.app"
+            },
+            {
+              "label": "fontbrief",
+              "url": "https://fontbrief.com"
+            }
+          ]
         }
       ]
     },
@@ -5825,6 +6125,213 @@
             "en": "Tutorials & tips",
             "he": "מדריכים וטיפים"
           }
+        }
+      ]
+    },
+    {
+      "id": "speakers-and-acoustics",
+      "name": {
+        "en": "Speakers and Acoustics",
+        "he": "רמקולים ואקוסטיקה"
+      },
+      "description": {
+        "en": "How speakers and sound work, audio testing, and music software.",
+        "he": "איך רמקולים וצליל עובדים, בדיקות שמע ותוכנות מוזיקה."
+      },
+      "items": [
+        {
+          "id": "how-a-speaker-produces-sound-mindminds",
+          "type": "video",
+          "title": {
+            "en": "How a speaker produces sound — MindMinds",
+            "he": ""
+          },
+          "text": {
+            "en": "A short animated explanation of how a speaker's coil, magnet and cone turn an electrical signal into sound.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/C6F2ANN_pv8",
+          "tags": [
+            "speakers",
+            "how-it-works",
+            "physics",
+            "youtube"
+          ],
+          "added": "2025-05-06",
+          "sub": {
+            "en": "Learning & theory",
+            "he": "למידה ותאוריה"
+          }
+        },
+        {
+          "id": "the-most-famous-drum-sound-was-an-accident-audiohaze",
+          "type": "video",
+          "title": {
+            "en": "The most famous drum sound was an accident — AudioHaze",
+            "he": ""
+          },
+          "text": {
+            "en": "The story of a famous drum sound that came about by accident.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/ETxdeTcjOAE",
+          "tags": [
+            "music-history",
+            "drums",
+            "recording",
+            "youtube"
+          ],
+          "added": "2025-06-21",
+          "sub": {
+            "en": "Learning & theory",
+            "he": "למידה ותאוריה"
+          }
+        },
+        {
+          "id": "slashing-a-speaker-with-a-razor-blade-tone3000",
+          "type": "video",
+          "title": {
+            "en": "Slashing a speaker with a razor blade — TONE3000",
+            "he": ""
+          },
+          "text": {
+            "en": "What happens to the sound when a speaker cone is cut with a razor blade.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/qTMItjJ0KS0",
+          "tags": [
+            "speakers",
+            "distortion",
+            "experiment",
+            "youtube"
+          ],
+          "added": "2025-12-24",
+          "sub": {
+            "en": "Learning & theory",
+            "he": "למידה ותאוריה"
+          }
+        },
+        {
+          "id": "what-hi-fi-article-google-share",
+          "type": "article",
+          "title": {
+            "en": "What Hi-Fi? article (Google share)",
+            "he": ""
+          },
+          "text": {
+            "en": "An article from What Hi-Fi?, the hi-fi and audio magazine.",
+            "he": ""
+          },
+          "url": "https://share.google/aTYLhwfIZsYClQ5Kf",
+          "tags": [
+            "hi-fi",
+            "audio"
+          ],
+          "added": "2026-07-29",
+          "sub": {
+            "en": "Learning & theory",
+            "he": "למידה ותאוריה"
+          }
+        },
+        {
+          "id": "sound-sand-chladni-plate-pop-orbit",
+          "type": "video",
+          "title": {
+            "en": "Sound + sand: Chladni plate — Pop Orbit",
+            "he": ""
+          },
+          "text": {
+            "en": "Sand on a vibrating plate settles into patterns that show the plate's resonant modes.",
+            "he": ""
+          },
+          "url": "https://youtube.com/shorts/ikaIFK52j7g",
+          "tags": [
+            "chladni",
+            "resonance",
+            "vibration",
+            "physics",
+            "youtube"
+          ],
+          "added": "2026-10-28",
+          "sub": {
+            "en": "Learning & theory",
+            "he": "למידה ותאוריה"
+          }
+        },
+        {
+          "id": "free-tools-that-expose-flaws-in-your-audiophile-setup-headph",
+          "type": "article",
+          "title": {
+            "en": "Free tools that expose flaws in your audiophile setup (Headphonesty)",
+            "he": ""
+          },
+          "text": {
+            "en": "Free test tools for finding hidden problems in a listening setup.",
+            "he": ""
+          },
+          "url": "https://www.headphonesty.com/2026/02/free-tools-expose-hidden-flaws-audiophile-setup/",
+          "tags": [
+            "audio-testing",
+            "hi-fi",
+            "free-tools"
+          ],
+          "added": "2026-11-10",
+          "sub": {
+            "en": "Learning & theory",
+            "he": "למידה ותאוריה"
+          }
+        },
+        {
+          "id": "cacophony-free-plugin-by-subaltern-games-bpb",
+          "type": "article",
+          "title": {
+            "en": "Cacophony — free plugin by Subaltern Games (BPB)",
+            "he": ""
+          },
+          "text": {
+            "en": "Bedroom Producers Blog on Cacophony, a free audio plugin from Subaltern Games.",
+            "he": ""
+          },
+          "url": "https://bedroomproducersblog.com/2023/10/27/cacophony-subaltern-games/",
+          "tags": [
+            "audio-plugin",
+            "free",
+            "music-production"
+          ],
+          "added": "2023-10-30",
+          "sub": {
+            "en": "Music software",
+            "he": "תוכנות מוזיקה"
+          }
+        },
+        {
+          "id": "nota-free-daw",
+          "type": "tool",
+          "title": {
+            "en": "Nota — free DAW",
+            "he": ""
+          },
+          "text": {
+            "en": "A free, open-source digital audio workstation for making music.",
+            "he": ""
+          },
+          "url": "https://github.com/nota-daw/nota",
+          "tags": [
+            "daw",
+            "music-production",
+            "open-source"
+          ],
+          "added": "2026-11-15",
+          "sub": {
+            "en": "Music software",
+            "he": "תוכנות מוזיקה"
+          },
+          "links": [
+            {
+              "label": "Original post",
+              "url": "https://www.facebook.com/share/r/1JX3zWx877/"
+            }
+          ]
         }
       ]
     }
