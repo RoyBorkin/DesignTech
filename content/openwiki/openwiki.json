@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:00:00.000Z",
+  "updated": "2026-11-24T14:00:00.000Z",
   "lists": [
     {
       "id": "digital-fabrication",
@@ -38,7 +38,7 @@
             "he": "Blender"
           },
           "text": {
-            "en": "Free, open-source 3D suite for modelling, simulation and rendering.",
+            "en": "Free, open-source 3D software for modelling, sculpting, animation, simulation and rendering, with Python scripting and Geometry Nodes for parametric work.",
             "he": "תוכנת תלת־ממד חינמית בקוד פתוח למידול, סימולציה ורינדור."
           },
           "url": "https://www.blender.org/",
@@ -56,7 +56,7 @@
             "he": "הדפסת חימר של WASP"
           },
           "text": {
-            "en": "The maker of the LDM clay extruder used in the lab.",
+            "en": "Italian maker of large-format and clay 3D printers, including the LDM extruder for printing clay and ceramic paste. The lab uses their clay extruder.",
             "he": "יצרנית ראש הדפסת החימר LDM שבו משתמשים במעבדה."
           },
           "url": "https://www.3dwasp.com/en/",
@@ -87,7 +87,7 @@
             "he": "תוכנית שימור שוניות האלמוגים של NOAA"
           },
           "text": {
-            "en": "Background, data and restoration programmes from the US national program.",
+            "en": "The US NOAA Coral Reef Conservation Program: background on coral reefs, monitoring data, and restoration and research programmes.",
             "he": "רקע, נתונים ותוכניות שיקום מהתוכנית הלאומית האמריקאית."
           },
           "url": "https://coralreef.noaa.gov/",
@@ -105,7 +105,7 @@
             "he": "Reef Design Lab"
           },
           "text": {
-            "en": "A design studio building artificial reef and marine habitat structures.",
+            "en": "A design studio that makes artificial reef and marine habitat structures, often 3D-printed or cast, to help sea life settle on coastlines and seawalls.",
             "he": "סטודיו לעיצוב שבונה שוניות מלאכותיות ומבנים לבתי גידול ימיים."
           },
           "url": "https://www.reefdesignlab.com/",
@@ -153,7 +153,7 @@
             "he": "IDEO: חשיבה עיצובית"
           },
           "text": {
-            "en": "IDEO's introduction to design thinking, with history and resources.",
+            "en": "IDEO's guide to design thinking: its history, the human-centred process, and tools and courses to practise it.",
             "he": "המבוא של IDEO לחשיבה עיצובית, עם היסטוריה ומקורות."
           },
           "url": "https://designthinking.ideo.com/",
@@ -465,7 +465,7 @@
             "he": ""
           },
           "text": {
-            "en": "A weaving loom made of printed parts.",
+            "en": "JJ Shankles shows a working weaving loom made from 3D-printed parts: a craft tool you can print at home.",
             "he": ""
           },
           "url": "https://youtube.com/shorts/zc7fYRQFjMg",
@@ -587,7 +587,7 @@
             "he": ""
           },
           "text": {
-            "en": "Use the Arachne wall generator in the slicer to print small text cleanly.",
+            "en": "3DJake's tip for printing tiny text cleanly: switch the slicer's wall generator to Arachne, which varies line width to fit thin details.",
             "he": ""
           },
           "url": "https://youtube.com/shorts/e91awvJ_RvE",
@@ -635,7 +635,7 @@
             "he": ""
           },
           "text": {
-            "en": "MakeUseOf on using Claude alongside a 3D printer.",
+            "en": "MakeUseOf on connecting Claude to FreeCAD (through an MCP server) and to Bambu Lab and Elegoo printers (through Home Assistant), so it can design parts, slice them, send prints and watch them on the printer camera. You still do the physical work.",
             "he": ""
           },
           "url": "https://www.makeuseof.com/claude-3d-printer-absurdly-useful-combination/",
@@ -743,7 +743,7 @@
             "he": ""
           },
           "text": {
-            "en": "An open-source Windows tweaking and cleanup tool.",
+            "en": "A free, open-source Windows optimiser focused on performance, privacy and simplicity: applies tweaks to speed up and clean up your PC.",
             "he": ""
           },
           "url": "https://github.com/itsfatduck/optimizerDuck",
@@ -791,7 +791,7 @@
             "he": ""
           },
           "text": {
-            "en": "EdgePilot: a small pill-shaped helper that sits on the screen edge and keeps an eye on what your computer is doing.",
+            "en": "EdgePilot: an edge-native desktop surface for Windows and Linux that stays out of the way at the screen edge until needed. The current System module shows live system information there.",
             "he": ""
           },
           "url": "https://github.com/pricootz/edgepilot",
@@ -814,7 +814,7 @@
             "he": ""
           },
           "text": {
-            "en": "Organise desktop icons into boxes (fences), a free alternative to Stardock Fences.",
+            "en": "A free, open-source alternative to Stardock Fences for Windows 10 and 11: keep desktop files in glass panels, switch projects with tabs, and let your AI agent arrange the layout.",
             "he": ""
           },
           "url": "https://github.com/DayuanJiang/PecoFence",
@@ -834,11 +834,11 @@
           "id": "artcraft-free-open-source-creative-apps-adobe-fusion-and-off",
           "type": "tool",
           "title": {
-            "en": "ArtCraft — free open-source creative apps (Adobe Fusion and office alternatives)",
+            "en": "ArtCraft — open-source 'IDE for artists' for AI images and video",
             "he": ""
           },
           "text": {
-            "en": "A collection of free creative and office apps offered as open-source alternatives to paid suites.",
+            "en": "ArtCraft calls itself 'the IDE for artists': a free, open-source desktop app for interactive AI image and video creation. The second link lists its apps.",
             "he": ""
           },
           "url": "https://github.com/storytold/artcraft",
@@ -867,7 +867,7 @@
             "he": ""
           },
           "text": {
-            "en": "A download manager that combines all your network connections to download faster.",
+            "en": "Download files and torrents faster by combining all your internet connections at once: Wi-Fi, Ethernet, mobile data and more.",
             "he": ""
           },
           "url": "https://github.com/anmolkapil/plexo",
@@ -890,7 +890,7 @@
             "he": ""
           },
           "text": {
-            "en": "Enlarge and sharpen images with AI, running locally on your computer.",
+            "en": "A free, open-source desktop app for Windows, macOS and Linux that enlarges and sharpens low-resolution images with AI. Runs locally on your own GPU.",
             "he": ""
           },
           "url": "https://github.com/upscayl/upscayl",
@@ -914,7 +914,7 @@
             "he": ""
           },
           "text": {
-            "en": "A task-manager view of what is using your GPU.",
+            "en": "gputaskman: an htop-style terminal app for what is inside your GPU. Shows per-process GPU memory and engine activity, loaded runtimes, model files and LLM buffers. Windows, Linux/WSL and Apple Silicon Macs.",
             "he": ""
           },
           "url": "https://github.com/shanselman/gputaskman",
@@ -934,11 +934,11 @@
           "id": "beamer-share-mouse-between-two-computers",
           "type": "tool",
           "title": {
-            "en": "Beamer — share mouse between two computers",
+            "en": "Beamer — share keyboard & mouse between computers",
             "he": ""
           },
           "text": {
-            "en": "Use one mouse (and keyboard) across two computers.",
+            "en": "One keyboard and mouse (or trackpad) across Macs, Windows PCs and Linux machines on the same network. Push the pointer off the screen edge and it carries on to the other computer; the clipboard and shortcuts come too, and nothing leaves your network.",
             "he": ""
           },
           "url": "https://github.com/kalkman-code/beamer",
@@ -986,7 +986,7 @@
             "he": ""
           },
           "text": {
-            "en": "How to build good-looking native desktop apps in C++.",
+            "en": "The Cherno shows how to build good-looking native desktop app interfaces in C++, using Dear ImGui with a custom title bar and styling.",
             "he": ""
           },
           "url": "https://youtu.be/-NJDxf4XwlQ",
@@ -1010,7 +1010,7 @@
             "he": ""
           },
           "text": {
-            "en": "An introduction to Brain.js, a library for neural networks in JavaScript.",
+            "en": "A beginner's introduction to Brain.js, a JavaScript library for building and training simple neural networks in the browser or Node.js.",
             "he": ""
           },
           "url": "https://dev.to/gfish94/brainjs-for-beginners-1g77",
@@ -1193,7 +1193,7 @@
             "he": ""
           },
           "text": {
-            "en": "Generate 3D city maps from real map data.",
+            "en": "A free web app that generates real-world 3D city maps from OpenStreetMap data and exports them as GLB. Built with React Three Fiber; a base for digital twins, drone surveys and GPS markers.",
             "he": ""
           },
           "url": "https://github.com/cartesiancs/map3d",
@@ -1208,13 +1208,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19GzcSXXHR/"
-            }
-          ]
+          }
         },
         {
           "id": "quarkdown-markdown-with-layouts-and-scripting",
@@ -1238,13 +1232,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1LTFwMDTYM/"
-            }
-          ]
+          }
         },
         {
           "id": "complete-shelf-open-source-swiftui-bookshelf-template",
@@ -1293,13 +1281,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1aY8Q7J2dj/"
-            }
-          ]
+          }
         },
         {
           "id": "asciline-video-as-packed-text-no-video-element",
@@ -1324,13 +1306,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/18ye6qCMZ9/"
-            }
-          ]
+          }
         },
         {
           "id": "quickliquid-real-refraction-glass-ui",
@@ -1340,7 +1316,7 @@
             "he": ""
           },
           "text": {
-            "en": "A web UI effect that imitates glass with real refraction.",
+            "en": "Fast refractive 'liquid glass' for React and plain JavaScript: real Snell's-law refraction, colour dispersion, 1–3× magnification, merging blobs and spring-animated UI pieces.",
             "he": ""
           },
           "url": "https://github.com/amarnath3003/quickLiquid",
@@ -1355,13 +1331,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1H1u7Y37Gw/"
-            }
-          ]
+          }
         },
         {
           "id": "byoc-store-files-in-users-own-cloud",
@@ -1395,7 +1365,7 @@
             "he": ""
           },
           "text": {
-            "en": "An open-source project that senses vital signs such as breathing from WiFi signals.",
+            "en": "Turns ordinary WiFi into a sensing system: detects people, measures breathing and heart rate, and tracks movement through walls, without cameras.",
             "he": ""
           },
           "url": "https://github.com/ruvnet/RuView",
@@ -1409,13 +1379,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19agR5jZD1/"
-            }
-          ]
+          }
         },
         {
           "id": "ln-vpype-3d-scenes-to-plotter-lines-index-opensource",
@@ -1472,7 +1436,7 @@
             "he": ""
           },
           "text": {
-            "en": "A React library of interactive robot-head avatars.",
+            "en": "Animated robot heads for React: glossy TV-headed bots with an LED face that shows what your AI agent is doing (thinking, searching, listening, speaking). Drawn on a 2D canvas, no WebGL, no dependencies.",
             "he": ""
           },
           "url": "https://github.com/fayazara/robot-heads",
@@ -1486,13 +1450,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1HmzK3sTYW/"
-            }
-          ]
+          }
         },
         {
           "id": "causticsengineering-compute-glass-that-projects-an-image-rep",
@@ -1527,7 +1485,7 @@
             "he": ""
           },
           "text": {
-            "en": "Blender's GPU-drawn interface, extracted as a library you can use in other apps.",
+            "en": "Blender's fast, efficient user interface as a library you can use from Python, Rust, JavaScript (React, Svelte, Vue), C, C++ and Dear ImGui.",
             "he": ""
           },
           "url": "https://github.com/ppmpreetham/BUI",
@@ -1541,13 +1499,7 @@
           "sub": {
             "en": "Dev tools & code",
             "he": "כלי פיתוח וקוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1J5Zg3MUEx/"
-            }
-          ]
+          }
         },
         {
           "id": "gpui-rust-desktop-ui-without-a-browser-better-stack",
@@ -1578,11 +1530,11 @@
           "id": "bambulabs-api-python-api-for-bambu-lab-printers",
           "type": "tool",
           "title": {
-            "en": "bambulabs_api — Python API for Bambu Lab printers",
+            "en": "bambulabs_api — Go library for Bambu Lab printers",
             "he": ""
           },
           "text": {
-            "en": "A Python library for controlling and monitoring Bambu Lab 3D printers from your own code.",
+            "en": "A Go library for talking to Bambu Lab 3D printers over the network: read status and control prints from your own programs. Still in development.",
             "he": ""
           },
           "url": "https://github.com/torbenconto/bambulabs_api",
@@ -1607,7 +1559,7 @@
             "he": ""
           },
           "text": {
-            "en": "A simple, practical way to name and organise your files and folders.",
+            "en": "Jeff Su's simple system for naming and organising files and folders so you can always find things, on any drive or cloud.",
             "he": ""
           },
           "url": "https://youtu.be/MM-MPS57qKA",
@@ -1630,7 +1582,7 @@
             "he": ""
           },
           "text": {
-            "en": "A lightweight project-management board you host yourself.",
+            "en": "Self-hosted project management that stays simple: board, list, calendar and Gantt views, backlog, subtasks, dependencies, comments, time tracking and shared team workspaces.",
             "he": ""
           },
           "url": "https://github.com/usekaneo/kaneo",
@@ -1643,13 +1595,7 @@
           "sub": {
             "en": "Productivity apps",
             "he": "אפליקציות פרודוקטיביות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/v/14s3ryLuVCG/"
-            }
-          ]
+          }
         },
         {
           "id": "midday-invoicing-time-tracking-files-for-freelancers",
@@ -1673,23 +1619,17 @@
           "sub": {
             "en": "Productivity apps",
             "he": "אפליקציות פרודוקטיביות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1D64ziYDx5/"
-            }
-          ]
+          }
         },
         {
           "id": "the-best-productivity-tool-i-own-open-source-xda",
           "type": "article",
           "title": {
-            "en": "\"The best productivity tool I own\" — open source (XDA)",
+            "en": "Zotero as a productivity tool — open source (XDA)",
             "he": ""
           },
           "text": {
-            "en": "XDA on an open-source tool the writer calls their best productivity tool.",
+            "en": "XDA on Zotero, the open-source reference manager: built for academic citations, but the writer uses it to save articles to read later, group research by subject and annotate PDFs.",
             "he": ""
           },
           "url": "https://www.xda-developers.com/this-open-source-tool-is-the-best-productivity-tool-i-own/",
@@ -1711,7 +1651,7 @@
             "he": ""
           },
           "text": {
-            "en": "Maybe: a personal-finance app that was released as open source.",
+            "en": "Maybe: a complete personal-finance app you can self-host with Docker. No longer maintained, but free to fork under the AGPLv3.",
             "he": ""
           },
           "url": "https://github.com/maybe-finance/maybe",
@@ -1724,13 +1664,7 @@
           "sub": {
             "en": "Productivity apps",
             "he": "אפליקציות פרודוקטיביות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1Cd9EdR3tf/"
-            }
-          ]
+          }
         },
         {
           "id": "free-crm-on-github",
@@ -1763,7 +1697,7 @@
             "he": ""
           },
           "text": {
-            "en": "Sign documents electronically with an open-source alternative to DocuSign.",
+            "en": "An e-signature app you deploy on your own free Vercel account: upload a PDF, place fields, send signing links, and keep the sealed copy with its audit certificate. No per-seat fees.",
             "he": ""
           },
           "url": "https://github.com/NYLLON-SOFTWARE/SignuDoc",
@@ -1777,13 +1711,7 @@
           "sub": {
             "en": "Productivity apps",
             "he": "אפליקציות פרודוקטיביות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1M1PLfhKig/"
-            }
-          ]
+          }
         },
         {
           "id": "cloudreve-self-hosted-cloud-storage-digital-escape-tools",
@@ -1822,7 +1750,7 @@
             "he": ""
           },
           "text": {
-            "en": "A self-hosted platform for storing, sharing and working on files together.",
+            "en": "A self-hosted platform for file storage, sync and team collaboration: your own workspace for files, documents and shares, fast and lightweight, with desktop and command-line clients.",
             "he": ""
           },
           "url": "https://github.com/Sync-in/server",
@@ -1836,13 +1764,7 @@
           "sub": {
             "en": "Home server & self-hosting",
             "he": "שרת ביתי ואירוח עצמי"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19MSnAd3u1/"
-            }
-          ]
+          }
         },
         {
           "id": "phreshos-web-based-self-hosted-os",
@@ -1852,7 +1774,7 @@
             "he": ""
           },
           "text": {
-            "en": "A desktop-like operating system that runs in the browser on your own server.",
+            "en": "An open-source, self-hosted system for web apps: it runs on your own machine and gives you a desktop in the browser, with one sign-in and shared services for every program.",
             "he": ""
           },
           "url": "https://github.com/PhreshOS/system",
@@ -1865,13 +1787,7 @@
           "sub": {
             "en": "Home server & self-hosting",
             "he": "שרת ביתי ואירוח עצמי"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19qJ97CeQf/"
-            }
-          ]
+          }
         },
         {
           "id": "awesome-selfhosted-hundreds-of-self-hostable-apps",
@@ -1881,7 +1797,7 @@
             "he": ""
           },
           "text": {
-            "en": "A big list of free software you can run on your own server, sorted by category.",
+            "en": "A big list of free software you can host on your own server instead of using cloud services, sorted by category, from file sync and media to wikis and home automation.",
             "he": ""
           },
           "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
@@ -1894,23 +1810,17 @@
           "sub": {
             "en": "Home server & self-hosting",
             "he": "שרת ביתי ואירוח עצמי"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/v/1ByvxSPFhS/"
-            }
-          ]
+          }
         },
         {
           "id": "phonebox-reuse-an-old-android-phone",
           "type": "tool",
           "title": {
-            "en": "phonebox — reuse an old Android phone",
+            "en": "phonebox — old Android phone as a desk panel for your PC",
             "he": ""
           },
           "text": {
-            "en": "Turns an old Android phone into a useful always-on device.",
+            "en": "Turns an old Android phone into a desk panel for your computer: PC stats, AI coding sessions, music and touch controls over USB or Wi-Fi. Works with Windows, Linux and macOS.",
             "he": ""
           },
           "url": "https://github.com/ersinkoc/phonebox",
@@ -1924,13 +1834,7 @@
           "sub": {
             "en": "Home server & self-hosting",
             "he": "שרת ביתי ואירוח עצמי"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1MTJxEhkEK/"
-            }
-          ]
+          }
         },
         {
           "id": "paperless-ngx-scan-index-and-archive-documents",
@@ -1955,13 +1859,7 @@
           "sub": {
             "en": "Home server & self-hosting",
             "he": "שרת ביתי ואירוח עצמי"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19suXKvQSZ/"
-            }
-          ]
+          }
         },
         {
           "id": "nextcloud-your-own-google-drive",
@@ -1985,13 +1883,7 @@
           "sub": {
             "en": "Home server & self-hosting",
             "he": "שרת ביתי ואירוח עצמי"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1cqBaHuHMN/"
-            }
-          ]
+          }
         },
         {
           "id": "docker-android-android-emulator-in-docker",
@@ -2015,13 +1907,7 @@
           "sub": {
             "en": "Home server & self-hosting",
             "he": "שרת ביתי ואירוח עצמי"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19xLWN67GT/"
-            }
-          ]
+          }
         }
       ]
     },
@@ -2044,7 +1930,7 @@
             "he": ""
           },
           "text": {
-            "en": "Wonder3D: open-source research code that turns a single image into a textured 3D model.",
+            "en": "Wonder3D (CVPR 2024): reconstructs a detailed, textured 3D mesh from a single image in about 2–3 minutes, using cross-domain diffusion.",
             "he": ""
           },
           "url": "https://github.com/xxlong0/Wonder3D",
@@ -2068,7 +1954,7 @@
             "he": ""
           },
           "text": {
-            "en": "Krea's AI tool for enlarging and adding detail to images.",
+            "en": "Krea's AI upscaler enhances and enlarges images up to 22K resolution. Krea also does AI image and video generation, real-time rendering, generative editing, LoRA training and text-to-3D.",
             "he": ""
           },
           "url": "https://www.krea.ai/",
@@ -2163,7 +2049,7 @@
             "he": ""
           },
           "text": {
-            "en": "Turns one photo into a 3D Gaussian-splat scene you can look around in.",
+            "en": "A web app that turns any photo into an interactive 3D scene using Apple's open SHARP model for Gaussian splatting. Apple's own model code is linked too.",
             "he": ""
           },
           "url": "https://github.com/Sharp-ML/SHARP-ML",
@@ -2217,7 +2103,7 @@
             "he": ""
           },
           "text": {
-            "en": "Describe a part in words and get a CAD model.",
+            "en": "Design physical products with AI: installs a CAD engine plus plugins for coding agents, so you can describe a part in words and get a real CAD model.",
             "he": ""
           },
           "url": "https://github.com/earthtojake/text-to-cad",
@@ -2241,7 +2127,7 @@
             "he": ""
           },
           "text": {
-            "en": "A free alternative to Higgsfield for AI videos with cinematic camera moves.",
+            "en": "OpenHiggsfield: generate images and video with 38 models from one prompt bar, as a free open-source alternative to Higgsfield. Use the hosted version in the browser or run it yourself.",
             "he": ""
           },
           "url": "https://github.com/wide-trace/open-higgsfield",
@@ -2254,13 +2140,7 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1CtMeqUs7c/"
-            }
-          ]
+          }
         },
         {
           "id": "ultrashape-1-0-low-res-to-detailed-watertight-3d",
@@ -2270,7 +2150,7 @@
             "he": ""
           },
           "text": {
-            "en": "Refines a rough, low-resolution 3D shape into a detailed, watertight model.",
+            "en": "A 3D diffusion framework (Peking University) that first generates a rough overall shape, then refines it into detailed, watertight, high-quality geometry.",
             "he": ""
           },
           "url": "https://github.com/PKU-YuanGroup/UltraShape-1.0",
@@ -2284,13 +2164,7 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1DfaU3G8yv/"
-            }
-          ]
+          }
         },
         {
           "id": "img2threejs-image-or-reference-photo-to-editable-animation-r",
@@ -2300,7 +2174,7 @@
             "he": ""
           },
           "text": {
-            "en": "Turns an image or reference photo into a Three.js model as code you can edit and animate.",
+            "en": "Rebuilds the object in a reference image as a procedural Three.js model written entirely in code, ready to animate. Reconstruction by code, not photogrammetry or downloaded assets.",
             "he": ""
           },
           "url": "https://github.com/img2threejs/img2threejs",
@@ -2315,13 +2189,7 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1C6b28WB66/"
-            }
-          ]
+          }
         },
         {
           "id": "jing-playable-ai-generated-first-person-worlds",
@@ -2331,7 +2199,7 @@
             "he": ""
           },
           "text": {
-            "en": "Generates worlds you can walk through in first person.",
+            "en": "XGEN-JING: a model that generates first-person video and audio from your actions, reference images and history. You can walk around, interact with objects and talk inside a generated world.",
             "he": ""
           },
           "url": "https://github.com/XGEN-Labs/XGEN-JING/",
@@ -2355,7 +2223,7 @@
             "he": ""
           },
           "text": {
-            "en": "Research code that renders a person from new camera angles using a single video.",
+            "en": "Turns a casual single-camera video of a person into consistent multi-view videos, for building 4D Gaussian-splat reconstructions. No camera parameters needed.",
             "he": ""
           },
           "url": "https://github.com/ant-research/4DAnyone",
@@ -2380,7 +2248,7 @@
             "he": ""
           },
           "text": {
-            "en": "Language models build 3D models ready for use in games.",
+            "en": "Build and revise 3D assets with your coding agent: it writes JavaScript with Kiln's geometry and material helpers, Kiln renders and checks it, and exports GLB. Runs locally via MCP, CLI or SDK; free, open source, no account.",
             "he": ""
           },
           "url": "https://github.com/instruktlabs/kiln",
@@ -2404,7 +2272,7 @@
             "he": ""
           },
           "text": {
-            "en": "Turns a video of a room into a 3D scene you can edit.",
+            "en": "Reconstructs indoor videos as editable Blender scenes, with room geometry, furniture, cameras and people. A coding agent builds the room and refines it; scenes can be rendered or exported.",
             "he": ""
           },
           "url": "https://github.com/KevinXu02/aha-3d",
@@ -2428,7 +2296,7 @@
             "he": ""
           },
           "text": {
-            "en": "An SDK that makes a 3D object from a single photo.",
+            "en": "Turns one picture of an object into a 3D Gaussian splat, including the sides the photo never showed. Removes the background automatically and runs on consumer GPUs (about 7 GB of VRAM) in under 2 seconds.",
             "he": ""
           },
           "url": "https://github.com/speridlabs/idol-sdk",
@@ -2451,7 +2319,7 @@
             "he": ""
           },
           "text": {
-            "en": "Higgsfield-style cinematic camera effects as ComfyUI workflows.",
+            "en": "Higgsfield-style image, video, VFX and audio apps built as ComfyUI workflows on open-weight models. Run them on Modal, on a rented GPU or on your own ComfyUI.",
             "he": ""
           },
           "url": "https://github.com/neuregex/freefield",
@@ -2465,13 +2333,7 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1C7CVZKbtG/"
-            }
-          ]
+          }
         },
         {
           "id": "google-pointdit-3d-geometry-estimation",
@@ -2481,7 +2343,7 @@
             "he": ""
           },
           "text": {
-            "en": "Google Research code that estimates 3D geometry with a diffusion transformer.",
+            "en": "PointDiT (Google, ETH Zurich and others): estimates 3D geometry from a single image using pixel-space diffusion.",
             "he": ""
           },
           "url": "https://github.com/google-research/pointdit",
@@ -2495,13 +2357,7 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1JwT2KLkNz/"
-            }
-          ]
+          }
         },
         {
           "id": "sand3d-3d-shapes-as-code-for-llms-glb-urdf-usd",
@@ -2511,7 +2367,7 @@
             "he": ""
           },
           "text": {
-            "en": "Lets language models describe 3D shapes as code and export them as GLB, URDF or USD.",
+            "en": "A Python library, built on Blender, for writing 3D objects as short programs (profiles, solids, joints, assemblies and natural forms like trees, moss and rock) so LLMs can model in 3D. Exports GLB, URDF and USD.",
             "he": ""
           },
           "url": "https://github.com/Sandflow-ai/sand3d",
@@ -2526,23 +2382,17 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1GyF1YhLQh/"
-            }
-          ]
+          }
         },
         {
           "id": "aleph-download-textured-3d-landmarks",
           "type": "tool",
           "title": {
-            "en": "Aleph — download textured 3D landmarks",
+            "en": "Aleph — download a piece of the world in 3D",
             "he": ""
           },
           "text": {
-            "en": "Download textured 3D models of real landmarks.",
+            "en": "Draw a rectangle or polygon on a map and download everything inside it: buildings, elevation, HD satellite imagery, Street View photos and textured 3D models. Also answers point queries from the command line, handy for LLMs.",
             "he": ""
           },
           "url": "https://github.com/belluxx/aleph",
@@ -2566,7 +2416,7 @@
             "he": ""
           },
           "text": {
-            "en": "A Windows tool that applies DLSS-style AI enhancement to photos and videos.",
+            "en": "Visual Enhancer: a Windows app for AI image and video enhancement. Pipelines combine AI denoising and deblurring, NVIDIA DLSS neural rendering and super resolution, RTX Video Super Resolution, upscaling, ReShade and colour tools.",
             "he": ""
           },
           "url": "https://github.com/Merserk/dlss5-visual-enhancer",
@@ -2590,7 +2440,7 @@
             "he": ""
           },
           "text": {
-            "en": "Turns a single drawing into an animated character for games.",
+            "en": "An isometric sprite generator for Claude Code: one illustration becomes a game character with 8-direction walks, actions and pixel art at your game's camera angle, plus matching props.",
             "he": ""
           },
           "url": "https://github.com/sunghwan0112/spritecast",
@@ -2614,7 +2464,7 @@
             "he": ""
           },
           "text": {
-            "en": "A 3D engine designed for AI agents to work in.",
+            "en": "A fast, lightweight real-time 3D engine for the web with an MCP server, so designers and AI agents can build and shape high-quality 3D scenes together.",
             "he": ""
           },
           "url": "https://github.com/codepawl/crucible",
@@ -2628,13 +2478,7 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1AQYiM6xHB/"
-            }
-          ]
+          }
         },
         {
           "id": "comfy-desktop-friendly-comfyui-front-end",
@@ -2658,23 +2502,17 @@
           "sub": {
             "en": "AI 3D & image generation",
             "he": "בינה מלאכותית לתלת־ממד ולתמונות"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19VEQXTxEp/"
-            }
-          ]
+          }
         },
         {
           "id": "youtube-video-title-to-add",
           "type": "video",
           "title": {
-            "en": "YouTube video (title to add)",
+            "en": "How to install DLSS 5 on any RTX GPU in one click — AI Master",
             "he": ""
           },
           "text": {
-            "en": "Shared without a title. Open the link and add a title and description.",
+            "en": "AI Master's tutorial on adding DLSS 5-style AI enhancement on any NVIDIA RTX graphics card in one click. Related to the DLSS 5 Visual Enhancer post.",
             "he": ""
           },
           "url": "https://www.youtube.com/watch?v=B_JmRIabBa4",
@@ -2696,7 +2534,7 @@
             "he": ""
           },
           "text": {
-            "en": "Building an immersive product landing page with the Manus AI agent.",
+            "en": "Building an immersive, animated product landing page with Manus, a general-purpose AI agent that plans and builds the site for you.",
             "he": ""
           },
           "url": "https://www.facebook.com/share/r/1GS1PzkUE5/",
@@ -2720,7 +2558,7 @@
             "he": ""
           },
           "text": {
-            "en": "Vectary's AI canvas for exploring product concepts in 3D.",
+            "en": "Vectary Canvas: Vectary's browser-based, AI-assisted workspace for generating and exploring 3D product concepts and visualisations.",
             "he": ""
           },
           "url": "https://www.instagram.com/reel/DXpDPIUCHhz/",
@@ -2745,7 +2583,7 @@
             "he": ""
           },
           "text": {
-            "en": "Turning a sketch into 3D product concepts with Vectary Canvas.",
+            "en": "Using Vectary Canvas to turn a rough sketch into 3D product concepts in the browser, with AI helping fill in form and materials.",
             "he": ""
           },
           "url": "https://www.instagram.com/reel/DZYb4delVrC/",
@@ -2769,7 +2607,7 @@
             "he": ""
           },
           "text": {
-            "en": "A collection of DESIGN.md files: one file that describes a design system so an AI coding agent follows it.",
+            "en": "A curated collection of DESIGN.md files analysing well-known developer websites. Copy one into your project and ask your AI agent to build a page that looks like it.",
             "he": ""
           },
           "url": "https://github.com/voltagent/awesome-design-md",
@@ -2793,7 +2631,7 @@
             "he": ""
           },
           "text": {
-            "en": "Design guidance that helps AI tools produce better-looking interfaces.",
+            "en": "A platform of design skills, UI prompts and resources that help AI tools generate better interfaces for websites and apps. Works with any AI that reads markdown files.",
             "he": ""
           },
           "url": "https://github.com/bergside/typeui",
@@ -2811,16 +2649,16 @@
         },
         {
           "id": "horizonx-design-context-for-ai",
-          "type": "video",
+          "type": "tool",
           "title": {
-            "en": "HorizonX — design context for AI",
+            "en": "HorizonX — UI & code library for AI coding",
             "he": ""
           },
           "text": {
-            "en": "A tool that gives AI the design context of your product.",
+            "en": "A premium UI and code library for 'vibecoding': editable Figma assets linked to React and Tailwind components, templates and motion references, so you and your AI coding tool start with design decisions already made.",
             "he": ""
           },
-          "url": "https://www.facebook.com/share/r/1Hb5kfxaLQ/",
+          "url": "https://horizonx.so/",
           "tags": [
             "design-context",
             "ai",
@@ -2864,7 +2702,7 @@
             "he": ""
           },
           "text": {
-            "en": "Google's NotebookLM can now turn your sources into slides.",
+            "en": "Google's NotebookLM can now turn your uploaded sources into a slide deck, along with its summaries, audio overviews and mind maps.",
             "he": ""
           },
           "url": "https://notebooklm.google.com",
@@ -2877,13 +2715,7 @@
           "sub": {
             "en": "AI tools & news",
             "he": "כלים וחדשות בבינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1b72XhiJuz/"
-            }
-          ]
+          }
         },
         {
           "id": "language-model-builder",
@@ -2893,7 +2725,7 @@
             "he": ""
           },
           "text": {
-            "en": "A site about building language models.",
+            "en": "A free Mac app and interactive guide that teaches how language models work: choose a tokenizer and training data, pre-train and fine-tune a small model on your Mac, then chat with it.",
             "he": ""
           },
           "url": "https://languagemodelbuilder.com/",
@@ -2929,13 +2761,7 @@
           "sub": {
             "en": "AI tools & news",
             "he": "כלים וחדשות בבינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19WPvCHJqR/"
-            }
-          ]
+          }
         },
         {
           "id": "openmontage-open-source-ai-video-editing-engine",
@@ -2945,7 +2771,7 @@
             "he": ""
           },
           "text": {
-            "en": "An open-source engine for editing video with AI.",
+            "en": "An open-source, agent-driven video production system: describe the video you want, and AI agents plan, edit and produce it through ready-made pipelines.",
             "he": ""
           },
           "url": "https://github.com/OpenMontageInc/OpenMontage",
@@ -2958,13 +2784,7 @@
           "sub": {
             "en": "AI tools & news",
             "he": "כלים וחדשות בבינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/p/19NQDWuXjh/"
-            }
-          ]
+          }
         },
         {
           "id": "voicestudio-open-source-elevenlabs-alternative-voice-cloning",
@@ -2988,13 +2808,7 @@
           "sub": {
             "en": "AI tools & news",
             "he": "כלים וחדשות בבינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/14vohBkq1BR/"
-            }
-          ]
+          }
         },
         {
           "id": "yogurt-open-source-granola-alternative-meeting-notes",
@@ -3004,7 +2818,7 @@
             "he": ""
           },
           "text": {
-            "en": "Takes notes of your meetings with AI; an open-source alternative to Granola.",
+            "en": "Private AI meeting notes with no bot in your call: records your mic and call audio, then transcribes and summarises on your own Mac, Windows or Linux computer. Names speakers from Zoom, Teams and Meet and answers questions across meetings.",
             "he": ""
           },
           "url": "https://github.com/FrigadeHQ/yogurt",
@@ -3017,13 +2831,7 @@
           "sub": {
             "en": "AI tools & news",
             "he": "כלים וחדשות בבינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19AHAFpgBe/"
-            }
-          ]
+          }
         },
         {
           "id": "openhuman",
@@ -3033,7 +2841,7 @@
             "he": ""
           },
           "text": {
-            "en": "An open-source AI agent project from Tiny Humans.",
+            "en": "A fast, low-cost open-source agent harness: run hundreds of AI agents on a small server. Comes as a desktop app for people and a Rust library for developers.",
             "he": ""
           },
           "url": "https://github.com/tinyhumansai/openhuman",
@@ -3045,13 +2853,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1b9cv7nAH7/"
-            }
-          ]
+          }
         },
         {
           "id": "odysseus-self-hosted-chatgpt-plus-alternative",
@@ -3061,7 +2863,7 @@
             "he": ""
           },
           "text": {
-            "en": "A ChatGPT Plus-style AI assistant you host yourself.",
+            "en": "A self-hosted AI workspace for chat, agents, research, documents, email, notes, calendar and local models. Runs with Docker on your own machine.",
             "he": ""
           },
           "url": "https://github.com/odysseus-dev/odysseus",
@@ -3074,13 +2876,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1JEXbu6kVx/"
-            }
-          ]
+          }
         },
         {
           "id": "cli-anything-make-any-software-agent-native",
@@ -3104,21 +2900,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post (1)",
-              "url": "https://www.facebook.com/share/r/1LSmwkVtVY/"
-            },
-            {
-              "label": "Original post (2)",
-              "url": "https://www.facebook.com/share/r/1Emq634N4W/"
-            },
-            {
-              "label": "Original post (3)",
-              "url": "https://www.facebook.com/share/r/193NN9izBn/"
-            }
-          ]
+          }
         },
         {
           "id": "cindy-free-open-source-claude-code-alternative",
@@ -3128,7 +2910,7 @@
             "he": ""
           },
           "text": {
-            "en": "A free, open-source coding agent in the style of Claude Code.",
+            "en": "An open-source AI agent you can shape: connect your computers and phone, bring the models and subscriptions you already use, and build an assistant that knows how you work.",
             "he": ""
           },
           "url": "https://github.com/makecindy/cindy",
@@ -3140,13 +2922,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1DnFNAqYWH/"
-            }
-          ]
+          }
         },
         {
           "id": "swarmchat-slack-for-ai-agents",
@@ -3156,7 +2932,7 @@
             "he": ""
           },
           "text": {
-            "en": "A chat space where several AI agents talk and work together.",
+            "en": "Open-source 'Slack' for a team of AI agents: channels, direct messages, threads, files and notifications through a command line built for agents, and you can watch every chat live in the browser. One dependency-free Python package.",
             "he": ""
           },
           "url": "https://github.com/Pranjal2041/swarmchat",
@@ -3169,13 +2945,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1cMdVMJR7S/"
-            }
-          ]
+          }
         },
         {
           "id": "freellmapi-free-providers-behind-one-key-for-claude-code",
@@ -3185,7 +2955,7 @@
             "he": ""
           },
           "text": {
-            "en": "Puts free AI model providers behind a single API key you can use with Claude Code.",
+            "en": "Combines the free tiers of 87 AI providers (over 1,300 model endpoints) behind one OpenAI-compatible endpoint, for chat, embeddings, images and audio. Usable from Claude Code and other tools.",
             "he": ""
           },
           "url": "https://github.com/tashfeenahmed/freellmapi",
@@ -3199,13 +2969,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1E5Fqbc2p4/"
-            }
-          ]
+          }
         },
         {
           "id": "worktrunk-parallel-ai-agents-with-git-worktrees",
@@ -3215,7 +2979,7 @@
             "he": ""
           },
           "text": {
-            "en": "Runs several AI coding agents in parallel, each in its own git worktree.",
+            "en": "A command-line tool for managing git worktrees, so several AI coding agents can work on the same project in parallel without stepping on each other.",
             "he": ""
           },
           "url": "https://github.com/max-sixty/worktrunk",
@@ -3229,13 +2993,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1MRCbxvgjt/"
-            }
-          ]
+          }
         },
         {
           "id": "metagpt-ai-software-company",
@@ -3258,13 +3016,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19w6WM9zXN/"
-            }
-          ]
+          }
         },
         {
           "id": "ruflo-60-cooperating-agents",
@@ -3274,7 +3026,7 @@
             "he": ""
           },
           "text": {
-            "en": "A framework for running more than 60 AI agents that work together.",
+            "en": "An agent 'meta-harness' for Claude Code and Codex: one command adds swarms of cooperating agents, hooks, memory and an MCP server to your project.",
             "he": ""
           },
           "url": "https://github.com/ruvnet/ruflo",
@@ -3287,13 +3039,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1A7zniZwqe/"
-            }
-          ]
+          }
         },
         {
           "id": "browsentic-your-ai-drives-your-browser",
@@ -3303,7 +3049,7 @@
             "he": ""
           },
           "text": {
-            "en": "Lets an AI agent operate your web browser for you.",
+            "en": "Drives your real, logged-in browser from an AI side panel using the agent command-line tool you already have. Local-first: no account, API key, cloud or telemetry. Also works as an MCP server.",
             "he": ""
           },
           "url": "https://github.com/imshaikot/browsentic",
@@ -3316,13 +3062,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1DMz73ce8v/"
-            }
-          ]
+          }
         },
         {
           "id": "api-anything-turn-any-website-into-an-api",
@@ -3332,7 +3072,7 @@
             "he": ""
           },
           "text": {
-            "en": "Turns websites into APIs you can call from code.",
+            "en": "Gives your AI agent an API for websites that don't have one: it learns each site's own data requests and returns JSON through MCP, the command line or code. Ships with 114 sites ready.",
             "he": ""
           },
           "url": "https://github.com/goodnight000/api-anything",
@@ -3346,13 +3086,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19qKyxPWwt/"
-            }
-          ]
+          }
         },
         {
           "id": "airllm-70b-models-on-small-hardware",
@@ -3362,7 +3096,7 @@
             "he": ""
           },
           "text": {
-            "en": "Runs very large language models (70B parameters) on modest hardware, such as a single small GPU.",
+            "en": "Cuts the memory needed to run language models so 70B-parameter models run on a single 4 GB GPU, without quantisation, distillation or pruning.",
             "he": ""
           },
           "url": "https://github.com/lyogavin/airllm",
@@ -3376,13 +3110,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1JQg8u5gDt/"
-            }
-          ]
+          }
         },
         {
           "id": "open-webui-offline-chatgpt-style-app",
@@ -3406,13 +3134,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1HXRVgAebS/"
-            }
-          ]
+          }
         },
         {
           "id": "omniroute-ai-model-router",
@@ -3422,7 +3144,7 @@
             "he": ""
           },
           "text": {
-            "en": "Routes each request to a suitable AI model.",
+            "en": "A free AI gateway that combines the free tiers of many AI providers behind one endpoint and routes each request to an available model. You connect your own provider accounts.",
             "he": ""
           },
           "url": "https://github.com/cheaper-inference/OmniRoute",
@@ -3435,13 +3157,7 @@
           "sub": {
             "en": "AI coding & agents",
             "he": "קוד וסוכני בינה מלאכותית"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1HjpHX5isU/"
-            }
-          ]
+          }
         }
       ]
     },
@@ -3517,7 +3233,7 @@
             "he": ""
           },
           "text": {
-            "en": "Online tools for converting and working with 3D files.",
+            "en": "About 47 free 3D tools in the browser: view and convert 3D files, repair meshes, and create things like AI models, lithophanes, 3D text, QR codes, gears and lamps.",
             "he": ""
           },
           "url": "https://ilove3d.app/en",
@@ -3586,7 +3302,7 @@
             "he": ""
           },
           "text": {
-            "en": "Free online tools to merge, split, compress, convert and edit PDFs.",
+            "en": "Free online tools to merge, split, compress, convert, sign, edit and OCR PDF files, in the browser or as desktop and mobile apps.",
             "he": ""
           },
           "url": "https://www.ilovepdf.com/",
@@ -3609,7 +3325,7 @@
             "he": ""
           },
           "text": {
-            "en": "Free online tools to resize, compress, crop and convert images.",
+            "en": "Free online image tools: resize, compress, crop, convert, upscale, remove backgrounds and add watermarks.",
             "he": ""
           },
           "url": "https://www.iloveimg.com/",
@@ -3632,7 +3348,7 @@
             "he": ""
           },
           "text": {
-            "en": "A WebGL particle demo driven by curl noise.",
+            "en": "A WebGL experiment: thousands of particles flowing through a curl-noise field. Open it and move around.",
             "he": ""
           },
           "url": "https://curl-noise-particels.vercel.app/",
@@ -3656,7 +3372,7 @@
             "he": ""
           },
           "text": {
-            "en": "A WebGL demo of an icosahedron.",
+            "en": "A WebGL experiment: an 'ancient' icosahedron rendered live in the browser.",
             "he": ""
           },
           "url": "https://ancient-icosahedron.vercel.app/",
@@ -3680,7 +3396,7 @@
             "he": ""
           },
           "text": {
-            "en": "A dev.to list of websites that help developers.",
+            "en": "A dev.to list of handy sites for developers: Documatic, Transform.tools, Convertio, remove.bg, Imgur, Imglarger, Code Beautify, Vercel, Zapier and ray.so.",
             "he": ""
           },
           "url": "https://dev.to/j471n/top-10-websites-every-developer-needs-to-know-about-f5j",
@@ -3702,7 +3418,7 @@
             "he": ""
           },
           "text": {
-            "en": "Mozilla's reference for JavaScript arrays and all their methods.",
+            "en": "Mozilla's complete reference for JavaScript arrays: every method (map, filter, reduce, sort…) with explanations and examples.",
             "he": ""
           },
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
@@ -3725,7 +3441,7 @@
             "he": ""
           },
           "text": {
-            "en": "Write and run JavaScript in the browser and see the result live.",
+            "en": "An online JavaScript playground: write code and see the result instantly, with npm packages, no setup needed.",
             "he": ""
           },
           "url": "https://playcode.io/javascript",
@@ -3748,7 +3464,7 @@
             "he": ""
           },
           "text": {
-            "en": "A library of animated React components you copy into your project.",
+            "en": "A large open-source library of animated React components (text effects, backgrounds, interactive elements) that you copy straight into your project.",
             "he": ""
           },
           "url": "https://reactbits.dev",
@@ -3761,13 +3477,7 @@
           "sub": {
             "en": "Web dev & code resources",
             "he": "פיתוח ווב ומשאבי קוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1DjPLEFsTk/"
-            }
-          ]
+          }
         },
         {
           "id": "free-public-data-sources-categorized-github-list",
@@ -3777,7 +3487,7 @@
             "he": ""
           },
           "text": {
-            "en": "Awesome Public Datasets: a list of free public datasets sorted by topic.",
+            "en": "Awesome Public Datasets: a large community list of free, high-quality public datasets sorted by topic, from climate and biology to transport and economics.",
             "he": ""
           },
           "url": "https://github.com/awesomedata/awesome-public-datasets",
@@ -3790,13 +3500,7 @@
           "sub": {
             "en": "Web dev & code resources",
             "he": "פיתוח ווב ומשאבי קוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1CjhPXtqaw/"
-            }
-          ]
+          }
         },
         {
           "id": "public-apis-thousands-of-free-apis-in-one-list",
@@ -3806,7 +3510,7 @@
             "he": ""
           },
           "text": {
-            "en": "A big community list of free APIs, sorted by category.",
+            "en": "A large community list of free APIs sorted by category, from weather and maps to finance and games. Handy when you need data for a project.",
             "he": ""
           },
           "url": "https://github.com/public-apis/public-apis",
@@ -3819,17 +3523,7 @@
           "sub": {
             "en": "Web dev & code resources",
             "he": "פיתוח ווב ומשאבי קוד"
-          },
-          "links": [
-            {
-              "label": "Original post (Aug 2026)",
-              "url": "https://www.facebook.com/share/r/1D5HHSqtEN/"
-            },
-            {
-              "label": "Original post (Oct 2026)",
-              "url": "https://www.facebook.com/share/r/19mdqQkmq2/"
-            }
-          ]
+          }
         },
         {
           "id": "kexsio-live-preview-components-templates-to-remix-with-ai-ni",
@@ -3839,7 +3533,7 @@
             "he": ""
           },
           "text": {
-            "en": "UI components and templates with live previews, ready to remix with AI.",
+            "en": "A gallery of UI components you preview live, then copy the code or recreate them with the original AI prompt. Also has sections for websites, mobile, software and prompts.",
             "he": ""
           },
           "url": "https://kexsio.com/animations",
@@ -3859,11 +3553,11 @@
           "id": "plasma-ui-stunning-ui-components",
           "type": "tool",
           "title": {
-            "en": "Plasma UI — stunning UI components",
+            "en": "Plasma UI — liquid-glass components for React",
             "he": ""
           },
           "text": {
-            "en": "A UI component library.",
+            "en": "Liquid components for React rendered in WebGL, inspired by Apple's Liquid Glass: panels behave like liquid, merge on contact, refract what's behind them and snap to a grid.",
             "he": ""
           },
           "url": "https://github.com/CruxGarden/plasma-ui",
@@ -3886,7 +3580,7 @@
             "he": ""
           },
           "text": {
-            "en": "shadcn-style components for healthcare and biology interfaces.",
+            "en": "Open-source React components for healthcare and life-science interfaces (anatomy, charts, clinical blocks), installed as source with the shadcn command line.",
             "he": ""
           },
           "url": "https://github.com/organui/organui",
@@ -3911,7 +3605,7 @@
             "he": ""
           },
           "text": {
-            "en": "More than 160 free 3D hero sections for websites, built with Three.js.",
+            "en": "The free, login-free community edition of ThreeUI: a browsable catalogue of more than 160 Three.js 3D hero sections with live previews, controls and source code.",
             "he": ""
           },
           "url": "https://github.com/MengTo/threeui",
@@ -3926,23 +3620,17 @@
           "sub": {
             "en": "Web dev & code resources",
             "he": "פיתוח ווב ומשאבי קוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/16YgGxWQPGg/"
-            }
-          ]
+          }
         },
         {
           "id": "meta-open-sources-its-design-system",
           "type": "tool",
           "title": {
-            "en": "Meta open-sources its design system",
+            "en": "Astryx — Meta's open-source design system",
             "he": ""
           },
           "text": {
-            "en": "Meta's design system, released as open source.",
+            "en": "Astryx: the design system that grew inside Meta over eight years, now open source and fully customisable. Built on React and StyleX, made to be used by people and AI agents.",
             "he": ""
           },
           "url": "https://github.com/meta/astryx",
@@ -4004,13 +3692,7 @@
           "sub": {
             "en": "Web dev & code resources",
             "he": "פיתוח ווב ומשאבי קוד"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1RMvrVRHWN/"
-            }
-          ]
+          }
         },
         {
           "id": "codevember-one-word-one-3d-world-a-day",
@@ -4020,7 +3702,7 @@
             "he": ""
           },
           "text": {
-            "en": "A Codevember project: every day of November, one word becomes a small 3D world.",
+            "en": "A different interactive Three.js scene every day of November 2026, one word each (Fold, Shatter, Melt, Moss…), running in the browser on WebGPU. Source and live demos for every day.",
             "he": ""
           },
           "url": "https://github.com/acher249/codevember-2026",
@@ -4044,7 +3726,7 @@
             "he": ""
           },
           "text": {
-            "en": "A dashboard UI template for team project management.",
+            "en": "Pane: a paid seven-page project-management app template with a glass look, aimed at small teams such as design studios and agencies.",
             "he": ""
           },
           "url": "https://codeandchill.store/templates/pane",
@@ -4116,7 +3798,7 @@
             "he": ""
           },
           "text": {
-            "en": "A community library of React and Tailwind UI components.",
+            "en": "A community marketplace of React and Tailwind UI components: browse, preview and copy them, or install with the shadcn command line.",
             "he": ""
           },
           "url": "https://21st.dev/",
@@ -4139,7 +3821,7 @@
             "he": ""
           },
           "text": {
-            "en": "Ready-made component classes and themes for Tailwind CSS.",
+            "en": "The most popular free component library for Tailwind CSS: ready-made classes for buttons, cards, forms and more, with built-in themes.",
             "he": ""
           },
           "url": "https://github.com/saadeghi/daisyui",
@@ -4163,7 +3845,7 @@
             "he": ""
           },
           "text": {
-            "en": "Animated React components built with Tailwind CSS and Framer Motion.",
+            "en": "Free animated React components and templates built with Tailwind CSS and Framer Motion: hero sections, cards, backgrounds and effects to copy into your site.",
             "he": ""
           },
           "url": "https://ui.aceternity.com/",
@@ -4229,11 +3911,11 @@
           "id": "addictive-2d-web-simulation-80-lv",
           "type": "article",
           "title": {
-            "en": "Addictive 2D web simulation (80.lv)",
+            "en": "Tearable 2D cloth simulation (80.lv)",
             "he": ""
           },
           "text": {
-            "en": "80.lv on a 2D simulation you can play in the browser.",
+            "en": "80.lv on a tearable 2D cloth simulation by developer Claudio Z: drag the cloth with the mouse or your finger until it rips, and change its structure to change how it tears.",
             "he": ""
           },
           "url": "https://80.lv/articles/play-with-this-addictive-2d-web-simulation-in-your-browser/",
@@ -4256,7 +3938,7 @@
             "he": ""
           },
           "text": {
-            "en": "Drive through real cities in the browser using Google Maps.",
+            "en": "A browser game, 'Play the World!', set on real terrain built from elevation and LIDAR data.",
             "he": ""
           },
           "url": "https://hop.earth",
@@ -4270,13 +3952,7 @@
           "sub": {
             "en": "Fun sites",
             "he": "אתרים מהנים"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1TRqYMZsWb/"
-            }
-          ]
+          }
         },
         {
           "id": "tooooools-lo-fi-effects-for-images-video",
@@ -4335,7 +4011,7 @@
             "he": ""
           },
           "text": {
-            "en": "A huge archive of free fonts sorted by style.",
+            "en": "A huge archive of free and freeware fonts, browsable by style (script, display, pixel and more) with live previews of your own text. Check each font's licence.",
             "he": ""
           },
           "url": "https://www.dafont.com/",
@@ -4380,7 +4056,7 @@
             "he": ""
           },
           "text": {
-            "en": "A hand-picked gallery of good free typefaces.",
+            "en": "A hand-picked gallery of good free typefaces, with previews and links to each font's source and licence.",
             "he": ""
           },
           "url": "https://www.freefaces.gallery/",
@@ -4449,7 +4125,7 @@
             "he": ""
           },
           "text": {
-            "en": "Free, open-source fonts for web and print, including many Hebrew families.",
+            "en": "Google's library of free, open-source fonts for web and print, including many Hebrew families such as Heebo, Assistant and Rubik. Easy to use on websites.",
             "he": ""
           },
           "url": "https://fonts.google.com/",
@@ -4518,7 +4194,7 @@
             "he": ""
           },
           "text": {
-            "en": "A free typeface designed to be easier to read for people with low vision.",
+            "en": "A free typeface from the Braille Institute, designed so letters are easier to tell apart for people with low vision. Free for personal and commercial use.",
             "he": ""
           },
           "url": "https://www.brailleinstitute.org/freefont/",
@@ -4565,7 +4241,7 @@
             "he": ""
           },
           "text": {
-            "en": "Practical advice for moving from beginner to intermediate coding.",
+            "en": "Advice for the step from beginner to intermediate: understand why code works, check copied code, read documentation, solve problems without built-in shortcuts first, read error messages, review fundamentals, and make it work before making it clean.",
             "he": ""
           },
           "url": "https://medium.com/code-chrysalis/9-tips-to-help-you-advance-from-beginner-to-intermediate-coding-db98f9ba01b0",
@@ -4624,13 +4300,7 @@
           "sub": {
             "en": "Learning",
             "he": "למידה"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1BaMDzbr7F/"
-            }
-          ]
+          }
         },
         {
           "id": "ai-engineering-from-scratch-open-curriculum-the-ai-empire",
@@ -4654,21 +4324,7 @@
           "sub": {
             "en": "Learning",
             "he": "למידה"
-          },
-          "links": [
-            {
-              "label": "Original post (Jul 2026)",
-              "url": "https://www.facebook.com/share/1M3rrHDuFJ/"
-            },
-            {
-              "label": "Original post (Aug 2026)",
-              "url": "https://www.facebook.com/share/r/1EkQUY6PJF/"
-            },
-            {
-              "label": "Original post (Sep 2026)",
-              "url": "https://www.facebook.com/share/r/19dfcVAn4j/"
-            }
-          ]
+          }
         },
         {
           "id": "build-your-own-x-project-guides",
@@ -4692,13 +4348,7 @@
           "sub": {
             "en": "Learning",
             "he": "למידה"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19E3osv84Y/"
-            }
-          ]
+          }
         },
         {
           "id": "llms-from-scratch-how-language-models-work-inside-arabic-pos",
@@ -4722,13 +4372,7 @@
           "sub": {
             "en": "Learning",
             "he": "למידה"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/1Q5KvERkc2/"
-            }
-          ]
+          }
         },
         {
           "id": "what-should-i-build-next-project-ideas-list",
@@ -4738,7 +4382,7 @@
             "he": ""
           },
           "text": {
-            "en": "App Ideas: project ideas sorted by difficulty, for practising programming.",
+            "en": "App Ideas: a list of app ideas in three difficulty tiers, each with user stories and bonus features, for practising coding or trying a new technology.",
             "he": ""
           },
           "url": "https://github.com/florinpop17/app-ideas",
@@ -4752,13 +4396,7 @@
           "sub": {
             "en": "Learning",
             "he": "למידה"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1PwmPqioT8/"
-            }
-          ]
+          }
         },
         {
           "id": "the-book-of-secret-knowledge",
@@ -4782,13 +4420,7 @@
           "sub": {
             "en": "Learning",
             "he": "למידה"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1HXxppyM6d/"
-            }
-          ]
+          }
         },
         {
           "id": "nokia-design-archive-aalto-university",
@@ -4845,7 +4477,7 @@
             "he": ""
           },
           "text": {
-            "en": "Stills' report on visual trends in photography and imagery.",
+            "en": "Stills' 2025 trend report on photography in design: how creative brands can make relevant, impactful work with authentic imagery.",
             "he": ""
           },
           "url": "https://campaigns.stills.com/trend-report",
@@ -4890,7 +4522,7 @@
             "he": ""
           },
           "text": {
-            "en": "A gallery of website and app interface examples.",
+            "en": "A gallery of real website and app interfaces to browse for layout and UI inspiration.",
             "he": ""
           },
           "url": "https://viewportui.com/",
@@ -4913,7 +4545,7 @@
             "he": ""
           },
           "text": {
-            "en": "A collection of small, delightful design details from websites and apps.",
+            "en": "A collection of small, delightful design details from websites and apps: micro-interactions and easter eggs that make products feel special.",
             "he": ""
           },
           "url": "https://designspells.com/",
@@ -4936,7 +4568,7 @@
             "he": ""
           },
           "text": {
-            "en": "A collection of designers' portfolio websites.",
+            "en": "A collection of product designers' portfolio websites, useful when building your own portfolio.",
             "he": ""
           },
           "url": "https://www.cofolios.com/",
@@ -4958,7 +4590,7 @@
             "he": ""
           },
           "text": {
-            "en": "Daily industrial and product design concepts and news.",
+            "en": "An online magazine of modern industrial design: daily product concepts, gadgets, furniture and student projects from around the world.",
             "he": ""
           },
           "url": "https://www.yankodesign.com/",
@@ -4981,7 +4613,7 @@
             "he": ""
           },
           "text": {
-            "en": "The product design studio Speck Design's journal.",
+            "en": "The journal of Speck Design, a Silicon Valley product design and engineering studio: articles on their process, projects and thinking.",
             "he": ""
           },
           "url": "https://www.speckdesign.com/the-journal",
@@ -5004,7 +4636,7 @@
             "he": ""
           },
           "text": {
-            "en": "Graphic design, illustration, art and creative culture.",
+            "en": "A London-based platform championing creativity: graphic design, illustration, photography, art and creative-industry news and interviews.",
             "he": ""
           },
           "url": "https://www.itsnicethat.com/",
@@ -5027,7 +4659,7 @@
             "he": ""
           },
           "text": {
-            "en": "Fast Company's design section: products, UX, architecture and business.",
+            "en": "Fast Company's design section: news and analysis on product design, UX, branding, architecture and the business of design.",
             "he": ""
           },
           "url": "https://www.fastcompany.com/co-design",
@@ -5051,7 +4683,7 @@
             "he": ""
           },
           "text": {
-            "en": "Industrial design news, articles and community.",
+            "en": "One of the longest-running industrial design sites: news, articles, the Core77 Design Awards, a discussion community and design jobs.",
             "he": ""
           },
           "url": "https://www.core77.com/",
@@ -5074,7 +4706,7 @@
             "he": ""
           },
           "text": {
-            "en": "Architecture, interiors and design news.",
+            "en": "An influential architecture, interiors and design magazine with daily news, projects, interviews, competitions and a jobs board.",
             "he": ""
           },
           "url": "https://www.dezeen.com/",
@@ -5097,7 +4729,7 @@
             "he": ""
           },
           "text": {
-            "en": "Design industry news from the UK.",
+            "en": "UK design-industry news and opinion, covering branding, graphics, product, interiors and digital design.",
             "he": ""
           },
           "url": "https://www.designweek.co.uk/",
@@ -5120,7 +4752,7 @@
             "he": ""
           },
           "text": {
-            "en": "Modern design, furniture, interiors and art.",
+            "en": "An online magazine for modern design: furniture, interiors, architecture, art, technology and style, with an eye for well-made objects.",
             "he": ""
           },
           "url": "https://design-milk.com/",
@@ -5143,7 +4775,7 @@
             "he": ""
           },
           "text": {
-            "en": "Architecture and design magazine.",
+            "en": "One of the first and largest online architecture and design magazines: daily projects, product design, art and readers' submissions.",
             "he": ""
           },
           "url": "https://www.designboom.com/",
@@ -5166,7 +4798,7 @@
             "he": ""
           },
           "text": {
-            "en": "The Industrial Designers Society of America's magazine.",
+            "en": "INNOVATION, the quarterly magazine of the Industrial Designers Society of America (IDSA): essays and case studies on industrial design practice and education.",
             "he": ""
           },
           "url": "https://www.idsa.org/news-publications/innovation-magazine/",
@@ -5189,7 +4821,7 @@
             "he": ""
           },
           "text": {
-            "en": "An international award for product design, with a gallery of winners.",
+            "en": "The European Product Design Award (ePDA): an international competition for product design, with a browsable gallery of winners by category.",
             "he": ""
           },
           "url": "https://www.productdesignaward.eu/",
@@ -5233,7 +4865,7 @@
             "he": ""
           },
           "text": {
-            "en": "A curated feed of industrial and product design work, with design jobs.",
+            "en": "A curated feed of industrial and product design work, with design jobs and studio listings.",
             "he": ""
           },
           "url": "https://lemanoosh.com/",
@@ -5256,7 +4888,7 @@
             "he": ""
           },
           "text": {
-            "en": "Make moving, animated type in the browser and export it.",
+            "en": "Space Type Generator by Kiel Mutschelknaus: kinetic typography tools in the browser, with modes such as Cylinder, Field, Stripes and Coil.",
             "he": ""
           },
           "url": "https://spacetypegenerator.com/",
@@ -5274,7 +4906,7 @@
         },
         {
           "id": "design-tools-tooooools-app-typedither-vercel-app-fontbrief-c",
-          "type": "video",
+          "type": "tool",
           "title": {
             "en": "Design tools: tooooools.app, typedither.vercel.app, fontbrief.com (@kellybadakdesign)",
             "he": ""
@@ -5283,7 +4915,7 @@
             "en": "A reel on three browser design tools: lo-fi image effects, dithered type, and font briefs.",
             "he": ""
           },
-          "url": "https://www.instagram.com/reel/DHJr1ohPO7g/",
+          "url": "https://tooooools.app",
           "tags": [
             "design-tools",
             "typography",
@@ -5296,10 +4928,6 @@
             "he": "כלי עיצוב"
           },
           "links": [
-            {
-              "label": "tooooools.app",
-              "url": "https://tooooools.app"
-            },
             {
               "label": "typedither",
               "url": "https://typedither.vercel.app"
@@ -5331,7 +4959,7 @@
             "he": ""
           },
           "text": {
-            "en": "A skill pack for reverse-engineering apps with AI coding agents. Shared in a Hebrew TechNews post and again later.",
+            "en": "A skills 'router' for cybersecurity and reverse engineering: it guides AI coding agents (Claude Code, Codex, Cursor) through analysing apps and binaries step by step.",
             "he": ""
           },
           "url": "https://github.com/zhaoxuya520/reverse-skill",
@@ -5345,17 +4973,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post (1)",
-              "url": "https://www.facebook.com/share/18yi3XsASt/"
-            },
-            {
-              "label": "Original post (2)",
-              "url": "https://www.facebook.com/share/r/1S896JEWRq/"
-            }
-          ]
+          }
         },
         {
           "id": "prompt-master-claude-skill-that-writes-precise-prompts",
@@ -5365,7 +4983,7 @@
             "he": ""
           },
           "text": {
-            "en": "A skill that turns a rough request into a precise, well-structured prompt.",
+            "en": "A Claude skill that writes accurate prompts for any AI tool (ChatGPT, Gemini, Cursor, Midjourney, Sora and more), so you get the right result on the first try.",
             "he": ""
           },
           "url": "https://github.com/nidhinjs/prompt-master",
@@ -5378,13 +4996,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/14gz3EkE4C9/"
-            }
-          ]
+          }
         },
         {
           "id": "agent-reach-skill-giving-agents-internet-access",
@@ -5394,7 +5006,7 @@
             "he": ""
           },
           "text": {
-            "en": "Lets AI agents search and read content from around the internet.",
+            "en": "Lets AI agents search and read platforms they normally can't reach, such as X, Reddit, YouTube and Xiaohongshu.",
             "he": ""
           },
           "url": "https://github.com/Panniantong/Agent-Reach",
@@ -5407,13 +5019,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1CdvFX9erx/"
-            }
-          ]
+          }
         },
         {
           "id": "book-to-skill-turn-any-book-into-an-agent-skill",
@@ -5423,7 +5029,7 @@
             "he": ""
           },
           "text": {
-            "en": "Converts a book into a skill an AI agent can use as working knowledge.",
+            "en": "Turns a technical book, a document folder or a set of sources into one agent skill your coding agent can study and reference while it works (Claude Code, Codex, Copilot CLI and others).",
             "he": ""
           },
           "url": "https://github.com/virgiliojr94/book-to-skill",
@@ -5436,13 +5042,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1PDbn9EHG2/"
-            }
-          ]
+          }
         },
         {
           "id": "council-of-high-intelligence-18-member-decision-council",
@@ -5465,13 +5065,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1a6WR9dLkE/"
-            }
-          ]
+          }
         },
         {
           "id": "scroll-craft-skill-for-cinematic-scrolling-websites",
@@ -5481,7 +5075,7 @@
             "he": ""
           },
           "text": {
-            "en": "Helps an AI agent build websites with cinematic scroll animations.",
+            "en": "An agent skill for building premium scroll-driven websites to a real design standard, with a design workflow, references, an animation engine and checks in the browser. Also a Claude Code plugin.",
             "he": ""
           },
           "url": "https://github.com/nateherkai/scroll-craft",
@@ -5494,13 +5088,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1CixN3PnPa/"
-            }
-          ]
+          }
         },
         {
           "id": "skills-for-real-engineers-matt-pocock",
@@ -5510,7 +5098,7 @@
             "he": ""
           },
           "text": {
-            "en": "Matt Pocock's collection of agent skills for software engineering work.",
+            "en": "Matt Pocock's everyday agent skills for real engineering, not vibe coding: small, composable and easy to adapt, and they work with any model.",
             "he": ""
           },
           "url": "https://github.com/mattpocock/skills",
@@ -5523,13 +5111,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19Lohkn7nf/"
-            }
-          ]
+          }
         },
         {
           "id": "logo-design-skill-for-claude-cursor-copilot",
@@ -5539,7 +5121,7 @@
             "he": ""
           },
           "text": {
-            "en": "A skill that guides AI tools through designing logos.",
+            "en": "Turns Claude or another agent into a disciplined identity designer: from discovery and brief through concepts to production-ready SVG logos and brand guidelines.",
             "he": ""
           },
           "url": "https://github.com/kaankiziltug/logo-design-skill",
@@ -5552,13 +5134,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1JzizCv13f/"
-            }
-          ]
+          }
         },
         {
           "id": "claude-video-lets-claude-actually-watch-video",
@@ -5568,7 +5144,7 @@
             "he": ""
           },
           "text": {
-            "en": "A tool that gives Claude the ability to watch and understand video.",
+            "en": "/watch: gives an agent video evidence. A link or file becomes timestamped frames plus a transcript, using captions or local transcription. For Claude Code, Codex and other skill hosts.",
             "he": ""
           },
           "url": "https://github.com/bradautomates/claude-video",
@@ -5581,13 +5157,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1JyqTBCqvT/"
-            }
-          ]
+          }
         },
         {
           "id": "google-s-official-agent-skills-for-claude-code-firebase-clou",
@@ -5597,7 +5167,7 @@
             "he": ""
           },
           "text": {
-            "en": "Google's own skills for working with its developer products from Claude Code.",
+            "en": "Google's official agent skills for its products, including Google Cloud, Firebase, Cloud Run and Gemini. Install them with one command for Claude Code and other agents.",
             "he": ""
           },
           "url": "https://github.com/google/skills",
@@ -5612,13 +5182,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1HnN22dTc8/"
-            }
-          ]
+          }
         },
         {
           "id": "anatomy-skill-that-draws-interactive-isometric-machines",
@@ -5643,21 +5207,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post (1)",
-              "url": "https://www.facebook.com/share/r/1Ba7m9eudJ/"
-            },
-            {
-              "label": "Original post (2)",
-              "url": "https://www.facebook.com/share/r/1HE43tm7sH/"
-            },
-            {
-              "label": "Original post (3)",
-              "url": "https://www.facebook.com/share/r/19qj3xU2vJ/"
-            }
-          ]
+          }
         },
         {
           "id": "claude-pxl-pixel-art-with-code",
@@ -5667,7 +5217,7 @@
             "he": ""
           },
           "text": {
-            "en": "Claude draws pixel art by writing code.",
+            "en": "pxl: pixel art as code. Write a short .px.js file and get PNGs, sprite sheets, animated GIFs and a live viewer that replays the painting. Built for AI agents, with a ready skill.",
             "he": ""
           },
           "url": "https://github.com/crsolver/claude-pxl",
@@ -5680,13 +5230,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/18ZasBZtAm/"
-            }
-          ]
+          }
         },
         {
           "id": "ai-design-skills-github",
@@ -5696,7 +5240,7 @@
             "he": ""
           },
           "text": {
-            "en": "A collection of design-focused skills for AI agents.",
+            "en": "A growing collection of design skills for AI coding tools such as Claude Code, Cursor, Codex and Windsurf. Each skill is a self-contained folder you install as needed.",
             "he": ""
           },
           "url": "https://github.com/elayadesign/ai-design-skills",
@@ -5718,7 +5262,7 @@
             "he": ""
           },
           "text": {
-            "en": "A skill for making Apple-style dimensioned drawings of UI specs.",
+            "en": "Give it a UI component and get back a one-page technical drawing of it: paddings, gaps, corner radii, layers and placement, measured and labelled like Apple's dimensional drawings.",
             "he": ""
           },
           "url": "https://github.com/enesozturk/dimensional-drawing",
@@ -5731,13 +5275,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1EFEDU1BcT/"
-            }
-          ]
+          }
         },
         {
           "id": "teardown-simulator-machines-you-can-take-apart",
@@ -5747,7 +5285,7 @@
             "he": ""
           },
           "text": {
-            "en": "A skill that builds interactive 3D machines you can take apart in the browser.",
+            "en": "A Claude Code skill that turns any machine into a 3D simulator you can take apart, as one offline HTML page: the machine runs, panels show the real numbers, and parts open to show how they work.",
             "he": ""
           },
           "url": "https://github.com/elvarofficial/teardown",
@@ -5761,13 +5299,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1CFdxxEKgy/"
-            }
-          ]
+          }
         },
         {
           "id": "3dviz-pro-max-sentence-to-interactive-3d-scene",
@@ -5777,7 +5309,7 @@
             "he": ""
           },
           "text": {
-            "en": "Describe a world in a sentence and the AI builds it as an interactive 3D scene.",
+            "en": "A standalone agent skill that turns an idea or sentence into an interactive 3D scene worth exploring.",
             "he": ""
           },
           "url": "https://github.com/viettranx/3dviz-pro-max",
@@ -5791,13 +5323,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1Zc69xjykA/"
-            }
-          ]
+          }
         },
         {
           "id": "antialgorithm-anti-average-creative-skill",
@@ -5807,7 +5333,7 @@
             "he": ""
           },
           "text": {
-            "en": "A creative skill that pushes AI away from average, predictable results.",
+            "en": "An agent skill for creative work (names, stories, game ideas, posters, UI): it makes the model name its first, most average idea, then move away from it for a reason taken from your project.",
             "he": ""
           },
           "url": "https://github.com/mankidev/antialgorithm",
@@ -5820,13 +5346,7 @@
           "sub": {
             "en": "Claude skills",
             "he": "סקילים ל־Claude"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1FPmZPGBxz/"
-            }
-          ]
+          }
         },
         {
           "id": "aitmpl-claude-code-templates-skills-agents-commands",
@@ -5836,7 +5356,7 @@
             "he": ""
           },
           "text": {
-            "en": "A catalogue of ready-made skills, agents and commands for Claude Code.",
+            "en": "Claude Code Templates: an open-source catalogue of over 2,000 ready-made Claude Code components (subagents, slash commands, skills, hooks, MCP setups and settings), installed with one command.",
             "he": ""
           },
           "url": "https://aitmpl.com",
@@ -5849,13 +5369,7 @@
           "sub": {
             "en": "Claude Code tools",
             "he": "כלים ל־Claude Code"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1BCvS7etb3/"
-            }
-          ]
+          }
         },
         {
           "id": "smart-ralph-dev-team-plugin-for-claude-code-codex",
@@ -5865,7 +5379,7 @@
             "he": ""
           },
           "text": {
-            "en": "A plugin that runs a team of development roles inside Claude Code or Codex.",
+            "en": "Spec-driven development for Claude Code and Codex: turns a feature request into a structured spec, then carries it out one task at a time with fresh context.",
             "he": ""
           },
           "url": "https://github.com/tzachbon/smart-ralph",
@@ -5879,13 +5393,7 @@
           "sub": {
             "en": "Claude Code tools",
             "he": "כלים ל־Claude Code"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19exaPtoBZ/"
-            }
-          ]
+          }
         },
         {
           "id": "understand-anything-explain-your-codebase",
@@ -5895,7 +5403,7 @@
             "he": ""
           },
           "text": {
-            "en": "Helps you understand a codebase by explaining how it is put together.",
+            "en": "Turns any codebase, knowledge base or docs into an interactive knowledge graph you can explore, search and ask questions about. Works with Claude Code, Codex, Cursor, Copilot and more.",
             "he": ""
           },
           "url": "https://github.com/Egonex-AI/Understand-Anything",
@@ -5908,13 +5416,7 @@
           "sub": {
             "en": "Claude Code tools",
             "he": "כלים ל־Claude Code"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1UagBUSF6a/"
-            }
-          ]
+          }
         },
         {
           "id": "reanimate-clone-any-website-animation",
@@ -5924,7 +5426,7 @@
             "he": ""
           },
           "text": {
-            "en": "Recreates animations you see on websites so you can use them in your own.",
+            "en": "A Claude Code skill that reverse-engineers animations you like, from a live site, a screen recording, a GIF or a Lottie file, so you can rebuild them and build your own on top.",
             "he": ""
           },
           "url": "https://github.com/niazmorshed2007/reanimate",
@@ -5937,13 +5439,7 @@
           "sub": {
             "en": "Claude Code tools",
             "he": "כלים ל־Claude Code"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1ZHWGUmgZK/"
-            }
-          ]
+          }
         },
         {
           "id": "hyperresearch-claude-code-codex-as-a-deep-research-agent",
@@ -5953,7 +5449,7 @@
             "he": ""
           },
           "text": {
-            "en": "Turns Claude Code or Codex into an agent for deep research.",
+            "en": "A deep-research skill that turns Claude Code or OpenAI Codex into a deep-research agent, with a multi-step pipeline for gathering, checking and writing up sources.",
             "he": ""
           },
           "url": "https://github.com/jordan-gibbs/hyperresearch",
@@ -5967,13 +5463,7 @@
           "sub": {
             "en": "Claude Code tools",
             "he": "כלים ל־Claude Code"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/19gwwdApwa/"
-            }
-          ]
+          }
         },
         {
           "id": "awesome-nanobanana-pro-nano-banana-pro-prompts-github",
@@ -5983,7 +5473,7 @@
             "he": ""
           },
           "text": {
-            "en": "A collection of example prompts for Google's Nano Banana Pro image model.",
+            "en": "A curated, regularly updated collection of the best prompts and styles for Google's Nano Banana Pro image model, gathered from X, WeChat, Replicate and more.",
             "he": ""
           },
           "url": "https://github.com/ZeroLu/awesome-nanobanana-pro",
@@ -6021,13 +5511,7 @@
           "sub": {
             "en": "Prompts & tricks",
             "he": "פרומפטים וטריקים"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/1E9WEcGz4f/"
-            }
-          ]
+          }
         }
       ]
     },
@@ -6050,7 +5534,7 @@
             "he": ""
           },
           "text": {
-            "en": "Skills that help AI agents work in Blender.",
+            "en": "94 specialised skills that turn Cursor, Claude Code, Kiro and Codex into a technical-art team for Blender: modelling, shading, rigging, rendering and more.",
             "he": ""
           },
           "url": "https://github.com/arjun988/blender-skills",
@@ -6063,13 +5547,7 @@
           "sub": {
             "en": "AI + Blender",
             "he": "בינה מלאכותית ו־Blender"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1DWL4PKmAq/"
-            }
-          ]
+          }
         },
         {
           "id": "stablegen-prompt-to-textured-rigged-3d-character-in-blender",
@@ -6079,7 +5557,7 @@
             "he": ""
           },
           "text": {
-            "en": "Generates a textured, rigged 3D character in Blender from a text prompt.",
+            "en": "A Blender add-on that textures meshes and whole scenes with diffusion models through a ComfyUI server, and generates new meshes from a prompt or image. It can also rig the results.",
             "he": ""
           },
           "url": "https://github.com/sakalond/StableGen",
@@ -6094,13 +5572,7 @@
           "sub": {
             "en": "AI + Blender",
             "he": "בינה מלאכותית ו־Blender"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/193vHQTzAG/"
-            }
-          ]
+          }
         },
         {
           "id": "solidify-modifier-portal-cube-3d",
@@ -6167,11 +5639,11 @@
           "id": "the-most-famous-drum-sound-was-an-accident-audiohaze",
           "type": "video",
           "title": {
-            "en": "The most famous drum sound was an accident — AudioHaze",
+            "en": "Led Zeppelin's famous drum sound was an accident — AudioHaze",
             "he": ""
           },
           "text": {
-            "en": "The story of a famous drum sound that came about by accident.",
+            "en": "How Led Zeppelin's famous drum sound came about by accident: a short story from music-production history.",
             "he": ""
           },
           "url": "https://youtube.com/shorts/ETxdeTcjOAE",
@@ -6215,11 +5687,11 @@
           "id": "what-hi-fi-article-google-share",
           "type": "article",
           "title": {
-            "en": "What Hi-Fi? article (Google share)",
+            "en": "Hi-fi in 2076: how engineers see the next 50 years of listening (What Hi-Fi?)",
             "he": ""
           },
           "text": {
-            "en": "An article from What Hi-Fi?, the hi-fi and audio magazine.",
+            "en": "What Hi-Fi? asked industry figures from WiiM, Chord Electronics, Harman, Vertere Acoustics and Fink Audio-Consulting how music listening will change by 2076: AI-driven adaptive systems, immersive spatial audio, and sound quality possibly becoming a niche interest.",
             "he": ""
           },
           "url": "https://share.google/aTYLhwfIZsYClQ5Kf",
@@ -6285,11 +5757,11 @@
           "id": "cacophony-free-plugin-by-subaltern-games-bpb",
           "type": "article",
           "title": {
-            "en": "Cacophony — free plugin by Subaltern Games (BPB)",
+            "en": "Cacophony — free retro MIDI sequencer (BPB)",
             "he": ""
           },
           "text": {
-            "en": "Bedroom Producers Blog on Cacophony, a free audio plugin from Subaltern Games.",
+            "en": "Cacophony: a free, open-source MIDI sequencer from Subaltern Games with a retro look inspired by old games and trackers. Sketch ideas in a piano roll and arrange view, use SoundFonts, and export audio and MIDI.",
             "he": ""
           },
           "url": "https://bedroomproducersblog.com/2023/10/27/cacophony-subaltern-games/",
@@ -6312,7 +5784,7 @@
             "he": ""
           },
           "text": {
-            "en": "A free, open-source digital audio workstation for making music.",
+            "en": "A free, open-source music studio for macOS, Windows and Linux with no subscription or account: a linear arrangement timeline and a clip-launching session grid.",
             "he": ""
           },
           "url": "https://github.com/nota-daw/nota",
@@ -6325,13 +5797,7 @@
           "sub": {
             "en": "Music software",
             "he": "תוכנות מוזיקה"
-          },
-          "links": [
-            {
-              "label": "Original post",
-              "url": "https://www.facebook.com/share/r/1JX3zWx877/"
-            }
-          ]
+          }
         }
       ]
     }
